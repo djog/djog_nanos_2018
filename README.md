@@ -23,7 +23,7 @@ Samen een game maken.
 
   * [git](doc/git.md)
   * [planning](doc/planning.md)
-  * [team](team/git.md)
+  * [team](team/README.md)
 
 ## Voortgang
 
