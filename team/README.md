@@ -11,6 +11,16 @@ Naam|GitHub naam|Taken
 [Jasper](jasper/README.md)|@Brainlab009|Junior dev, ?git
 [Jesper](jesper/README.md)|@jesperdoekes|Junior dev, ?git
 [Mees](mees/README.md)|@mixmastermees|Junior dev, ?opstarten
-[Oliver](oliver/README.md)|@ollyturner|Junior dev
+[Oliver](oliver/README.md)|@ollyturner|Junior dev, ?Engels
 [Richel](richel/README.md)|@richelbilderbeek|Senior dev
 [Seny](seny/README.md)|@S3NY7|Junior dev, ?opstarten
+
+Taak|Omschrijving
+---|---
+Dev (Junior)|Doet gemakkelijke veranderingen in de code
+Dev (Medior)|Doet moeilijkere veranderingen in de code, leidt de junior devs op
+Dev (Senior)|Bepaalt de veranderingen in de code, leidt de medior devs op
+Engels|Helpt met het vertalen van moeilijk Engels naar Nederlands
+`git`|Helpt met `git`
+Opstarten|Helpt een nieuw teamlid opstarten
+Project|Helpt met hoe de 'Project' pagina werkt
