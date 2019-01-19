@@ -21,6 +21,7 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 
 Samen een game maken.
 
+  * [gedrag](doc/gedrag.md)
   * [git](doc/git.md)
   * [planning](doc/planning.md)
   * [team](team/README.md)
