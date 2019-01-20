@@ -15,6 +15,11 @@ public:
   explicit keimooi_dialog(QWidget *parent = 0);
   ~keimooi_dialog();
 
+private slots:
+  void on_button_woestijn_clicked();
+
+  void on_button_horror_clicked();
+
 private:
   Ui::keimooi_dialog *ui;
 };
