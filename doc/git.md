@@ -26,6 +26,8 @@ Hieronder wordt het preciezer uitgelegd.
 
 ![Werkwijze git](git.png)
 
+Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM) [download](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
+
 ## 1. `git clone`: klonen van de repo
 
 In een terminal of in Git Bash, type:
