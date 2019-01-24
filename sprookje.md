@@ -1,115 +1,16 @@
 <<<<<<< HEAD
-oh heet ik jesper of heet ik dom kop of is dat het zelfde
+er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
+lalalalalalallalalala
+mooi sprookjes
 =======
 <<<<<<< HEAD
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
 =======
+<<<<<<< HEAD
+hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t 
+=======
+<<<<<<< HEAD
+>>>>>>> a955b18507a5d09f2614b862d66fbccb2ec44137
+
 # Sprookje
 
 <<<<<<< HEAD
@@ -225,3 +126,5 @@ Einde!
 >>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
 >>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
 >>>>>>> 2838d8606d2a1bc2def37a0b46dac21614ea0429
+>>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
+>>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
