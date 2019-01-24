@@ -1,7 +1,15 @@
 # Sprookje
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+=======
+<<<<<<< HEAD
+Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+=======
+Er was eens een jongen genaamd Rohan hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+>>>>>>> 0608c715b3c8544eacbaca4a7912f698c5385338
+>>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
 
 
 =======
