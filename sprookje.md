@@ -1,6 +1,11 @@
 # Sprookje
 
 <<<<<<< HEAD
+Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+
+
+=======
+<<<<<<< HEAD
 Er was eens
 een mannetje,
 =======
@@ -29,4 +34,9 @@ ze trouwde
 >>>>>>> 34fc5c2beae67bcfd29611904e7fe0776231a5d0
 
 En ze leefden nog lang en gelukkig!
+<<<<<<< HEAD
 Einde!!!!!!!!!!!!!!!!!
+=======
+Einde!
+>>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
+>>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638
