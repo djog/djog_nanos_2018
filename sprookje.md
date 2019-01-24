@@ -1,7 +1,7 @@
 # Sprookje
 
 <<<<<<< HEAD
-Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+Er was eens een jongen genaamd Rohan hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 
 
 =======
@@ -14,7 +14,11 @@ Er was eens een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
+=======
 Er was ook een meisjesdrak die ook vuur kon spuwen.
+>>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
 =======
 Dat vond zijn moeder maar raar.
 
