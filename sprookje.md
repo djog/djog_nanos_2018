@@ -84,10 +84,7 @@ Er was ook een meisjesKIP die ook vuur kon spuwen.
 Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
 =======
 Er was ook een meisjesdrak die ook vuur kon spuwen.
->>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
->>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
->>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
->>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
+
 =======
 Dat vond zijn KIP maar raar.
 
