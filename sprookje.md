@@ -122,7 +122,7 @@ een groot mannetje, hij werd de reuzendwerg genoemd haha
 =======
 <<<<<<< HEAD
 Er was eens
-een groot KIPPETJE, en een tovenaar
+een groot KIPPETJE, en een tovenaar en een thanos
 =======
 <<<<<<< HEAD
 Er was eens een KIP, die graag KIPPEN spuwde.
