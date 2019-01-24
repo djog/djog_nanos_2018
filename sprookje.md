@@ -19,7 +19,7 @@ hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t
 Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 =======
 Er was eens
-een groot mannetje, hij werd de reuzendwerg genoemd haha
+een groot mannetje, hij werd de reuzendwerg genoemd
 =======
 <<<<<<< HEAD
 Er was eens
