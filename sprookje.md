@@ -1,3 +1,112 @@
+<<<<<<< HEAD
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+=======
 # Sprookje
 
 <<<<<<< HEAD
@@ -74,4 +183,14 @@ ze trouwde
 >>>>>>> 34fc5c2beae67bcfd29611904e7fe0776231a5d0
 
 En ze leefden nog lang en gelukkig!
+<<<<<<< HEAD
 Einde!
+=======
+<<<<<<< HEAD
+Einde!!!!!!!!!!!!!!!!!
+=======
+Einde!
+>>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
+>>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
+>>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+>>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
