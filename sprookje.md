@@ -4,6 +4,9 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+=======
 Er was eens
 een groot mannetje, hij werd de reuzendwerg genoemd haha
 =======
@@ -15,13 +18,18 @@ een groot KIPPETJE,
 Er was eens een KIP, die graag KIPPEN spuwde.
 =======
 Er was eens een KIP, die graag KIPPEN toverde.
+>>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
 =======
 <<<<<<< HEAD
 Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 =======
 Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 >>>>>>> 0608c715b3c8544eacbaca4a7912f698c5385338
+<<<<<<< HEAD
+>>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
+=======
 >>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+>>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
 
 
 =======
@@ -31,6 +39,20 @@ in plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land s
 
 =======
 Er was eens een tovenaar, die graag vuur toverde.
+<<<<<<< HEAD
+>>>>>>> a5qysbdkdbckh1f9770fe356d8a4a1a1ac47823199c0ac4bc5
+
+Dat vond zijn moeder ook erg raar, jij ook?
+
+<<<<<<< HaaaaaaaaaaaaaaaaaaaaAD
+Er was ook een meisjesdrak die ook vuur kon spuwen.]
+
+
+
+
+
+hallo
+=======
 <<<<<<< HEAD
 >>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
 =======
@@ -54,13 +76,18 @@ Er was ook een meisjesdrak die ook vuur kon spuwen.
 >>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
 >>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
 >>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+>>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
 =======
 Dat vond zijn KIP maar raar.
 
 <<<<<<< HEAD
 dat is toch KIIIIIIIIIIIIIIIIIIIIIIIIP.
 
+<<<<<<< HEAD
+Er was ook een meisjesdraak die geen vuur beter spuwen.
+=======
 Er was ook een MEISJESKIP die geen KIPPEN kon spuwen.
+>>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
 =======
 <<<<<<< HEAD
 Er was ook een meisjestovenaar die ook vuur kon 
