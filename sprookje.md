@@ -1,21 +1,12 @@
-<<<<<<< HEAD
 
 # Sprookje
-er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
-lalalalalalallalalala
-mooi sprookjes
-Er was eens
-een groot mannetje, hij werd de reuzendwerg genoemd haha
-een groot KIPPETJE, en een tovenaar en een thanos
-Er was eens een KIP, die graag KIPPEN spuwde.
-Er was eens een KIP, die graag KIPPEN toverde.
-Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
-Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
-Er was eens een draak, die niet graag vuur spuwde.
-in plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
-Er was eens een tovenaar, die graag vuur toverde.
+Er was eens een groot mannetje(hij werd de reuzendwerg genoemd).
+Hij had een kip, zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan Semme) 
+Mees was eens een aap, die niet graag vuur spuwde.
+In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
+Jesper was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook?
-Er was ook een meisjesdrak die ook vuur kon spuwen.
+Er was ook een rohandraak die vuur kon spuwen.
 Dat vond zijn moeder ook erg raar, jij ook?
 Er was ook een meisjesdraak die ook vuur kon spuwen.
 Er was ook een meisjesKIP die ook vuur kon spuwen.
@@ -31,16 +22,6 @@ Er was ook een meisjesKIP die ook KIPPEN kon toverren
 ze trouwde
 En ze leefden nog lang en gelukkig!
 Einde!
-Einde!!!!!!!!!!!!!!!!!
-Einde!
- 
-=======
- 
->>>>>>> 9666034d1095e32fc82cbe32cc2def4a0d1114e3
-=======
-steun jesper 
->>>>>>> c844f47aba05f1b295c0ae08118b398ca53e0ea3
-
 
 
 
