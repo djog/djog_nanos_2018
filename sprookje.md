@@ -9,7 +9,7 @@ Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper
 Er was eens
 
 Er was eens een tovenaar, die graag vuur toverde.
->>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
+>>>>>>> a5qysbdkdbckh1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
 
