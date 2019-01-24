@@ -21,7 +21,7 @@ Dat vond zijn moeder maar raar.
 <<<<<<< HEAD
 dat is toch raaaaaaaaaaaaaaaaaaaaaaar.
 
-Er was ook een meisjesdraak die geen vuur kon spuwen.
+Er was ook een meisjesdraak die geen vuur beter spuwen.
 =======
 Er was ook een meisjestovenaar die ook vuur kon toverren
 
