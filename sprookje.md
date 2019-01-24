@@ -1,9 +1,29 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+begin
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+hallo
+dit is een sprookje
+einde
+=======
+<<<<<<< HEAD
+hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t 
+=======
+>>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
+=======
+>>>>>>> b762790e5285c21f17b178feda17b22a6d2e85bb
+=======
+
+>>>>>>> 7dc6f415849d79c34e789e3c15345ffa8f58cab4
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
 lalalalalalallalalala
 mooi sprookjes
 =======
 <<<<<<< HEAD
+>>>>>>> afb5b22ff41d2e81ecab4cc11ea52c1ca0a4057e
 =======
 <<<<<<< HEAD
 hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t 
@@ -23,7 +43,7 @@ een groot mannetje, hij werd de reuzendwerg genoemd
 =======
 <<<<<<< HEAD
 Er was eens
-een groot KIPPETJE,
+een groot KIPPETJE, en een tovenaar en een thanos
 =======
 <<<<<<< HEAD
 Er was eens een KIP, die graag KIPPEN spuwde.
@@ -84,10 +104,7 @@ Er was ook een meisjesKIP die ook vuur kon spuwen.
 Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
 =======
 Er was ook een meisjesdrak die ook vuur kon spuwen.
->>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
->>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
->>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
->>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
+
 =======
 Dat vond zijn KIP maar raar.
 
@@ -121,10 +138,18 @@ Einde!
 Einde!!!!!!!!!!!!!!!!!
 =======
 Einde!
+<<<<<<< HEAD
 >>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
 >>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
 >>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
 >>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
 >>>>>>> 2838d8606d2a1bc2def37a0b46dac21614ea0429
 >>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
+<<<<<<< HEAD
+>>>>>>> a955b18507a5d09f2614b862d66fbccb2ec44137
+=======
 >>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
+>>>>>>> afb5b22ff41d2e81ecab4cc11ea52c1ca0a4057e
+=======
+
+>>>>>>> 7dc6f415849d79c34e789e3c15345ffa8f58cab4
