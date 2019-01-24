@@ -4,9 +4,7 @@
 Er was eens
 een groot mannetje,
 =======
-Er was eens een draak, die graag vuur spuwde.
-
-Maar nog liever was hij aan het ontdekken
+Er was eens een draak, die niet graag vuur spuwde.
 
 Dat vond zijn moeder heel erg raar
 
