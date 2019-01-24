@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 Er was eens
-een klein mannetje,
+een groot mannetje,
 =======
 Er was eens een draak, die graag vuur spuwde.
 
