@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 Er was eens
-een groot mannetje,
+een mannetje,
 =======
 <<<<<<< HEAD
 Er was eens een draak, die niet graag vuur spuwde.
@@ -29,4 +29,4 @@ ze trouwde
 >>>>>>> 34fc5c2beae67bcfd29611904e7fe0776231a5d0
 
 En ze leefden nog lang en gelukkig!
-Einde!
+Einde!!!!!!!!!!!!!!!!!
