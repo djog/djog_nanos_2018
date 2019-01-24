@@ -2,27 +2,27 @@
 
 <<<<<<< HEAD
 Er was eens
-een groot mannetje,
+een groot KIPPETJE,
 =======
 <<<<<<< HEAD
-Er was eens een draak, die niet graag vuur spuwde.
+Er was eens een KIP, die graag KIPPEN spuwde.
 =======
-Er was eens een tovenaar, die graag vuur toverde.
+Er was eens een KIP, die graag KIPPEN toverde.
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
 
 <<<<<<< HEAD
-Er was ook een meisjesdraak die ook vuur kon spuwen.
+Er was ook een meisjesKIP die ook vuur kon spuwen.
 =======
-Dat vond zijn moeder maar raar.
+Dat vond zijn KIP maar raar.
 
 <<<<<<< HEAD
-dat is toch raaaaaaaaaaaaaaaaaaaaaaar.
+dat is toch KIIIIIIIIIIIIIIIIIIIIIIIIP.
 
-Er was ook een meisjesdraak die geen vuur kon spuwen.
+Er was ook een MEISJESKIP die geen KIPPEN kon spuwen.
 =======
-Er was ook een meisjestovenaar die ook vuur kon toverren
+Er was ook een meisjesKIP die ook KIPPEN kon toverren
 
 ze trouwde
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
