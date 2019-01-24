@@ -1,7 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+
+=======
+<<<<<<< HEAD
+>>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
 oh heet ik jesper of heet ik dom kop of is dat het zelfde
 =======
 <<<<<<< HEAD
