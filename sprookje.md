@@ -1,24 +1,28 @@
 # Sprookje
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+=======
+Er was eens een jongen genaamd Rohan hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+>>>>>>> 0608c715b3c8544eacbaca4a7912f698c5385338
 
 
 =======
 <<<<<<< HEAD
 Er was eens
-een mannetje,
-=======
-<<<<<<< HEAD
-Er was eens een draak, die niet graag vuur spuwde.
-=======
+
 Er was eens een tovenaar, die graag vuur toverde.
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
+=======
 Er was ook een meisjesdrak die ook vuur kon spuwen.
+>>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
 =======
 Dat vond zijn moeder maar raar.
 
@@ -39,4 +43,4 @@ Einde!!!!!!!!!!!!!!!!!
 =======
 Einde!
 >>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
->>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638
+>>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
