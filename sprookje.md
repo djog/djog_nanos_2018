@@ -1,58 +1,4 @@
 
-er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
-lalalalalalallalalala
-mooi sprookjes
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
-=======
-
-=======
-<<<<<<< HEAD
->>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
-oh heet ik jesper of heet ik dom kop of is dat het zelfde
-=======
-<<<<<<< HEAD
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-jesper is gek
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
-ERR_DAT_KLOPT_NIET
 ERR_DAT_KLOPT_NIET
 ERR_DAT_KLOPT_NIET
 ERR_DAT_KLOPT_NIET
@@ -112,7 +58,7 @@ een groot mannetje, hij werd de reuzendwerg genoemd haha
 =======
 <<<<<<< HEAD
 Er was eens
-een groot KIPPETJE, en een tovenaar en een thanos
+een groot KIPPETJE,
 =======
 <<<<<<< HEAD
 Er was eens een KIP, die graag KIPPEN spuwde.
@@ -216,4 +162,3 @@ Einde!
 >>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
 >>>>>>> 2838d8606d2a1bc2def37a0b46dac21614ea0429
 >>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
->>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
