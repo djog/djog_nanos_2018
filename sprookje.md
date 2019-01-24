@@ -13,6 +13,7 @@ Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan
 Er was eens
 
 Er was eens een tovenaar, die graag vuur toverde.
+ hahha
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
