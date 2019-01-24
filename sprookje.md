@@ -1,7 +1,7 @@
 # Sprookje
 
 <<<<<<< HEAD
-Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 
 
 =======
