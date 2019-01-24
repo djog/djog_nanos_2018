@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sprookje
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
 lalalalalalallalalala
@@ -32,3 +33,6 @@ Einde!
 Einde!!!!!!!!!!!!!!!!!
 Einde!
  
+=======
+ 
+>>>>>>> 9666034d1095e32fc82cbe32cc2def4a0d1114e3
