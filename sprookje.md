@@ -16,7 +16,7 @@ Er was eens een tovenaar, die graag vuur toverde.
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
-
+'hallo ik nehdbfjhb
 <<<<<<< HEAD
 <<<<<<< HEAD
 Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
