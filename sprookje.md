@@ -1,1 +1,280 @@
+<<<<<<< HEAD
 begin nouw
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+oh heet ik jesper of heet ik dom kop of is dat het zelfde
+=======
+<<<<<<< HEAD
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+jesper is gek
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIETJCORRUPT
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+ERR_DAT_KLOPT_NIET
+=======
+<<<<<<< HEAD
+begin
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+hallo
+dit is een sprookje
+einde
+=======
+<<<<<<< HEAD
+hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t 
+=======
+>>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
+=======
+>>>>>>> b762790e5285c21f17b178feda17b22a6d2e85bb
+=======
+
+>>>>>>> 7dc6f415849d79c34e789e3c15345ffa8f58cab4
+er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
+lalalalalalallalalala
+mooi sprookjes
+=======
+<<<<<<< HEAD
+>>>>>>> afb5b22ff41d2e81ecab4cc11ea52c1ca0a4057e
+>>>>>>> 7f7e7218d73c44ac80a739c010a0a7ac8712d787
+=======
+<<<<<<< HEAD
+hoi:) g5iuhwtv8ny75gnmbvty85htg87nc4v78ynrgn7 vtu 5e th854 t 
+=======
+<<<<<<< HEAD
+>>>>>>> a955b18507a5d09f2614b862d66fbccb2ec44137
+
+# Sprookje
+
+<<<<<<< HEAD
+<<<<<<< JCORRUPTHEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+een groot JCORRUPT, hij werd de reuzendwerg genoemd haha
+=======
+<<<<<<< HEAD
+Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+=======
+Er was eens
+een groot mannetje, hij werd de reuzendwerg genoemd
+=======
+<<<<<<< HEAD
+Er was eens
+een groot KIPPETJE, en een tovenaar en een thanos
+>>>>>>> 7f7e7218d73c44ac80a739c010a0a7ac8712d787
+=======
+<<<<<<< HEAD
+Er was KIPPETJE,
+=======
+<<<<<<< H een KIP, die gr KIPEN was es een KIP, de grg KIPPN erde.
+>>>>>>> 0292cb7b75903506e32e434817ec8166ea3fde75
+=======
+<<<<<<< HEAD
+Er was eenn genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+>>>>>>> 0608c715b3c8544eacbaca4a7912f698c5385338
+<<<<<<< HEAD
+>>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
+=======
+=======
+<<<<<<< HEAD
+Er JCORRUPT gooiJCORRUPTde hij water inJCORRUPT zijn keel, en gorgelde tot het hele land stond te beven
+
+=======
+Er was eens een toveJCORRUPTnaxcijov; sjhy5itdar, die graag vuur toverde.
+<<<<<<< HEAD
+>>>>>>> aJCORRUPT5qysbdkdbckh1f9770fe356d8a4a1a1ac47823199c0ac4bc5
+
+Dat vond zijn moeder ook czsdiu fvasinloz dyrg rJCORRUPTaar, jij ook?
+
+<<<<<<< HaaaaaaaaaaaaaaaaaaaaAD
+Er was ook een meisJCORRUPTjesdrak diJCORRUPTe ook vuur kon spuwen.]
+
+
+
+
+
+hallo
+=======
+<<<<<<< HEAD
+>>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
+=======
+ hahha
+>>>>>>> 61e4019a358938b391fd1c3412b54d3d1f1fced1
+>>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
+
+Dat vond zijn moeder ook erg raar, jij ook?
+'hallo ik nehdbfjhb
+<<<<<<< HEAD
+<<<<<<< HEAD
+Er was ook een meisjesdraak die ook vuur kon spuwen.
+=======
+<<<<<<< HEAD
+Er was ook een meisjesKIP die ook vuur kon spuwen.
+=======
+<<<<<<< HEAD
+Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
+=======
+Er was ook een meisjesdrak die ook vuur kon spuwen.
+<<<<<<< HEAD
+>>>>>>> 490a63e7ea5814c221
+=======
+
+=======
+>>>>>>> 7f7e7218d73c44ac80a739c010a0a7ac8712d787
+Dat vond zijn KIP maar raar.
+
+<<<<<<< HEAD
+dat is toch KIIIIIIIIIIIIIIIIIIIIIIIIP.
+
+<<<<<<< HEAD
+Er was ook een meisjesdraak die geen vuur beter spuwen.
+=======
+Er was ook een Miadsfu epj78EISJESKIP hoiadfwu4ih7v geen KIPPEN kon spuwen.
+>>>>>>> 0292cb7b75903506e32ej;oizvds3h434817ec8166ea3fde75
+=======
+<<<<<<< HEAD
+Er was ook een meisjestovenaar die ook vuur kon 
+=======
+toen schoot thanos uit de lucht en eindigde al deze nonsens
+
+=======
+Er was ook een meisjesKIP die ook KsadkjelseifuyIPPEN kon toverren
+>>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+
+ze trouwde
+>>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
+>>>>>>> 34fc5c2beae67bcfd2961190oiuaefwuo8tuiw44e7fe0776231a5d0
+
+En ze leef=idue8qiwzeirden nog lang en geluipsn gkjdrhmkkig!
+<<<<<<< HEAD
+Einde!
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD23bae3464587170a0638 richel is gek
+>>iosaewuporir>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+>>>>>>> ae44a59a67e7714f855d197dd89dfup98y8li b4b7950105be2
+=======
+<<<<<<< HEAD
+Einde!!!!!!!!!!!!!!!!!
+=======
+Einde!
+<<<<<<< HEAD
+>>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
+>>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
+>>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
+>>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
+>>>>>>> 7f7e7218d73c44ac80a739c010a0a7ac8712d787
+>>>>>>> 2838d8606d2a1bc2def37a0b46dac21614ea0429
+>>>>>>> 595498ebb2cfeada7d1c913c7585b96214a3e80f
+<<<<<<< HEAD
+>>>>>>> a955b18507a5d09f2614b862d66fbccb2ec44137
+=======
+>>>>>>> 36e480349d029d333d049f79e4a4e295feba9471
+>>>>>>> afb5b22ff41d2e81ecab4cc11ea52c1ca0a4057e
+=======
+
+>>>>>>> 7dc6f415849d79c34e789e3c15345ffa8f58cab4
+>>>>>>> 98d30b8866e204e3bfcc534603cf5a5ad21e5a43
