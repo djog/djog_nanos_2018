@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sprookje
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
@@ -36,3 +37,6 @@ Einde!
 =======
  
 >>>>>>> 9666034d1095e32fc82cbe32cc2def4a0d1114e3
+=======
+steun jesper 
+>>>>>>> c844f47aba05f1b295c0ae08118b398ca53e0ea3
