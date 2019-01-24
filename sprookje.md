@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+oh heet ik jesper of heet ik dom kop of is dat het zelfde
+=======
+<<<<<<< HEAD
 jesper is gek
 jesper is gek
 jesper is gek
@@ -221,3 +224,4 @@ Einde!
 >>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
 >>>>>>> 1d6de10b6356882ce764e29cd23a3fc4c3f7c50d
 >>>>>>> ae44a59a67e7714f855d197dd89b4b7950105be2
+>>>>>>> 2838d8606d2a1bc2def37a0b46dac21614ea0429
