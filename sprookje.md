@@ -18,7 +18,7 @@ Er was eens een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook?
 
 <<<<<<< HEAD
-Er was ook een meisjesdraak die ook vuur kon spuwen.
+Er was ook een meisjesdrak die ook vuur kon spuwen.
 =======
 Dat vond zijn moeder maar raar.
 
