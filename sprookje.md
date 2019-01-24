@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 =======
-Er was eens een jongen genaamd Rohan hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 >>>>>>> 0608c715b3c8544eacbaca4a7912f698c5385338
 
 
@@ -13,6 +13,7 @@ Er was eens een jongen genaamd Rohan hij was cool nog cooler dan jesper en jaspe
 Er was eens
 
 Er was eens een tovenaar, die graag vuur toverde.
+ hahha
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
 Dat vond zijn moeder ook erg raar, jij ook?
