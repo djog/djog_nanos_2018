@@ -7,11 +7,7 @@ Er was eens een jongen genaamd mees hij was cool nog cooler dan jesper en jasper
 =======
 <<<<<<< HEAD
 Er was eens
-een mannetje,
-=======
-<<<<<<< HEAD
-Er was eens een draak, die niet graag vuur spuwde.
-=======
+
 Er was eens een tovenaar, die graag vuur toverde.
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 
