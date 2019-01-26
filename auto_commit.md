@@ -1,6 +1,6 @@
 Om te committen: kopieer dit: 
 
-`clear && echo Pulling... && sleep 1 && clear && git pull && clear && echo Preparing for push... && sleep 1 && clear && git add --all :/ && git commit -m "Super Gave Dingen" && clear && echo Pushing.. && sleep 1 && git push && clear && echo Pushed!`
+`clear && echo Pulling... && sleep 1 && clear && git pull && clear && echo Pushing... && sleep 1 && git add --all :/ && git commit -m "Super Gave Dingen" && git push && clear && echo Pushed!`
 
 dan doe je dit in je git bash:
 open het,
