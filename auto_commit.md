@@ -9,4 +9,3 @@ rechtermuisknop,
 plakken,
 enter,
 Gepusht!
-(voor de zekerheid, type `git pull`)
