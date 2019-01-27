@@ -28,6 +28,10 @@ Einde!
 
 
 
+<<<<<<< HEAD
+Dat vond zijn moeder helemaal niet raar.
+=======
+>>>>>>> 5f50715ea75cdcaee7b934922a1ac8d51d02549e
 
 
 
