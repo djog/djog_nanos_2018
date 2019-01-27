@@ -12,4 +12,3 @@ commiten, het is dat je bestanden naar de server ""Pusht",
 om dit te doen,
 klik even op deze link:
 https://github.com/richelbilderbeek/djog_nanos_2018/blob/master/auto_commit.md
-# dat was het voor nu!
