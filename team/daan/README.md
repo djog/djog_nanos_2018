@@ -10,4 +10,4 @@ de handleiding.
 # Committen
 commiten, het is dat je bestanden naar de server ""Pusht",
 om dit te doen,
-kijk even [HIER](auto_commit.md)
+kijk even [HIER](djog_nanos_2018/auto_commit.md)
