@@ -123,7 +123,7 @@ Er was ook een meisjesdrak die ook vuur kon spuwen.]
 hallo
 =======
 <<<<<<< HEAD
->>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
+ik ben cool
 =======
  haha
 >>>>>>> 61e4019a358938b391fd1c3412b54d3d1f1fced1
