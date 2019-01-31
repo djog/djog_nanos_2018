@@ -13,7 +13,7 @@ Dat vond zijn moeder ook erg raar, jij ook?
 
 <<<<<<< HaaaaaaaaaaaaaaaaaaaaAD
 Er was ook een meisjesdrak die ook vuur kon spuwen.
-
+ooit was er ook een draak die kauwgom kon spuwen
 
 
 
@@ -26,7 +26,7 @@ hallo
 >>>>>>> ook was er een bezem die van graven hieldt
 
 =======
-Er was ook een rohandraak die vuur kon spuwen.
+Er was ook een rohandraak die lucht kon spuwen, maar niemand geloofde hem.
 >>>>>>> 983699a0a7f2f8958f1e314c52fd59265ac207ae
 Dat vond zijn moeder ook erg raar, jij ook?
 <<<<<<< HEAD
@@ -67,7 +67,7 @@ Er was ook een MEISJESKIP die geen KIPPEN kon spuwen.
 Er was ook een meisjestovenaar die ook vuur kon 
 toen schoot thanos uit de lucht en eindigde al deze nonsens
 Er was ook een meisjesKIP die ook KIPPEN kon toverren
-ze trouwde
+ze trouwde met een kip
 En ze leefden nog lang en gelukkig!
 Einde!
 
