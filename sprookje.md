@@ -52,7 +52,7 @@ Dat vond zijn moeder ook erg raar, jij ook?
 Er was ook een andere KIP die ook vuur kon spuwen.
 =======
 <<<<<<< HEAD
-Er was ook een andere draak genaamt quinn die ook vuur kon spuwen.
+Er was ook een andere draak genaamt quinn die heel dik is
 =======
 Er was ook een andere draak die ook vuur kon spuwen.
 >>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
