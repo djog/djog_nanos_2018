@@ -11,8 +11,8 @@ Naam|GitHub naam|Taken
 [Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev
 [Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev
 [Kyrill](kyrill/README.md)|[@RedKnife47](https://github.com/RedKnife47)|Junior dev
-[Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Junior dev, ?opstarten
-[Oliver](oliver/README.md)|[@ollyturner](https://github.com/ollyturner)|Junior dev, ?Engels
+[Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Juniors dev, opstarten
+[Oliver](oliver/README.md)|[@ollyturner](https://github.com/ollyturner)|Junior dev, Engels
 [Quinn](quinn/README.md)|[@QuintinoM2](https://github.com/QuintinoM2)|Junior dev
 [Richel](richel/README.md)|[@richelbilderbeek](https://github.com/richelbilderbeek)|Senior dev
 [Rohan](rohan/README.md)|[@rohangraaf](https://github.com/rohangraaf)|Junior dev
