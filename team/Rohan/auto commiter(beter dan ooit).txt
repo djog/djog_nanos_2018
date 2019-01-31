@@ -1,0 +1,1 @@
+ echo ComLine Door Rohan && sleep 1 && clear && echo Pulling... && sleep 1 && clear && git pull && clear && echo __WIZARD__ clear && clear && echo Pushing... && sleep 1 && git add --all :/ && git commit -m "Super Gave Dingen" && git push && clear && clear &&echo Gelukt   
