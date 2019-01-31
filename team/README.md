@@ -7,12 +7,15 @@ Op voornaam, op alfabet:
 
 Naam|GitHub naam|Taken
 ---|---|---
-[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev, ?project
-[Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev, ?git
-[Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev, ?git
+[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev, ?git
+[Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev
+[Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev
+[Kyrill](kyrill/README.md)|[@RedKnife47](https://github.com/RedKnife47)|Junior dev
 [Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Junior dev, ?opstarten
 [Oliver](oliver/README.md)|[@ollyturner](https://github.com/ollyturner)|Junior dev, ?Engels
+[Quinn](quinn/README.md)|[@QuintinoM2](https://github.com/QuintinoM2)|Junior dev
 [Richel](richel/README.md)|[@richelbilderbeek](https://github.com/richelbilderbeek)|Senior dev
+[Rohan](rohan/README.md)|[@rohangraaf](https://github.com/rohangraaf)|Junior dev
 [Seny](seny/README.md)|[@S3NY7](https://github.com/S3NY7)|Junior dev, ?opstarten
 
 Taak|Omschrijving
