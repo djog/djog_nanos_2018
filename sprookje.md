@@ -33,12 +33,12 @@ Dat vond zijn moeder ook erg raar, jij ook?
 'hallo ik nehdbfjhb
 <<<<<<< HEAD
 <<<<<<< HEAD
-Er was ook een meisjesKIP die ook vuur kon spuwen.
+Er was ook een andere KIP die ook vuur kon spuwen.
 =======
 <<<<<<< HEAD
-Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
+Er was ook een andere draak genaamt quinn die ook vuur kon spuwen.
 =======
-Er was ook een meisjesdrak die ook vuur kon spuwen.
+Er was ook een andere draak die ook vuur kon spuwen.
 >>>>>>> 490a63e7ea5814c2215b58715e11a157956b7660
 >>>>>>> ab24b7f4d81b039e83e23bff1907b90c86197154
 =======
@@ -47,18 +47,19 @@ Dat vond zijn KIP maar raar.
 <<<<<<< HEAD
 dat is toch KIIIIIIIIIIIIIIIIIIIIIIIIP.
 
-Er was ook een MEISJESKIP die geen KIPPEN kon spuwen.
+Er was ook een andere KIP die geen KIPPEN kon spuwen.
 =======
-Er was ook een meisjesKIP die ook KIPPEN kon toverren
+Er was ook een andere KIP die ook KIPPEN kon toverren
 
 ze trouwde
 >>>>>>> a5e1f9770fe356d8a4a1a1ac47823199c0ac4bc5
 >>>>>>> 34fc5c2beae67bcfd29611904e7fe0776231a5d0
 
-En ze leefden nog lang en gelukkig!
+En ze leefden nog lang en ongelukkig!
 <<<<<<< HEAD
 Einde!!!!!!!!!!!!!!!!!
 =======
 Einde!
 >>>>>>> 9e5a2a23cfc251ce973ec34f8906702e7db1ff5b
 >>>>>>> 005a7132f09c6f94ec4b23bae3464587170a0638 richel is gek
+nee hoor dat is niet leuk om te zeggen
