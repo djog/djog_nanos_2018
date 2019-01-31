@@ -1,7 +1,10 @@
 # Sprookje
 
-Er was eens een dwerg die veel groter was dan de andere dwergen.
-Hij had een kip, zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan Semme) 
+Er was eens een dwerg die veel groter was 
+dan de andere dwergen.
+Hij had een kip die ook bang was voor hem,
+ook al voerde hij de kip elke dag trouw.
+zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan Semme) 
 Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
