@@ -20,7 +20,7 @@ Hier een overzichtje:
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
- * (hoeft niet) `git status`: uitvinden wat ik kan doen
+ * (hoeft niet) 5. `git status`: uitvinden wat ik kan doen
 
 Hieronder wordt het preciezer uitgelegd.
 
@@ -72,8 +72,27 @@ In de folder `djog_nanos_2018` doe je:
 git pull
 ```
 
-## `git status`: uitvinden wat ik kan doen
+## 5. `git status`: uitvinden wat ik kan doen
 
 ```
 git status
 ```
+
+## 6. instellen wie je bent
+
+Om uit te vinden wie `git` denkt dat je bent:
+
+```
+git config --global user.name; git config --global user.email
+```
+
+Om in te stellen wie je bent:
+
+```
+git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
+```
+
+ * Vul inplaats van `richelbilderbeek` jouw GitHub naam in
+ * Vul inplaats van `richel@richelbilderbeek.nl` jouw emailadres naam in
+
+
