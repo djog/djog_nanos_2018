@@ -1,3 +1,4 @@
+(Bekijk dit op de github pagina)
 (C) Dit is gemaakt door daan, editen is niet toegestaan! (Vooral voor Rohan!)
 Om te committen: kopieer dit: 
 
