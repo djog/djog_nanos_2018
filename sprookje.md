@@ -9,7 +9,7 @@ een groot mannetje, hij werd de reuzendwerg genoemd haha
 een groot KIPPETJE, en een tovenaar en een thanos
 Er was eens een KIP, die graag KIPPEN spuwde.
 Er was eens een KIP, die graag KIPPEN toverde.
-Er was eens een jongen genaamd jesper hij was cool nog cooler dan mees en jasper vooral ...... <-VOOR_DE_VOLGENDE)
+Er was eens een jongen genaamd mees hij was cool nog cooler dan seb  en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 Er was eens een draak, die niet graag vuur spuwde.
 in plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
@@ -33,19 +33,12 @@ En ze leefden nog lang en gelukkig!
 Einde!
 Einde!!!!!!!!!!!!!!!!!
 Einde!
+ grappje 
+het is geen eind 
+trololololol
+er was een dame met rokkje een een sigaar
+trolololololololololol
  
-=======
- 
->>>>>>> 9666034d1095e32fc82cbe32cc2def4a0d1114e3
-=======
-steun jesper 
->>>>>>> c844f47aba05f1b295c0ae08118b398ca53e0ea3
-
-
-
-
-
-
 
 
 
