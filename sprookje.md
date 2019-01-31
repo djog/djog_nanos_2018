@@ -11,7 +11,7 @@ Jesper was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook?
 <<<<<<< HEAD
 
-
+<<<<<<< HaaaaaaaaaaaaaaaaaaaaAD
 Er was ook een meisjesdrak die ook vuur kon spuwen.
 ooit was er ook een draak die kauwgom kon spuwen
 
@@ -19,12 +19,7 @@ ooit was er ook een draak die kauwgom kon spuwen
 
 hallo
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
-ik ben cool
-=======
 <<<<<<< ook was er een boek die van lezen hield
->>>>>>> 43b3c295571a4580211c15e04631eac3a465b984
 =======
  haha
 >>>>>>> 61e4019a358938b391fd1c3412b54d3d1f1fced1
@@ -45,7 +40,7 @@ Er was ook een MEISJESKIP die geen KIPPEN kon spuwen.
 Er was ook een meisjestovenaar die ook vuur kon 
 toen schoot thanos uit de lucht en eindigde al deze nonsens
 Er was ook een meisjesKIP die ook KIPPEN kon toverren
-ze trouwde
+ze trouwde met een kip
 En ze leefden nog lang en gelukkig!
 Einde!
 
