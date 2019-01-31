@@ -2,7 +2,7 @@ Om te commiten:
 kopieer dit:
 
 
- clear && echo AutoPush Gemaakt door daan. && sleep 1 && clear && echo Pulling.. && sleep 1 && clear && echo preparing for commit... && sleep 1 && clear && git pull && git add --all :/ && git commit -m "Gave dingen" && clear && echo Pushing... && sleep 1 &&  git push && clear && echo Completed!
+ clear && echo AutoPush Gemaakt door Rohan. && sleep 1 && clear && echo Pulling.. && sleep 1 && clear && echo preparing for commit... && sleep 1 && clear && git pull && git add --all :/ && git commit -m "Gave dingen" && clear && echo Pushing... && sleep 1 &&  git push && clear && echo Completed! door RohanS
 
 
 
