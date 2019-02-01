@@ -5,7 +5,7 @@ voor je goed samen kunt werken:
 
 ## 0. Waar staat ons project?
 
- * Wie helpt je hierbij: ?@mixmastermees, ?@S3NY7 
+ * Wie helpt je hierbij: @mixmastermees, ?@S3NY7 
 
 Iemand zal je laten zien waar onze website staat.
 
