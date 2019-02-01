@@ -16,6 +16,7 @@ Hierdoor kun je altijd terug gaan naar eerdere versies.
 
 Hier een overzichtje:
 
+ * `0.` instellen wie je bent (eenmalig)
  * `1.` `git clone`: klonen van de repo
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
@@ -27,6 +28,23 @@ Hieronder wordt het preciezer uitgelegd.
 ![Werkwijze git](git.png)
 
 Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM), [download](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
+
+## 0. instellen wie je bent
+
+Om in te stellen wie je bent:
+
+```
+git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
+```
+
+ * Vul inplaats van `richelbilderbeek` jouw GitHub naam in
+ * Vul inplaats van `richel@richelbilderbeek.nl` jouw emailadres naam in
+
+Om uit te vinden wie `git` denkt dat je bent:
+
+```
+git config --global user.name; git config --global user.email
+```
 
 ## 1. `git clone`: klonen van de repo
 
@@ -77,22 +95,4 @@ git pull
 ```
 git status
 ```
-
-## 6. instellen wie je bent
-
-Om uit te vinden wie `git` denkt dat je bent:
-
-```
-git config --global user.name; git config --global user.email
-```
-
-Om in te stellen wie je bent:
-
-```
-git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
-```
-
- * Vul inplaats van `richelbilderbeek` jouw GitHub naam in
- * Vul inplaats van `richel@richelbilderbeek.nl` jouw emailadres naam in
-
 
