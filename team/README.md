@@ -7,7 +7,7 @@ Op voornaam, op alfabet:
 
 Naam|GitHub naam|Taken
 ---|---|---
-[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev, ?git
+[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev
 [Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev
 [Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev
 [Kyrill](kyrill/README.md)|[@RedKnife47](https://github.com/RedKnife47)|Junior dev
