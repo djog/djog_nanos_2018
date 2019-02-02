@@ -63,32 +63,21 @@ cd djog_nanos_2018
 ```
 
 
-## 2. `git add` en `git commit`: jouw veranderingen opslaan
+## 2. jouw veranderingen opslaan.
 
 In de folder `djog_nanos_2018` doe je:
 
-```
-git add --all :/
-git commit -m "Iets keislims"
-```
+`clear && echo ComLine Door daan && sleep 1 && clear && echo __WIZARD__ echo Pulling... && sleep 1 && clear && git pull && clear && echo __WIZARD__ clear && clear && echo __WIZARD__ echo Pushing... && sleep 1 && git add --all :/ && git commit -m "Super Gave Dingen" && git push && clear && clear && echo __WIZARD__ echo Pushed!
 
-## 3. `git push`: jouw code delen met de rest
+`
 
-In de folder `djog_nanos_2018` doe je:
-
-```
-git push
-```
-
-Als `git` een error geeft, update dan eerst jouw code (stap 4, hieronder).
-
-## 4. `git pull`: jouw code updaten met het werk van de rest
-
-In de folder `djog_nanos_2018` doe je:
-
-```
-git pull
-```
+dan doe je dit in je git bash:
+open het,
+ga naar de map djog nanos, (door `cd djog_nanos_2018` te doen)
+rechtermuisknop,
+plakken,
+enter,
+Gepusht!
 
 ## 5. `git status`: uitvinden wat ik kan doen
 
