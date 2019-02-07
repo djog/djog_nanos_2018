@@ -1,12 +1,1 @@
-jhiuhi
-
-jhiuhi
-
-jhiuhi
-
-jhiuhi
-
-jhiuhi
-
-jhiuhi
-
+er was eens een programeurdie ik haatte hij verwijderde het hele sprookje (hij heet jasper)
