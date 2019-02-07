@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sprookje
 
 Er was eens een dwerg die veel groter was 
@@ -64,3 +65,6 @@ Dat vond zijn moeder helemaal niet raar.
 
 
  
+=======
+hoi ik ben rohan en ik ben een mafkees en raar einde
+>>>>>>> 8a2583ea9378e2a132592a1edd21971ee5c533e9
