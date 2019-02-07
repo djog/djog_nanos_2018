@@ -24,7 +24,7 @@ hallo
 ik ben cool
 =======
 <<<<<<< ook was er een boek die van lezen hield
->>>>>>> 43b3c295571a4580211c15e04631eac3a465b984
+
 =======
  haha
 >>>>>>> 61e4019a358938b391fd1c3412b54d3d1f1fced1
