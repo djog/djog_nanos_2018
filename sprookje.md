@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-neeeeeeeee
-=======
-JASPER IS KUTJASPER IS KUTJASPER IS KUTJASPER IS KUTJASPER IS KUTJASPER IS KUTJASPER IS KUTJASPER IS KUT
->>>>>>> f91e3c98569d78dbb1eefedbd7a311f5a83bb141
+dit sprookje bestaat niet meer kinderen, sorry kleintjes
+Kinderen:aaaaaaahhhhh...
+Het Einde
