@@ -25,7 +25,7 @@ zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel co
 Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
-Dat vond zijn moeder ook erg raar, jij ook?
+Dat vond zijn moeder ook erg raar, jij ook? ja
 <<<<<<< HEAD
 
 
