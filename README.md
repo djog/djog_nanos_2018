@@ -30,4 +30,4 @@ Samen een game maken.
 
 ## Links
 
- * [Dojo](https://github.com/richelbilderbeek/DJOG_nanos_2018)
+ * [Dojo](https://github.com/richelbilderbeek/Dojo)
