@@ -35,6 +35,8 @@ de vissen werden wel levend gekookt daarentegen.
 
 Dat vond zijn moeder maar raar.
 
+maar tegen gebraden vis had ze geen bezwaar.
+
 Er was ook een meisjesdraak die geen vuur kon spuwen.
 
 En ze leefden nog lang en gelukkig!!
