@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Sprookje
 
 Er was eens een dwerg die veel groter was 
@@ -68,3 +69,7 @@ Dat vond zijn moeder helemaal niet raar.
 =======
 hoi ik ben rohan en ik ben een mafkees en raar einde
 >>>>>>> 8a2583ea9378e2a132592a1edd21971ee5c533e9
+=======
+Once upon a time a prinsess said "Team Red Cobra are the best"
+Then she turned into Richel.
+>>>>>>> f4a981e022c5800935b002d390b83dfb3b93b0aa
