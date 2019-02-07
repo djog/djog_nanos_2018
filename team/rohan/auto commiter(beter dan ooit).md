@@ -1,0 +1,1 @@
+Als je iets leuks wil zien, ga dan naar de link https://github.com/richelbilderbeek/djog_nanos_2018/blob/master/team/daan/link.md
