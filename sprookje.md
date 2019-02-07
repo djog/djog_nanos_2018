@@ -1,5 +1,13 @@
 # Sprookje
+<<<<<<< HEAD
 Er was eens een draak, die graag vuur spuwde.
+=======
+
+Er was eens een draak, die graag vuur spuwde.
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> c468b16958fed603ed4e0f50de0fa7e74b2075cf
 Er was eens een dwerg die veel groter was 
 dan de andere dwergen.
 Hij had een hond die ook bang was voor hem,
@@ -18,8 +26,16 @@ Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook? ja
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 05a6bc045474c63910859b76d3a5d74d33eac6f5
+>>>>>>> c468b16958fed603ed4e0f50de0fa7e74b2075cf
 
 Maar nog liever was hij onderwater aan het duiken.
+
+de vissen werden wel levend gekookt daarentegen.
 
 Dat vond zijn moeder maar raar.
 
