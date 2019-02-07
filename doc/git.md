@@ -22,6 +22,7 @@ Hier een overzichtje:
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
  * (hoeft niet) 5. `git status`: uitvinden wat ik kan doen
+ * (hoeft niet) 6. De Daan truuk
 
 Hieronder wordt het preciezer uitgelegd.
 
