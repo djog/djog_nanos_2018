@@ -16,17 +16,36 @@ Hierdoor kun je altijd terug gaan naar eerdere versies.
 
 Hier een overzichtje:
 
+ * `0.` instellen wie je bent (eenmalig)
  * `1.` `git clone`: klonen van de repo
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
  * (hoeft niet) 5. `git status`: uitvinden wat ik kan doen
+ * (hoeft niet) 6. De Daan truuk
 
 Hieronder wordt het preciezer uitgelegd.
 
 ![Werkwijze git](git.png)
 
 Je kunt ook een video bekijken: [YouTube](https://youtu.be/lzIYHH5JbmM), [download](http://richelbilderbeek.nl/git_voor_jonge_tieners.ogv)
+
+## 0. instellen wie je bent
+
+Om in te stellen wie je bent:
+
+```
+git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
+```
+
+ * Vul inplaats van `richelbilderbeek` jouw GitHub naam in
+ * Vul inplaats van `richel@richelbilderbeek.nl` jouw emailadres naam in
+
+Om uit te vinden wie `git` denkt dat je bent:
+
+```
+git config --global user.name; git config --global user.email
+```
 
 ## 1. `git clone`: klonen van de repo
 
@@ -78,21 +97,18 @@ git pull
 git status
 ```
 
-## 6. instellen wie je bent
+## 6. Daan truuk: jouw veranderingen opslaan.
 
-Om uit te vinden wie `git` denkt dat je bent:
-
-```
-git config --global user.name; git config --global user.email
-```
-
-Om in te stellen wie je bent:
+In de folder `djog_nanos_2018` doe je:
 
 ```
-git config --global user.name "richelbilderbeek"; git config --global user.email "richel@richelbilderbeek.nl"
+clear && echo ComLine Door daan && sleep 1 && clear && echo __WIZARD__ echo Pulling... && sleep 1 && clear && git pull && clear && echo __WIZARD__ clear && clear && echo __WIZARD__ echo Pushing... && sleep 1 && git add --all :/ && git commit -m "Super Gave Dingen" && git push && clear && clear && echo __WIZARD__ echo Pushed!
 ```
 
- * Vul inplaats van `richelbilderbeek` jouw GitHub naam in
- * Vul inplaats van `richel@richelbilderbeek.nl` jouw emailadres naam in
-
-
+dan doe je dit in je git bash:
+open het,
+ga naar de map djog nanos, (door `cd djog_nanos_2018` te doen)
+rechtermuisknop,
+plakken,
+enter,
+Gepusht!
