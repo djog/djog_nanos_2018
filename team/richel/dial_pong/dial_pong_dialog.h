@@ -14,6 +14,7 @@ class dial_pong_dialog : public QDialog
 public:
   explicit dial_pong_dialog(QWidget *parent = 0);
   ~dial_pong_dialog();
+  void keyPressEvent(QKeyEvent *);
 
 private:
   Ui::dial_pong_dialog *ui;
