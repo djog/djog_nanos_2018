@@ -20,7 +20,6 @@ hallo
 
 
 hallo
-=======
 <<<<<<< HEAD
 <<<<<<< HEAD
 ik ben cool
