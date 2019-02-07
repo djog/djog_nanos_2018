@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 # Sprookjes #
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Sprookje
->>>>>>> b25baff6ff8fd5dcb77d4dc422b99e702a4402f9
 
-Er was eens een dwerg die veel groter was 
+Er was eens een dwereg die veel groter was 
 dan de andere dwergen.
-<<<<<<< HEAD
 Hij had een hond die ook bang was voor hem,
 ook al voerde hij de hond elke dag trouw.
 zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan Semme.) 
@@ -18,39 +11,6 @@ Oliver was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook?
 Er was ook een rohandraak die vuur kon spuwen.
 Er vond zijn moeder ook erg raar, jij ook?
-=======
-Hij had een kip die ook bang was voor hem,
-ook al voerde hij de kip elke dag trouw.
-zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan dan de kip) 
-Mees was eens een aap, die niet graag vuur spuwde.
-In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
-Jesper was een tovenaar, die graag vuur toverde.
-Dat vond zijn moeder ook erg raar, jij ook?
-<<<<<<< HEAD
-
-
-Er was ook een meisjesdrak die ook vuur kon spuwen.
-
-hallo
-
-
-hallo
-<<<<<<< HEAD
-<<<<<<< HEAD
-ik ben cool
-=======
-<<<<<<< ook was er een boek die van lezen hield
-
-=======
- haha
->>>>>>> 61e4019a358938b391fd1c3412b54d3d1f1fced1
->>>>>>> ook was er een bezem die van graven hieldt
-
-=======
-Er was ook een rohandraak die lucht kon spuwen, maar niemand geloofde hem.
->>>>>>> 983699a0a7f2f8958f1e314c52fd59265ac207ae
-Dat vond zijn moeder ook erg raar, jij ook?
->>>>>>> b25baff6ff8fd5dcb77d4dc422b99e702a4402f9
 Er was ook een meisjesdraak die ook vuur kon spuwen.
 Er was ook een meisjesKIP die ook vuur kon spuwen.
 Er was ook een meisjesdraak genaamt quinn die ook vuur kon spuwen.
@@ -64,7 +24,7 @@ toen schoot thanos uit de lucht en eindigde al deze nonsens
 Er was ook een meisjesKIP die ook KIPPEN kon toverren
 ze trouwde
 En ze leefden nog lang en gelukkig!
-Einde!
+Start!
 
 
 
@@ -81,13 +41,3 @@ Dat vond zijn moeder helemaal niet raar.
 
 
  
-<<<<<<< HEAD
-=======
-=======
-hoi ik ben rohan en ik ben een mafkees en raar einde
->>>>>>> 8a2583ea9378e2a132592a1edd21971ee5c533e9
-=======
-Once upon a time a prinsess said "Team Red Cobra are the best"
-Then she turned into Richel.
->>>>>>> f4a981e022c5800935b002d390b83dfb3b93b0aa
->>>>>>> b25baff6ff8fd5dcb77d4dc422b99e702a4402f9
