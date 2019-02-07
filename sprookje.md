@@ -26,8 +26,6 @@ Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook? ja
-<<<<<<< HEAD
-
 
 Er was ook een meisjesdrak die ook vuur kon spuwen.
 
