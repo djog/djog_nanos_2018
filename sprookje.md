@@ -25,8 +25,6 @@ Jesper was een tovenaar, die graag vuur toverde.
 Dat vond zijn moeder ook erg raar, jij ook? ja
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
->>>>>>> 0b0a67c5d6680a8b6e8d05dbe01d64d2d399a2e9
 
 Maar nog liever was hij onderwater aan het duiken.
 >>>>>>> ceb3ada9489203749df53bf23677420ae75daa42
