@@ -1,3 +1,2 @@
-# oliver
-
-In deze folder kun je je eigen code en aantekeningen kwijt.
+# Oliver
+[@ollyturner](https://github.com/ollyturner)|Junior dev, English
