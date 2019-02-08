@@ -7,3 +7,5 @@ Wanneer    |Les|Wat
 31 jan 2019| 3 |Oefenen `git` en Qt Creator, voorstellen game
  7 feb 2019| 4 |Oefenen `git` en Qt Creator, stemmen voor game
 14 feb 2019| 5 |Gaan we verder?
+...        | . | ...
+ 9 mrt 2019| . |Open Dag DJO: ?game presenteren?
