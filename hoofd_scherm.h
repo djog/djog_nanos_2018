@@ -1,0 +1,29 @@
+#ifndef HOOFD_SCHERM_H
+#define HOOFD_SCHERM_H
+
+#include "kamer_soort.h"
+#include <QDialog>
+
+namespace Ui {
+  class hoofd_scherm;
+}
+
+class hoofd_scherm : public QDialog
+{
+  Q_OBJECT
+
+public:
+  explicit hoofd_scherm(QWidget *parent = 0);
+  ~hoofd_scherm();
+
+private:
+  Ui::hoofd_scherm *ui;
+
+  ///Kamer waar de speler nu is
+  kamer_soort m_kamer;
+
+  ///Laat het scherm zien van de kamer waar de speler nu is
+  void laat_kamer_zien();
+};
+
+#endif // HOOFD_SCHERM_H
