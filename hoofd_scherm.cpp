@@ -1,4 +1,5 @@
 #include "hoofd_scherm.h"
+#include "kamer_quinn.h"
 #include "kamer_richel.h"
 #include "ui_hoofd_scherm.h"
 
@@ -20,11 +21,23 @@ hoofd_scherm::~hoofd_scherm()
   delete ui;
 }
 
+void hoofd_scherm::ga_naar(const kamer_soort kamer)
+{
+  m_kamer = kamer;
+  laat_kamer_zien();
+}
+
 void hoofd_scherm::laat_kamer_zien()
 {
-  for (const auto kindje: ui->kamer->layout()->children())
+  delete ui->kamer->layout();
+  ui->kamer->setLayout(new QVBoxLayout);
+  switch (m_kamer)
   {
-    delete kindje;
+    case kamer_soort::richel:
+      ui->kamer->layout()->addWidget(new kamer_richel(this));
+      break;
+    case kamer_soort::quinn:
+      ui->kamer->layout()->addWidget(new kamer_quinn(this));
+      break;
   }
-  ui->kamer->layout()->addWidget(new kamer_richel);
 }

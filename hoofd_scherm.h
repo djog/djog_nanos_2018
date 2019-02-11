@@ -16,6 +16,9 @@ public:
   explicit hoofd_scherm(QWidget *parent = 0);
   ~hoofd_scherm();
 
+  ///Ga naar een kamer
+  void ga_naar(const kamer_soort kamer);
+
 private:
   Ui::hoofd_scherm *ui;
 

@@ -27,13 +27,16 @@ SOURCES += \
         main.cpp \
         hoofd_scherm.cpp \
     kamer_richel.cpp \
+    kamer_quinn.cpp \
     kamer_soort.cpp
 
 HEADERS += \
         hoofd_scherm.h \
     kamer_richel.h \
+    kamer_quinn.h \
     kamer_soort.h
 
 FORMS += \
-        hoofd_scherm.ui \
+    hoofd_scherm.ui \
+    kamer_quinn.ui \
     kamer_richel.ui

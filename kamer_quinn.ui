@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>kamer_richel</class>
- <widget class="QWidget" name="kamer_richel">
+ <class>kamer_quinn</class>
+ <widget class="QWidget" name="kamer_quinn">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -16,24 +16,24 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>140</x>
-     <y>130</y>
+     <x>150</x>
+     <y>140</y>
      <width>98</width>
      <height>17</height>
     </rect>
    </property>
    <property name="text">
-    <string>Richel's kamer</string>
+    <string>Quinn's kamer</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QPushButton" name="knop_w">
+  <widget class="QPushButton" name="knop_nw">
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>150</y>
+     <y>10</y>
      <width>89</width>
      <height>25</height>
     </rect>
@@ -45,7 +45,7 @@
   <widget class="QPushButton" name="knop_n">
    <property name="geometry">
     <rect>
-     <x>210</x>
+     <x>170</x>
      <y>10</y>
      <width>89</width>
      <height>25</height>
@@ -55,11 +55,11 @@
     <string/>
    </property>
   </widget>
-  <widget class="QPushButton" name="knop_zo">
+  <widget class="QPushButton" name="knop_o">
    <property name="geometry">
     <rect>
-     <x>270</x>
-     <y>270</y>
+     <x>300</x>
+     <y>130</y>
      <width>89</width>
      <height>25</height>
     </rect>
