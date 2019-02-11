@@ -10,6 +10,7 @@ Naam|GitHub naam|Taken
 [Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev
 [Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev
 [Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev
+[Judith](judith/README.md)|[@judithbonga](https://github.com/judithbonga)|Junior dev
 [Kyrill](kyrill/README.md)|[@RedKnife47](https://github.com/RedKnife47)|Junior dev
 [Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Juniors dev, opstarten
 [Oliver Turner](oliver/README.md)|[@ollyturner](https://github.com/ollyturner)|Junior dev, Engels
