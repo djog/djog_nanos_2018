@@ -40,3 +40,6 @@ FORMS += \
     hoofd_scherm.ui \
     kamer_quinn.ui \
     kamer_richel.ui
+
+RESOURCES += \
+    djog_nanos_2018.qrc

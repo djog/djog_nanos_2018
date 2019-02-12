@@ -71,8 +71,26 @@
       </item>
       <item>
        <widget class="QLabel" name="label_team_red_cobra">
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>16777215</width>
+          <height>200</height>
+         </size>
+        </property>
         <property name="text">
-         <string>Team Red Cobra</string>
+         <string/>
+        </property>
+        <property name="pixmap">
+         <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/red_cobra.png</pixmap>
+        </property>
+        <property name="scaledContents">
+         <bool>true</bool>
         </property>
         <property name="alignment">
          <set>Qt::AlignCenter</set>
@@ -88,6 +106,8 @@
   </layout>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
- <resources/>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
  <connections/>
 </ui>
