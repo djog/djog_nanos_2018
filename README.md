@@ -28,7 +28,7 @@ Samen een game maken.
 
 ## Voortgang
 
-![20190212](20190212.png)
+![20190212](plaatjes/20190212.png)
 
 ## Links
 
