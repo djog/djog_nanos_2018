@@ -19,6 +19,9 @@ public:
   ///Ga naar een kamer
   void ga_naar(const kamer_soort kamer);
 
+private slots:
+  void on_spinBox_valueChanged(int arg1);
+
 private:
   Ui::hoofd_scherm *ui;
 

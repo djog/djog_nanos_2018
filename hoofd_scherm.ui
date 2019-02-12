@@ -47,6 +47,29 @@
        </spacer>
       </item>
       <item>
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>Ga naar kamer</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QSpinBox" name="spinBox"/>
+      </item>
+      <item>
+       <spacer name="verticalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
        <widget class="QLabel" name="label_team_red_cobra">
         <property name="text">
          <string>Team Red Cobra</string>
@@ -60,7 +83,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QWidget" name="kamer" native="true"/>
+    <widget class="QStackedWidget" name="kamers"/>
    </item>
   </layout>
  </widget>

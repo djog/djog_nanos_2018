@@ -11,8 +11,10 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   m_kamer{kamer_soort::richel}
 {
   ui->setupUi(this);
-  ui->kamer->setLayout(new QVBoxLayout);
-  assert(ui->kamer->layout());
+  ui->kamers->addWidget(new kamer_richel(this, this));
+  ui->kamers->addWidget(new kamer_quinn(this, this));
+  //ui->kamer->setLayout(new QVBoxLayout);
+  //assert(ui->kamer->layout());
   laat_kamer_zien();
 }
 
@@ -29,15 +31,19 @@ void hoofd_scherm::ga_naar(const kamer_soort kamer)
 
 void hoofd_scherm::laat_kamer_zien()
 {
-  delete ui->kamer->layout();
-  ui->kamer->setLayout(new QVBoxLayout);
   switch (m_kamer)
   {
     case kamer_soort::richel:
-      ui->kamer->layout()->addWidget(new kamer_richel(this));
+      ui->kamers->setCurrentIndex(0);
       break;
     case kamer_soort::quinn:
-      ui->kamer->layout()->addWidget(new kamer_quinn(this));
+      ui->kamers->setCurrentIndex(1);
       break;
   }
+}
+
+void hoofd_scherm::on_spinBox_valueChanged(int arg1)
+{
+  m_kamer = static_cast<kamer_soort>(arg1);
+  laat_kamer_zien();
 }
