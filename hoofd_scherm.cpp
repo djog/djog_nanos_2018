@@ -1,4 +1,5 @@
 #include "hoofd_scherm.h"
+#include "kamer_daan.h"
 #include "kamer_quinn.h"
 #include "kamer_richel.h"
 #include "ui_hoofd_scherm.h"
@@ -11,10 +12,9 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   m_kamer{kamer_soort::richel}
 {
   ui->setupUi(this);
+  ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_richel(this, this));
   ui->kamers->addWidget(new kamer_quinn(this, this));
-  //ui->kamer->setLayout(new QVBoxLayout);
-  //assert(ui->kamer->layout());
   laat_kamer_zien();
 }
 
@@ -31,15 +31,7 @@ void hoofd_scherm::ga_naar(const kamer_soort kamer)
 
 void hoofd_scherm::laat_kamer_zien()
 {
-  switch (m_kamer)
-  {
-    case kamer_soort::richel:
-      ui->kamers->setCurrentIndex(0);
-      break;
-    case kamer_soort::quinn:
-      ui->kamers->setCurrentIndex(1);
-      break;
-  }
+  ui->kamers->setCurrentIndex(static_cast<int>(m_kamer));
 }
 
 void hoofd_scherm::on_spinBox_valueChanged(int arg1)

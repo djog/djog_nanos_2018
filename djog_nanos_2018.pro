@@ -24,22 +24,25 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 
 SOURCES += \
-        main.cpp \
-        hoofd_scherm.cpp \
-    kamer_richel.cpp \
-    kamer_quinn.cpp \
-    kamer_soort.cpp
+  main.cpp \
+  hoofd_scherm.cpp \
+  kamer_daan.cpp \
+  kamer_richel.cpp \
+  kamer_quinn.cpp \
+  kamer_soort.cpp
 
 HEADERS += \
-        hoofd_scherm.h \
-    kamer_richel.h \
-    kamer_quinn.h \
-    kamer_soort.h
+  hoofd_scherm.h \
+  kamer_daan.h \
+  kamer_richel.h \
+  kamer_quinn.h \
+  kamer_soort.h
 
 FORMS += \
-    hoofd_scherm.ui \
-    kamer_quinn.ui \
-    kamer_richel.ui
+  hoofd_scherm.ui \
+  kamer_daan.ui \
+  kamer_quinn.ui \
+  kamer_richel.ui
 
 RESOURCES += \
     djog_nanos_2018.qrc

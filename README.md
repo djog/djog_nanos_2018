@@ -24,9 +24,11 @@ Samen een game maken.
   * [planning](doc/planning.md)
   * [team](team/README.md)
 
+![Kaart](doc/kaart.png)
+
 ## Voortgang
 
-...
+![20190212](20190212.png)
 
 ## Links
 
