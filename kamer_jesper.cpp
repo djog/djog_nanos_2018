@@ -16,3 +16,10 @@ kamer_jesper::~kamer_jesper()
 {
   delete ui;
 }
+
+void kamer_jesper::on_horizontalSlider_actionTriggered(int action)
+{
+    if (action == true){
+        this->ui->knop_nw->setText("de deur is dicht");
+    }
+}
