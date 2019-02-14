@@ -3,7 +3,7 @@
 ## Personages
 
 Hier de lijst van personages op alfabet: 
- * D.A.T.: robot die jou wil vernietigen jaaaa
+ * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
 
 ## Voorwerpen
