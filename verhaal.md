@@ -55,7 +55,7 @@ Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  d
 
 Als je in de lift stapt kun je naar de 2 of 3.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.
+Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. (dat is vervelend)  staat tegenover je.
 
 
 
