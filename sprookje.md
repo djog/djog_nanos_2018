@@ -67,6 +67,10 @@ het is geen eind
 trololololol
 er was een dame met rokkje een een sigaar
 trolololololololololol
+biem biem biem biem 
+++++++====+++===
+x + 200
+ik heb x monny
  
 =======
 
@@ -78,7 +82,7 @@ Dat vond zijn moeder helemaal niet raar.
 >>>>>>> 5f50715ea75cdcaee7b934922a1ac8d51d02549e
 
 
->>>>>>> 16edc662254527e9d41e52f77637c261bad5cd14
+>>>>>>> 16edc662254527e9d41e52f77637c261bad5cd1
 
 
 
