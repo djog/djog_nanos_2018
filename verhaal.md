@@ -51,6 +51,12 @@ Dankzij ... kun je nu ...
 Nu Raz ... bezit je de sleutel. Hiermee kun je de deur openen in ...
 
 
-Als je deze deur opent, dan ...
+Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  deur.
+
+Als je in de lift stapt kun je naar de 2 of 3.
+
+Als je 2 kiest ga je omhoog, de lift gaat open en dat staat tegenover je.
+
+
 
 
