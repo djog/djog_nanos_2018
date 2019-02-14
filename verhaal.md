@@ -5,12 +5,9 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
-<<<<<<< HEAD
  * fake: een goede vriend die je later in het spel ontmoed 
-
-=======
  * kulk: een klunsige struikrover
->>>>>>> e8730ba3a8bc1b5434f3db126c9aee2bd09fe96c
+
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
@@ -60,7 +57,7 @@ Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  d
 
 Als je in de lift stapt kun je naar de 2 of 3.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.
+Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. (dat is vervelend)  staat tegenover je.
 
 
 
