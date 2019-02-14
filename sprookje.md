@@ -1,2 +1,5 @@
 er wass ens un drak die hel liev wass
-enn ur wass ok 1 krokodill die ok heeel lief wass
+enn ur wass ok 1 krokodill die ok heeel lief wasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+wand ur wass oook 1 slangngngn ssssssssssssssssssssssssssssissssssssssssssssssisisisisisisisisisisisiissss
+Still wand iek will slaapun
+eieieieieindu
