@@ -5,7 +5,7 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen
  * Raz: geheimzinnig figuur
-
+ * illusions: probeert je voor de gek te houden
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
