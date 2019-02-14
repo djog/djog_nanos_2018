@@ -5,7 +5,7 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
-
+ * kulk: een klunsige struikrover
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
