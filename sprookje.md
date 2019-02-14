@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  HEAD
  Sprookje
  HEAD
@@ -80,3 +81,7 @@ Dat vond zijn moeder helemaal niet raar.
 Kinderen:aaaaaaahhhhh...
 boeman: moehaha
 # Het Einde
+=======
+er wass ens un drak die hel liev wass
+enn ur wass ok 1 krokodill die ok heeel lief wass
+>>>>>>> a17d21b83f27f5a3ec1b1ae0a18f312d32cf10c9
