@@ -4,26 +4,30 @@
 
 Hier de lijst van personages op alfabet:
 
+ * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
+ * Jack: een norse, achterbakse bewaker
  * Raz: geheimzinnig figuur
 
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
 
+ * Dolk
+ * Shit en Poep
  * Sleutel
 
 ## Doorloop
 
-In het begin sta je ...
+In het begin sta je in een cel
 
 
-Het eerste wat je moet vinden is ...
+Het eerste wat je moet vinden is een wapen
 
 
-Als je ... loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
+Als je langs de deur loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is ...
+Het tweede wat je moet vinden is een uitweg
 
 
 
