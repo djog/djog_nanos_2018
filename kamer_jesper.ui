@@ -29,7 +29,7 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QPushButton" name="knop_nw">
+  <widget class="QPushButton" name="knop_deur">
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -40,19 +40,6 @@
    </property>
    <property name="text">
     <string>de deur is open</string>
-   </property>
-  </widget>
-  <widget class="QSlider" name="horizontalSlider">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>70</y>
-     <width>160</width>
-     <height>16</height>
-    </rect>
-   </property>
-   <property name="orientation">
-    <enum>Qt::Horizontal</enum>
    </property>
   </widget>
  </widget>
