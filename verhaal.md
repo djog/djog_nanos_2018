@@ -11,7 +11,7 @@ Hier de lijst van personages op alfabet:
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
-
+ * elictrisiteits geweer ( nodig voor D.A.T)
  * Sleutel
  * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
 ## Doorloop
