@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plaatjes/red_cobra.png</file>
+    </qresource>
+</RCC>
