@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 hallo eindey was het leuk pauze
-=======
  Sprookje
 
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
