@@ -3,7 +3,7 @@
 ## Personages
 
 Hier de lijst van personages op alfabet: 
- * dat: robot die jou wil vernietigen
+ * D.A.T.: robot die jou wil vernietigen
  * Raz: geheimzinnig figuur
 
 ## Voorwerpen
@@ -55,7 +55,7 @@ Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  d
 
 Als je in de lift stapt kun je naar de 2 of 3.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en dat staat tegenover je.
+Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.
 
 
 
