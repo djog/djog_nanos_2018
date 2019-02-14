@@ -1,4 +1,2 @@
-dit sprookje bestaat niet meer kinderen, sorry kleintjes
-Kinderen:aaaaaaahhhhh...
-boeman: moehaha
-# Het Einde
+er wass ens un drak die hel liev wass
+enn ur wass ok 1 krokodill die ok heeel lief wass
