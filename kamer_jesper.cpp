@@ -17,7 +17,13 @@ kamer_jesper::~kamer_jesper()
   delete ui;
 }
 
-void kamer_jesper::on_knop_deur_clicked()
+
+void kamer_jesper::on_checkBox_pressed()
 {
-  this->ui->knop_deur->setText("deur is dicht");
+    this->ui->knop_deur->setText("deur is open");
+}
+
+void kamer_jesper::on_checkBox_released()
+{
+      this->ui->knop_deur->setText("deur is dicht");
 }

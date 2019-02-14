@@ -19,6 +19,8 @@ public:
 
 private slots:
 
+    void on_checkBox_4_clicked();
+
 private:
   Ui::kamer_oliver *ui;
 

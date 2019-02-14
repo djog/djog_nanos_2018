@@ -19,9 +19,9 @@ public:
 
 private slots:
 
-    void on_horizontalSlider_actionTriggered(int action);
+    void on_checkBox_pressed();
 
-    void on_knop_nw_clicked();
+    void on_checkBox_released();
 
 private:
   Ui::kamer_jesper *ui;
