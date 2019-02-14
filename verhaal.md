@@ -13,7 +13,7 @@ Hier de lijst van personages op alfabet:
 Hier de lijst voorwerpen op alfabet:
 
  * Sleutel
- * tofer kaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
+ * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
 ## Doorloop
 
 In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je een donker kasteel 
