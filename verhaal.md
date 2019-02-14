@@ -5,58 +5,37 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen
  * Raz: geheimzinnig figuur
-
+ * cayde: friend die altijd bij je blijft 
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
 
- * Sleutel
-
+ * item1: map
+ * item2: houten zwaard
+ * item3: houten pijl en boog
+ * kist1: geeft item 1
+ * sleutel1: voor kisten
 ## Doorloop
 
-In het begin sta je ...
+In het begin word je wakker op een vreemde plek
 
+Het eerste wat je moet vinden is item1
 
-Het eerste wat je moet vinden is ...
-
-
-Als je ... loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
+Als je vooruit loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is kist
-
-
+Het tweede wat je moet vinden is item2
 
 Met deze twee dingen kun je nu vechten tegen andere wezens.
 
+Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke wereld van(naam van de game)
 
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
+Nu kom je bij een monster
 
+Je kunt al zien dat er achter het monster een kist(kist1) ligt, maar je kunt er nog niet bij
 
-Nu kun je komen bij ...
+(cayde legt controls uit voor vechten)en julie bevechten het monster
 
+Dankzij het verslaan van het monster krijg je een sleutel(sleutel1) nu kun je daarmee de kist(kist1) openen
 
-
-Je kunt al zien dat er ..., maar je kunt er nog niet bij.
-
-
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
-
-
-Dankzij ... kun je nu ...
-
-
-Nu Raz ... bezit je de sleutel. Hiermee kun je de deur openen in ...
-
-
-Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  deur.
-
-Als je in de lift stapt kun je naar de 2 of 3.
-
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.
-
-
-
-
+Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. einde intro verhaal. 
