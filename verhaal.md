@@ -5,9 +5,13 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
+<<<<<<< HEAD
+ * illusions: probeert je voor de gek te houden
+=======
  * fake: een goede vriend die je later in het spel ontmoed 
  * kulk: een klunsige struikrover
 
+>>>>>>> 7184353add215b35e8266c3ce8b26f4c95f8f693
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
@@ -21,6 +25,7 @@ In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je ee
 
 Het eerste wat je moet vinden is sleutel
 
+Maar tijdens het vinden wordt je aangevallen door kulk
 
 Als je naar de kelder gaat loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
