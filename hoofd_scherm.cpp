@@ -2,6 +2,7 @@
 #include "kamer_daan.h"
 #include "kamer_jasper.h"
 #include "kamer_jesper.h"
+#include "kamer_judith.h"
 #include "kamer_quinn.h"
 #include "kamer_richel.h"
 #include "ui_hoofd_scherm.h"
@@ -17,6 +18,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
+  ui->kamers->addWidget(new kamer_judith(this, this));
   ui->kamers->addWidget(new kamer_richel(this, this));
   ui->kamers->addWidget(new kamer_quinn(this, this));
   laat_kamer_zien();

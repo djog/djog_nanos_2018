@@ -16,8 +16,3 @@ kamer_jasper::~kamer_jasper()
 {
   delete ui;
 }
-
-void kamer_jasper::on_knop_oost_clicked()
-{
-  m_hoofd_scherm->ga_naar(kamer_soort::jasper);
-}

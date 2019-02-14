@@ -29,6 +29,7 @@ SOURCES += \
   kamer_daan.cpp \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
+  kamer_judith.cpp \
   kamer_richel.cpp \
   kamer_quinn.cpp \
   kamer_soort.cpp
@@ -38,6 +39,7 @@ HEADERS += \
   kamer_daan.h \
   kamer_jasper.h \
   kamer_jesper.h \
+  kamer_judith.h \
   kamer_richel.h \
   kamer_quinn.h \
   kamer_soort.h
@@ -47,6 +49,7 @@ FORMS += \
   kamer_daan.ui \
   kamer_jasper.ui \
   kamer_jesper.ui \
+  kamer_judith.ui \
   kamer_quinn.ui \
   kamer_richel.ui
 

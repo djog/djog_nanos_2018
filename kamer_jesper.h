@@ -18,7 +18,6 @@ public:
   ~kamer_jesper();
 
 private slots:
-  void on_knop_oost_clicked();
 
 private:
   Ui::kamer_jesper *ui;

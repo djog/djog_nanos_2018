@@ -16,8 +16,3 @@ kamer_jesper::~kamer_jesper()
 {
   delete ui;
 }
-
-void kamer_jesper::on_knop_oost_clicked()
-{
-  m_hoofd_scherm->ga_naar(kamer_soort::jesper);
-}

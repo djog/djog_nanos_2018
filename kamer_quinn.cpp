@@ -16,8 +16,3 @@ kamer_quinn::~kamer_quinn()
 {
   delete ui;
 }
-
-void kamer_quinn::on_knop_oost_clicked()
-{
-  m_hoofd_scherm->ga_naar(kamer_soort::quinn);
-}
