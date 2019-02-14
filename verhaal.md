@@ -3,7 +3,7 @@
 ## Personages
 
 Hier de lijst van personages op alfabet: 
- * D.A.T.: robot die jou wil vernietigen
+ * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
  * fake: een goede vriend die je later in het spel ontmoed 
 
