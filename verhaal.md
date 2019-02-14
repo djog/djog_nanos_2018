@@ -4,37 +4,13 @@
 
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen jaaaa!
+ * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
+ * illusions: probeert je voor de gek te houden
+ * kulk: een klunsige struikrover
  * Raz: geheimzinnig figuur
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
- * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
- * kulk: een klunsige struikrover
- * illusions: probeert je voor de gek te houden
- * fake: een goede vriend die je later in het spel ontmoed (een gek dus)
- * fake: en goede vriend die je later in het spel ontmoed 
- * kulk: een klunsige struikrover
- * fake: een goede vriend die je later in het spel ontmoed 
-=======
+ * Hamburger: je ergste vijandigheid die 86784987 Hamburgers een seconde eet en heel dik is !!! (hij ruikt naar ui, 
+Je ontmoet hem in de kamer van Oliver)
 
-
->>>>>>> 7aad174e2b147952c546da1c2c9d85f2017d4b82
- * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
- * kulk: een klunsige struikrover
- * illusions: probeert je voor de gek te houden
- * 
-
-<<<<<<< HEAD
-=======
- * fake: een goede vriend die je later in het spel ontmoed (een gek dus)
-
- * fake: en goede vriend die je later in het spel ontmoed 
- * kulk: een klunsige struikrover
-
-
- * fake: een goede vriend die je later in het spel ontmoed 
- * kulk: een klunsige struikrover
->>>>>>> 7aad174e2b147952c546da1c2c9d85f2017d4b82
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
