@@ -23,11 +23,11 @@ Het eerste wat je moet vinden is ...
 Als je ... loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is ...
+Het tweede wat je moet vinden is kist
 
 
 
-Met deze twee dingen kun je nu ...
+Met deze twee dingen kun je nu vechten tegen andere wezens.
 
 
 Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
