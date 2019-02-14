@@ -3,38 +3,44 @@
 ## Personages
 
 Hier de lijst van personages op alfabet: 
- * D.A.T.: robot die jou wil vernietigen
+ * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
+<<<<<<< HEAD
  * illusions: probeert je voor de gek te houden
+=======
+ * fake: een goede vriend die je later in het spel ontmoed 
+ * kulk: een klunsige struikrover
+
+>>>>>>> 7184353add215b35e8266c3ce8b26f4c95f8f693
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
 
  * Sleutel
-
+ * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
 ## Doorloop
 
-In het begin sta je ...
+In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je een donker kasteel 
 
 
-Het eerste wat je moet vinden is ...
+Het eerste wat je moet vinden is sleutel
 
 
-Als je ... loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
+Als je naar de kelder gaat loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is ...
+Het tweede wat je moet vinden is een kist met de tover kaart er in
 
 
 
-Met deze twee dingen kun je nu ...
 
-
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
+Als je kelder loopt, zie je de geheimzinnige figuur (later blijkt
 dit Raz te zijn) ...
 
 
-Nu kun je komen bij ...
+Nu kun je komen bij de kerkes
+
+doel van het spel:.........
 
 
 
@@ -55,7 +61,7 @@ Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  d
 
 Als je in de lift stapt kun je naar de 2 of 3.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.
+Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.(dat is vervelend)
 
 
 
