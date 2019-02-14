@@ -21,6 +21,8 @@ private slots:
 
     void on_horizontalSlider_actionTriggered(int action);
 
+    void on_knop_nw_clicked();
+
 private:
   Ui::kamer_jesper *ui;
 
