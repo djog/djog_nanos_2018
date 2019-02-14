@@ -5,8 +5,12 @@
 Hier de lijst van personages op alfabet: 
  * D.A.T.: robot die jou wil vernietigen jaaaa!
  * Raz: geheimzinnig figuur
+<<<<<<< HEAD
  * fake: een goede vriend die je later in het spel ontmoed 
 
+=======
+ * kulk: een klunsige struikrover
+>>>>>>> e8730ba3a8bc1b5434f3db126c9aee2bd09fe96c
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
