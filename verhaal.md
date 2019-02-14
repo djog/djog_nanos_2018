@@ -28,8 +28,6 @@ Hier de lijst van personages op alfabet:
 
 
  * fake: een goede vriend die je later in het spel ontmoed 
-
->>>>>>> 6ff42b9bfe5983c5604e4c46416e055d0097c68c
  * kulk: een klunsige struikrover
 ## Voorwerpen
 
