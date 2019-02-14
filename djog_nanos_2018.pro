@@ -30,8 +30,13 @@ SOURCES += \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
+  kamer_kyrill.cpp \
+  kamer_mees.cpp \
+  kamer_oliver.cpp \
   kamer_richel.cpp \
+  kamer_rohan.cpp \
   kamer_quinn.cpp \
+  kamer_seny.cpp \
   kamer_soort.cpp
 
 HEADERS += \
@@ -40,8 +45,13 @@ HEADERS += \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
+  kamer_kyrill.h\
+  kamer_mees.h \
+  kamer_oliver.h \
   kamer_richel.h \
+  kamer_rohan.h \
   kamer_quinn.h \
+  kamer_seny.h \
   kamer_soort.h
 
 FORMS += \
@@ -50,8 +60,13 @@ FORMS += \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
+  kamer_kyrill.ui \
+  kamer_mees.ui \
+  kamer_oliver.ui \
   kamer_quinn.ui \
-  kamer_richel.ui
+  kamer_rohan.ui \
+  kamer_richel.ui \
+  kamer_seny.ui
 
 RESOURCES += \
     djog_nanos_2018.qrc
