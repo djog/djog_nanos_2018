@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- HEAD
  Sprookje
- HEAD
+
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
 lalalalalalallalalala
 mooi sprookjes
@@ -26,11 +23,7 @@ zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel co
 Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
->>>>>>> 16edc662254527e9d41e52f77637c261bad5cd14
 Dat vond zijn moeder ook erg raar, jij ook?
- HEAD
-
- HaaaaaaaaaaaaaaaaaaaaAD
 Er was ook een meisjesdrak die ook vuur kon spuwen.
 ooit was er ook een draak die kauwgom kon spuwen
 
@@ -58,7 +51,6 @@ Er was ook een meisjesKIP die ook KIPPEN kon toverren
 ze trouwde met een kip
 En ze leefden nog lang en gelukkig!
 Einde!
-<<<<<<< HEAD
 Einde!!!!!!!!!!!!!!!!!
 Einde!
  grappje 
@@ -82,12 +74,8 @@ Dat vond zijn moeder helemaal niet raar.
 Kinderen:aaaaaaahhhhh...
 boeman: moehaha
 # Het Einde
-=======
 er wass ens un drak die hel liev wass
-<<<<<<< HEAD
-enn ur wass ok 1 krokodill die ok heeel lief wass
->>>>>>> a17d21b83f27f5a3ec1b1ae0a18f312d32cf10c9
-=======
+ ur wass ok 1 krokodill die ok heeel lief wass
 enn ur wass ok 1 krokodill die ok heeel lief wasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 wand ur wass oook 1 slangngngn ssssssssssssssssssssssssssssissssssssssssssssssisisisisisisisisisisisiissss
 Still wand iek will slaapun
