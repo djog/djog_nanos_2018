@@ -21,6 +21,7 @@ In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je ee
 
 Het eerste wat je moet vinden is sleutel
 
+Maar tijdens het vinden wordt je aangevallen door kulk
 
 Als je naar de kelder gaat loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
