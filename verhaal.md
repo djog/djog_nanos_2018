@@ -12,11 +12,6 @@ Hier de lijst van personages op alfabet:
  * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
  * kulk: een klunsige struikrover
 
-
-<<<<<<< HEAD
-===
-=======
-
 >>>>>>> 4526a19f000b6280edec667353b051683e8d72f7
  * illusions: probeert je voor de gek te houden
 <<<<<<< HEAD
