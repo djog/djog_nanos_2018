@@ -11,9 +11,9 @@ Hier de lijst van personages op alfabet:
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
-
+ * elictrisiteits geweer ( nodig voor D.A.T)
  * Sleutel
- * tofer kaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
+ * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
 ## Doorloop
 
 In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je een donker kasteel 
@@ -57,7 +57,7 @@ Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  d
 
 Als je in de lift stapt kun je naar de 2 of 3.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. (dat is vervelend)  staat tegenover je.
+Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.(dat is vervelend)
 
 
 
