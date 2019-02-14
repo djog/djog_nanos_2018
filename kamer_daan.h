@@ -18,7 +18,6 @@ public:
   ~kamer_daan();
 
 private slots:
-  void on_knop_oost_clicked();
 
   void on_knop_o_clicked();
 
