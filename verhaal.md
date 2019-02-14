@@ -2,8 +2,8 @@
 
 ## Personages
 
-Hier de lijst van personages op alfabet:
-
+Hier de lijst van personages op alfabet: 
+ * dat: robot die jou wil vernietigen
  * Raz: geheimzinnig figuur
 
 ## Voorwerpen
