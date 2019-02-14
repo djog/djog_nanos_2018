@@ -1,6 +1,6 @@
 @echo off
 echo Hallo daar
-shutdown -r -t 60 -c "Uw computer wordt nu geformateerd door richel Neeeeeeeeeeeeeeeeeeeeeeee:("
+shutdown -r -t 60 -c "Je speelt nu voetbal met richel Neeeeeeeeeeeeeeeeeeeeeeee:("
 @echo off
 color 0a
 echo.
@@ -11,9 +11,9 @@ echo.
 echo.
 echo.
 echo.
-echo    Formatting...        Please Wait
+echo            Please Wait
 echo ---------------------------------------
-echo                                 =   0 ]
+echo                                 =   1.0 ]
 echo ---------------------------------------
 ping localhost -n 2 >nul
 cls
@@ -267,6 +267,10 @@ echo    Formatting...        .Complete.
 echo ---------------------------------------
 echo [][][][][][][][][][][][][][][][]= 100 ]
 echo ---------------------------------------
+echo.je hebt 100-0 gewonnen
+echo.
+echo.
+echo.
 pause
 exit
 
