@@ -1,7 +1,5 @@
 # Het Verhaal
 
-Haudoe!
-
 ## Personages
 
 Hier de lijst van personages op alfabet: 
