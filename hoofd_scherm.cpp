@@ -27,9 +27,9 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_kyrill(this, this));
   ui->kamers->addWidget(new kamer_mees(this, this));
   ui->kamers->addWidget(new kamer_oliver(this, this));
+  ui->kamers->addWidget(new kamer_quinn(this, this));
   ui->kamers->addWidget(new kamer_richel(this, this));
   ui->kamers->addWidget(new kamer_rohan(this, this));
-  ui->kamers->addWidget(new kamer_quinn(this, this));
   ui->kamers->addWidget(new kamer_seny(this, this));
   laat_kamer_zien();
 }
