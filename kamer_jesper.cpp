@@ -27,3 +27,9 @@ void kamer_jesper::on_checkBox_released()
 {
       this->ui->knop_deur->setText("deur is dicht");
 }
+
+void kamer_jesper::on_pushButton_clicked()
+{
+    this->ui->pushButton->move(m_x, m_y);
+    click = 1;
+}

@@ -23,8 +23,14 @@ private slots:
 
     void on_checkBox_released();
 
+    void on_pushButton_clicked();
+
 private:
   Ui::kamer_jesper *ui;
+
+  int m_x = 30;
+  int m_y = 250;
+  int click = 0;
 
   hoofd_scherm * const m_hoofd_scherm;
 };
