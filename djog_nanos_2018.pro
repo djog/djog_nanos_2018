@@ -98,7 +98,7 @@ QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic
 QMAKE_CXXFLAGS += -Werror
 
 # Qt5
-QT += core gui
+QT += core gui widgets
 
 # QResources give this error
 QMAKE_CXXFLAGS += -Wno-unused-variable
