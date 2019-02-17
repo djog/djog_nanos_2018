@@ -25,6 +25,8 @@ private slots:
 
     void on_toolButton_released();
 
+    void on_pushButton_2_clicked();
+
 private:
   Ui::kamer_jesper *ui;
 

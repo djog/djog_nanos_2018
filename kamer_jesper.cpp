@@ -37,3 +37,7 @@ void kamer_jesper::on_toolButton_released()
          this->ui->knop_deur->setText("deur is dicht");
 }
 
+
+void kamer_jesper::on_pushButton_2_clicked()
+{
+}
