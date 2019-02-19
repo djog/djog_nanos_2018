@@ -22,9 +22,9 @@ kamer_jesper::~kamer_jesper()
 void kamer_jesper::on_pushButton_clicked()
 {
     this->ui->pushButton->move(this->m_x, this->m_y);
-    this->ui->pushButton_2->setHidden(false);
-    this->ui->pushButton_3->setHidden(false);
-    this->ui->pushButton_6->setHidden(false);
+    this->ui->pushButton_2->setVisible(true);
+    this->ui->pushButton_3->setVisible(true);
+    this->ui->pushButton_6->setVisible(true);
 }
 
 void kamer_jesper::on_toolButton_pressed()
