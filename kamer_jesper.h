@@ -30,8 +30,8 @@ private slots:
 private:
   Ui::kamer_jesper *ui;
 
-  int m_x = 30;
-  int m_y = 225;
+  int k_x = 30;
+  int k_y = 225;
   int click = 0;
 
   hoofd_scherm * const m_hoofd_scherm;

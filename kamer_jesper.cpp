@@ -21,7 +21,7 @@ kamer_jesper::~kamer_jesper()
 
 void kamer_jesper::on_pushButton_clicked()
 {
-    this->ui->pushButton->move(this->m_x, this->m_y);
+    this->ui->pushButton->move(this->k_x, this->k_y);
     this->ui->pushButton_2->setVisible(true);
     this->ui->pushButton_3->setVisible(true);
     this->ui->pushButton_6->setVisible(true);
