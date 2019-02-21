@@ -52,7 +52,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Welkom Bij het spel van djog nanos 2018! kies een kamer!</string>
+    <string>Hallo! welkom in mijn kamer! ik ben niet verdacht hoor, ik heb ook echt geen sleutel hoor....</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
