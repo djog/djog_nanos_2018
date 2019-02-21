@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>plaatjes/red_cobra.png</file>
+        <file>plaatjes/boom</file>
+        <file>plaatjes/Creature_Ghost_Dragon.gif</file>
+        <file>plaatjes/Creature_Zealot.gif</file>
     </qresource>
 </RCC>
