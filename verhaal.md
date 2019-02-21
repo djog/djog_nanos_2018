@@ -28,7 +28,7 @@ Je vliegtuig is neergestort in de verte zie je een donker kasteel.
 
 Het eerste wat je moet vinden is de sleutel
 
-De sleutel vind je in ... .
+De sleutel vind je in de gracht
 Daar wordt je aangevallen door Kulk.
 
 Met de sleutel kom je in het kasteel.
@@ -40,12 +40,12 @@ Het tweede wat je moet vinden is een kist met de toverkaart er in
 
 Nu kun je komen bij de kerkers
 
-Je kunt al zien dat er ..., maar je kunt er nog niet bij.
+Je kunt al zien dat er een sleutel is, maar je kunt er nog niet bij.
 
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
+Als je verder loopt, zie je de geheimzinnige figuur (later blijkt
 dit Raz te zijn) ...
 
-Dankzij ... kun je nu ...
+Dankzij de sleutel kun je nu door de deur
 
 Als je deze deur opent, dan zie je recht voor je een lift, 
 en rechts van je een deur.
