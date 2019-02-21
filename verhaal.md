@@ -28,8 +28,8 @@ Je vliegtuig is neergestort in de verte zie je een donker kasteel.
 
 Het eerste wat je moet vinden is de sleutel
 
-De sleutel vind je in de gracht
-Daar wordt je aangevallen door Kulk.
+De sleutel vind je in een struik
+Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
 
 Met de sleutel kom je in het kasteel.
 
@@ -65,5 +65,5 @@ Vernietig D.A.T. met het electriciteits geweer.
 
 Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
 
-Tijdens je ontsnapping ontmoet je Rick
-Rick is gewond. 
+Tijdens je ontsnapping ontmoet je Fake en Rick.
+Fake en Rick zijn gewond. 

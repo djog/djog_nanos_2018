@@ -34,3 +34,4 @@ build-*
 *.pro.user
 *.pro.user.*
 djog_nanos_2018/
+*.orig
