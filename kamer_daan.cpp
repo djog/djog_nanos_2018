@@ -19,5 +19,5 @@ kamer_daan::~kamer_daan()
 
 void kamer_daan::on_knop_o_clicked()
 {
-  this->ui->knop_o->setText("SLEUTEL");
+  this->ui->knop_o->setText("Gezocht: Daan: steler van sleutel");
 }
