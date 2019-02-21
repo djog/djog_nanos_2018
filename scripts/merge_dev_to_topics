@@ -8,3 +8,5 @@ do
   git merge develop
   git push
 done
+
+git checkout develop

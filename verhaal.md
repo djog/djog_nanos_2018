@@ -2,67 +2,68 @@
 
 ## Personages
 
-Hier de lijst van personages op alfabet: 
- * D.A.T.: robot die jou wil vernietigen jaaaa!
- * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
- * illusions: probeert je voor de gek te houden
- * kulk: een klunsige struikrover
+Hier de lijst van personages op alfabet:
+ 
+ * D.A.T.: robot die jou wil vernietigen
+ * Fake: een goede vriend die je later in het spel 
+   ontmoet (hij is niet goed bij zijn hoofd, gek dus)
+ * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
+   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
+ * Illusions: probeert je voor de gek te houden
+ * Kulk: een klunsige struikrover
  * Raz: geheimzinnig figuur
- * Hamburger: je ergste vijandigheid die 86784987 Hamburgers een seconde eet en heel dik is !!! (hij ruikt naar ui, 
-Je ontmoet hem in de kamer van Oliver)
 
 ## Voorwerpen
 
 Hier de lijst voorwerpen op alfabet:
- * elictrisiteits geweer ( nodig voor D.A.T)
+
+ * Electriciteits geweer ( nodig voor D.A.T)
  * Sleutel
- * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
+ * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
+
 ## Doorloop
 
-In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je een donker kasteel 
-
+In het begin sta je in een bos.
+Je vliegtuig is neergestort in de verte zie je een donker kasteel.
 
 Het eerste wat je moet vinden is de sleutel
 
-Maar tijdens het vinden wordt je aangevallen door kulk en 
+De sleutel vind je in ... .
+Daar wordt je aangevallen door Kulk.
 
-Als je naar de kelder gaat loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
+Met de sleutel kom je in het kasteel.
+
+Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is een kist met de tover kaart er in
+Het tweede wat je moet vinden is een kist met de toverkaart er in
 
-
-
-
-Als je kelder loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
-
-
-Nu kun je komen bij de kerkes
-
-doel van het spel:.........
-
-
+Nu kun je komen bij de kerkers
 
 Je kunt al zien dat er ..., maar je kunt er nog niet bij.
-
 
 Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
 dit Raz te zijn) ...
 
-
 Dankzij ... kun je nu ...
 
+Als je deze deur opent, dan zie je recht voor je een lift, 
+en rechts van je een deur.
 
-Nu Raz ... bezit je de sleutel. Hiermee kun je de deur openen in ...
+Als je in de lift stapt kun je naar meerdere verdiepingen.
+Ga nog niet naar de hoogste verdieping!
+Ga inplaats daarvan naar de tweede verdieping.
 
+(Hier kom je Raz weer tegen)
 
-Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  deur.
+(hier krijg je het electriciteitsgeweer)
 
-Als je in de lift stapt kun je naar de 2 of 3.
+Je gaat naar de hoogste verdieping. 
+De lift gaat open en D.A.T. staat tegenover je.
+D.A.T. wil je vernietigen.
+Vernietig D.A.T. met het electriciteits geweer.
 
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.(dat is vervelend)
+Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
 
-
-
-
+Tijdens je ontsnapping ontmoet je ....
+... is gewond. 
