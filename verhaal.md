@@ -65,5 +65,5 @@ Vernietig D.A.T. met het electriciteits geweer.
 
 Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
 
-Tijdens je ontsnapping ontmoet je ....
-... is gewond. 
+Tijdens je ontsnapping ontmoet je Rick
+Rick is gewond. 
