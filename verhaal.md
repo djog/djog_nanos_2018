@@ -10,8 +10,8 @@ Hier de lijst van personages op alfabet:
  * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
    en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
  * Illusions: probeert je voor de gek te houden
- * Kulk: een klunsige struikrover
- * Raz: geheimzinnig figuur
+ * Kulk: een klunsige struikrover()
+ * Raz: geheimzinnig figuur 
 
 ## Voorwerpen
 
@@ -28,8 +28,8 @@ Je vliegtuig is neergestort in de verte zie je een donker kasteel.
 
 Het eerste wat je moet vinden is de sleutel
 
-De sleutel vind je in ... .
-Daar wordt je aangevallen door Kulk.
+De sleutel vind je in een struik
+Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
 
 Met de sleutel kom je in het kasteel.
 
@@ -40,9 +40,9 @@ Het tweede wat je moet vinden is een kist met de toverkaart er in
 
 Nu kun je komen bij de kerkers
 
-Je kunt al zien dat er ..., maar je kunt er nog niet bij.
+Je kunt al zien dat er een, maar je kunt er nog niet bij.
 
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
+Als je verder loopt, zie je de geheimzinnige figuur (later blijkt
 dit Raz te zijn) ...
 
 Dankzij ... kun je nu ...
@@ -65,5 +65,5 @@ Vernietig D.A.T. met het electriciteits geweer.
 
 Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
 
-Tijdens je ontsnapping ontmoet je ....
-... is gewond. 
+Tijdens je ontsnapping ontmoet je Fake
+Hij is gewond. 
