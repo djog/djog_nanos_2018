@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>plaatjes/red_cobra.png</file>
+        <file>plaatjes/k3.jpeg</file>
     </qresource>
 </RCC>
