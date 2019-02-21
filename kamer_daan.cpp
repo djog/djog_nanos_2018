@@ -19,5 +19,5 @@ kamer_daan::~kamer_daan()
 
 void kamer_daan::on_knop_o_clicked()
 {
-  this->ui->knop_o->setText("1 11 raampje of 111");
+  this->ui->knop_o->setText("SLEUTEL");
 }
