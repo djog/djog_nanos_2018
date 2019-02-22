@@ -40,9 +40,11 @@ Samen een game maken.
 
 ## Voortgang
 
-![20190221](plaatjes/20190221.png)
+![](plaatjes/20190222.png)
 
-![20190212](plaatjes/20190212.png)
+![](plaatjes/20190221.png)
+
+![](plaatjes/20190212.png)
 
 ## Links
 
