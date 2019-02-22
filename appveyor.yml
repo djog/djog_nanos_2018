@@ -11,4 +11,4 @@ build_script:
 test_script:
   - cd release
   - dir
-  - djog_nanos_2018.exe --version
+  - djog_nanos_2018.exe --versie
