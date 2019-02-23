@@ -35,6 +35,7 @@ Samen een game maken.
   * [git](doc/git.md)
   * [planning](doc/planning.md)
   * [team](team/README.md)
+  * [video's](doc/videos.md)
 
 ![Kaart](doc/kaart.png)
 
