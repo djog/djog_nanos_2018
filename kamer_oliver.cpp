@@ -16,3 +16,8 @@ kamer_oliver::~kamer_oliver()
 {
   delete ui;
 }
+
+void kamer_oliver::on_checkBox_4_clicked()
+{
+    this->ui->knop_zw->setText("Doyou wish to enter the room of Quinn?");
+}

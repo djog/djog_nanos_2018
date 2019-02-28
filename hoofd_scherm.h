@@ -10,7 +10,7 @@ namespace Ui {
 
 class hoofd_scherm : public QDialog
 {
-  Q_OBJECT
+  Q_OBJECT //!OCLINT
 
 public:
   explicit hoofd_scherm(QWidget *parent = 0);

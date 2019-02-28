@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>1210</width>
+    <height>723</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -46,13 +46,29 @@
    <property name="geometry">
     <rect>
      <x>150</x>
-     <y>270</y>
+     <y>480</y>
      <width>89</width>
      <height>25</height>
     </rect>
    </property>
    <property name="text">
     <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>30</y>
+     <width>721</width>
+     <height>681</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>plaatjes/it is wednesday my dudes.jpg</pixmap>
    </property>
   </widget>
  </widget>
