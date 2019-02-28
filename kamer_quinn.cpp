@@ -25,4 +25,5 @@ void kamer_quinn::on_knop_nw_clicked()
 void kamer_quinn::on_knop_n_clicked()
 {
     this->ui->knop_n->setText("Deur is op slot ga weg >:(");
+  this->m_hoofd_scherm->ga_naar(kamer_soort::richel);
 }

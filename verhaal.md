@@ -9,8 +9,8 @@ Hier de lijst van personages op alfabet:
  * D.A.T.: robot die jou wil vernietigen
  * Fake: een goede vriend die je later in het spel 
    ontmoet (hij is niet goed bij zijn hoofd, gek dus)
- * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
-   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
+ * Hamburger: je ergste vijandigheid die googolplexplex hamburgers per miliseconde eet 
+   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Rohan)
  * Illusions: probeert je voor de gek te houden
  * Kulk: een klunsige struikrover
  * Raz: geheimzinnig figuur
@@ -62,7 +62,6 @@ Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. e
 
 Nu kun je komen bij ...
 
-=======
 Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
