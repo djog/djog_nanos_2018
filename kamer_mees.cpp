@@ -21,3 +21,15 @@ void kamer_mees::on_knop_w_clicked()
 {
   this->ui->knop_w->setText("Hallo");
 }
+
+
+
+void kamer_mees::on_pushButton_2_pressed()
+{
+     this->ui->label_2->setText("er ligt niks ");
+}
+
+void kamer_mees::on_pushButton_2_released()
+{
+    this->ui->label_2->setText(" ");
+}
