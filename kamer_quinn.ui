@@ -71,8 +71,8 @@
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
+     <x>-10</x>
+     <y>10</y>
      <width>331</width>
      <height>721</height>
     </rect>
@@ -81,7 +81,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>plaatjes/heel erg toppie.png</pixmap>
+    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/heel erg toppie.png</pixmap>
    </property>
   </widget>
   <zorder>label</zorder>
@@ -90,6 +90,8 @@
   <zorder>knop_nw</zorder>
   <zorder>knop_o</zorder>
  </widget>
- <resources/>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
  <connections/>
 </ui>
