@@ -2,20 +2,26 @@
 
 ## Personages
 
-Hier de lijst van personages op alfabet:
+Hier de lijst van personages:
  
- * D.A.T.: robot die jou wil vernietigen
- * Fake: een goede vriend die je later in het spel 
-   ontmoet (hij is niet goed bij zijn hoofd, gek dus)
- * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
-   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
- * Illusions: probeert je voor de gek te houden
- * Kulk: een klunsige struikrover
+ * Deminion: een de heerser van dimension oltran.
+ * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
+ * dilonu: iemand die je embar af probbert te pakken in de batle tower.
+ * Klunk: een smit in het dorp
  * Raz: geheimzinnig figuur
+
+## locaties
+hier de lijst van locaties:
+
+* mandalorian: het dorp waar de avontuuriers
+
+
+
+
 
 ## Voorwerpen
 
-Hier de lijst voorwerpen op alfabet:
+Hier de lijst voorwerpen:
 
  * Electriciteits geweer ( nodig voor D.A.T)
  * Sleutel
@@ -23,24 +29,23 @@ Hier de lijst voorwerpen op alfabet:
 
 ## Doorloop
 
-In het begin sta je in een bos.
-Je vliegtuig is neergestort in de verte zie je een donker kasteel.
+In het begin word je wakker in een vreemde plek(er wordt uitgelegt hoe je moet lopen als je naar vooren loopt kom je map1 tegen.
+i n het beeld verschijnt een tekst die uitlegt hoe je op de map kan kijken
 
-Het eerste wat je moet vinden is de sleutel
+als je verder loopt kom je zwaard1 tegen.
 
-De sleutel vind je in een struik
-Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
+Dan loop je verder en kom je cayde tegen. dan zegt hij: ah daar ben je, waar was je nou. hoe dan ook, help me even langs dit monster te komen.
+Dan ( het beeld zoemt uit) zie je een monster en achter hem zie je een embar.
 
-Met de sleutel kom je in het kasteel.
+(cayde legt uit hou de vecht controls werken)
 
-Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
-dit Raz te zijn)
+dan valt het monster aan( zo wordt je gedwongen te vechten), maar het monster is zwak en met drie klappen is hij neer.
 
-Het tweede wat je moet vinden is een kist met de toverkaart er in
+dan kun je de embar oppakken.
 
-Nu kun je komen bij de kerkers
+Nu zegt cayde dat je hem moet volgen en julie lopen naar rechts dan zie je een portaal en julie lopen er in.
 
-Je kunt al zien dat er een sleutel is, maar je kunt er nog niet bij.
+
 
 Als je verder loopt, zie je de geheimzinnige figuur (later blijkt
 dit Raz te zijn) ...
