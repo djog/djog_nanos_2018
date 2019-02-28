@@ -47,15 +47,11 @@ before_script:
   - sleep 3 # give xvfb some time to start
 
 script: 
-  # Build the project, then:
-  # 1) Show the version of SFML, then quit
-  # 2) Run the game for a short time, then quit
-  # 3) Test the secret command, then quit
+  # Bouw het project
   - qmake -qt=qt5 djog_nanos_2018.pro
   - make --silent debug
-  - ./djog_nanos_2018 --version
-  - ./djog_nanos_2018 --short --music
-  - ./djog_nanos_2018 --short --spin --music
+  # Run het een beetje
+  - ./djog_nanos_2018 --versie
   # cppcheck
   - cppcheck --error-exitcode=1 . 
   # Get code coverage
