@@ -16,14 +16,14 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>150</x>
+     <x>87</x>
      <y>140</y>
-     <width>98</width>
-     <height>17</height>
+     <width>231</width>
+     <height>20</height>
     </rect>
    </property>
    <property name="text">
-    <string>Mees's kamer</string>
+    <string>wapen kamer(mees)</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
@@ -39,7 +39,7 @@
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>deur op slot</string>
    </property>
   </widget>
   <widget class="QPushButton" name="knop_w">
@@ -47,12 +47,25 @@
     <rect>
      <x>10</x>
      <y>140</y>
-     <width>89</width>
-     <height>25</height>
+     <width>41</width>
+     <height>61</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>deur</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>80</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>kist </string>
    </property>
   </widget>
  </widget>

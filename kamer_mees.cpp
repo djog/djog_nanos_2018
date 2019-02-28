@@ -16,3 +16,8 @@ kamer_mees::~kamer_mees()
 {
   delete ui;
 }
+
+void kamer_mees::on_knop_w_clicked()
+{
+  this->ui->knop_w->setText("Hallo");
+}

@@ -19,6 +19,8 @@ public:
 
 private slots:
 
+    void on_knop_w_clicked();
+
 private:
   Ui::kamer_mees *ui;
 
