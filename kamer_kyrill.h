@@ -11,7 +11,7 @@ class hoofd_scherm;
 
 class kamer_kyrill : public QWidget
 {
-  Q_OBJECT
+  Q_OBJECT //!OCLINT
 
 public:
   explicit kamer_kyrill(hoofd_scherm * het_hoofd_scherm, QWidget *parent = 0);

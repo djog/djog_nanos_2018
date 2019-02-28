@@ -11,13 +11,15 @@ class hoofd_scherm;
 
 class kamer_daan : public QWidget
 {
-  Q_OBJECT
+  Q_OBJECT //!OCLINT
 
 public:
   explicit kamer_daan(hoofd_scherm * het_hoofd_scherm, QWidget *parent = 0);
   ~kamer_daan();
 
 private slots:
+
+  void on_knop_o_clicked();
 
 private:
   Ui::kamer_daan *ui;

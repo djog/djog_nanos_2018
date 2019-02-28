@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>620</width>
+    <height>454</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -32,14 +32,30 @@
   <widget class="QPushButton" name="knop_o">
    <property name="geometry">
     <rect>
-     <x>300</x>
-     <y>130</y>
-     <width>89</width>
-     <height>25</height>
+     <x>0</x>
+     <y>50</y>
+     <width>621</width>
+     <height>61</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>Wat is 1+1?</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>27</x>
+     <y>206</y>
+     <width>581</width>
+     <height>201</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Welkom Bij het spel van djog nanos 2018! kies een kamer!</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
    </property>
   </widget>
  </widget>
