@@ -1,68 +1,71 @@
-# Het Verhaal
+# Het verhaal
 
 ## Personages
 
-Hier de lijst van personages op alfabet: 
- * D.A.T.: robot die jou wil vernietigen jaaaa!
- * fake: een goede vriend die je later in het spel ontmoed (hij is niet goed bij zijn hoofd(gek dus))
- * illusions: probeert je voor de gek te houden
- * kulk: een klunsige struikrover
- * Raz: geheimzinnig figuur
- * Hamburger: je ergste vijandigheid die 86784987 Hamburgers een seconde eet en heel dik is !!! (hij ruikt naar ui, 
-Je ontmoet hem in de kamer van Oliver)
+Hier de lijst met tekens in alfabet:
+
+* D.A.T.: Robot die je wil vernietigen
+* Fake: een goede vriend die je later in het spel hebt
+voldaan (hij is niet goed in zijn hoofd, gek)
+* Hamburger: je ergste vijandigheid eet 86784987 hamburgers per seconde
+en erg dik !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
+* Illusies: probeer je voor de gek te houden
+* Kulk: een onhandige struikrover
+* Raz: mysterieuze figuur
+* Tom: kan de enige D.A.T zijn die je kunt verslaan.
 
 ## Voorwerpen
 
-Hier de lijst voorwerpen op alfabet:
- * elictrisiteits geweer ( nodig voor D.A.T)
- * Sleutel
- * toverkaart: past zig aan aan waar je geweest bent en laat zijn waar je naar toe moet(soms)
-## Doorloop
+Hier de lijst met objecten in alfabet:
 
-In het begin sta je in een bos je fliegtuig is neergestort in de ferte zie je een donker kasteel 
+* Elektrisch geweer (nodig voor D.A.T)
+* Sleutel
+* Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
+* Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
+## Loop erdoorheen
 
+In het begin ben je in een bos.
+Je vliegtuig stortte neer in de verte, je ziet een donker kasteel.
 
-Het eerste wat je moet vinden is de sleutel
+Het eerste dat je moet vinden, is de sleutel
 
-Maar tijdens het vinden wordt je aangevallen door kulk en 
+De sleutel bevindt zich in een struik
+Daar word je aangevallen door Kulk, (die bezig is de bush te beroven)
 
-Als je naar de kelder gaat loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
-dit Raz te zijn)
+Je betreedt het kasteel met de sleutel.
 
-Het tweede wat je moet vinden is een kist met de tover kaart er in
+Wanneer je naar de kelder gaat, komt er kort daarna een mysterieus figuur (later blijkt het
+om deze Raz te zijn)
 
+Het tweede ding om te vinden is een doos met de magische kaart erin
 
+Nu kun je naar de kerkers komen
 
+Je kunt al zien dat er een sleutel is, maar je hebt er nog geen toegang toe.
 
-Als je kelder loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
+Als je verder loopt, zie je de mysterieuze figuur (later verschijnt het
+om Raz te zijn) ...
 
+Dankzij de sleutel kun je nu door de deur gaan
 
-Nu kun je komen bij de kerkes
+Als je deze deur opent, zie je een lift recht voor je,
+en aan de rechterkant van jou een deur.
 
-doel van het spel:.........
+Als je de lift instapt, kun je naar meerdere verdiepingen gaan.
+Ga nog niet naar de bovenste verdieping!
+Ga naar de tweede verdieping.
 
+(Hier ontmoet je Raz opnieuw)
 
+(hier krijg je het power shotgun)
 
-Je kunt al zien dat er ..., maar je kunt er nog niet bij.
+Je gaat naar de bovenste verdieping.
+De lift gaat open en D.A.T. wordt geconfronteerd met jou.
+WELKE. je wilt vernietigen.
+Destroy D.A.T. met het elektriciteitspistool.
 
+Een alarm gaat af: het kasteel zal binnen tien minuten ontploffen.
 
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
-
-
-Dankzij ... kun je nu ...
-
-
-Nu Raz ... bezit je de sleutel. Hiermee kun je de deur openen in ...
-
-
-Als je deze deur opent, dan zie je rechtvoorje een lift, en rechts van je een  deur.
-
-Als je in de lift stapt kun je naar de 2 of 3.
-
-Als je 2 kiest ga je omhoog, de lift gaat open en D.A.T. staat tegenover je.(dat is vervelend)
-
-
-
-
+Tijdens je ontsnapping ontmoet je Fake en Rick.
+Fake en Rick zijn gewond.
+Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, en ook ui zal hij een burger kusen aferwards 8(
