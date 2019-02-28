@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+hallo eindey was het leuk pauze
+=======
 
 hallo eindey was het leuk pauze
  Sprookje
@@ -299,3 +302,4 @@ eieieieieindu
 
 
 
+>>>>>>> c68a57c40967c89cb38a6169ad6c4d0f442b2d02
