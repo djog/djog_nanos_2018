@@ -11,7 +11,7 @@ Hier de lijst van personages op alfabet:
    en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
  * Illusions: probeert je voor de gek te houden
  * Kulk: een klunsige struikrover
- * Raz: geheimzinnig figuur
+ * Raz: super geheimzinnig figuur
 
 ## Voorwerpen
 
