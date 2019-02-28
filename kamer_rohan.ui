@@ -32,14 +32,14 @@
   <widget class="QPushButton" name="knop_o">
    <property name="geometry">
     <rect>
-     <x>310</x>
+     <x>368</x>
      <y>150</y>
-     <width>89</width>
-     <height>25</height>
+     <width>31</width>
+     <height>71</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>richel</string>
    </property>
   </widget>
   <widget class="QPushButton" name="knop_w">
@@ -47,12 +47,12 @@
     <rect>
      <x>10</x>
      <y>130</y>
-     <width>89</width>
-     <height>25</height>
+     <width>31</width>
+     <height>101</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>daan</string>
    </property>
   </widget>
   <widget class="QPushButton" name="knop_n">
@@ -65,7 +65,20 @@
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>seny</string>
+   </property>
+  </widget>
+  <widget class="QCommandLinkButton" name="commandLinkButton">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>250</y>
+     <width>172</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>klik hier</string>
    </property>
   </widget>
  </widget>

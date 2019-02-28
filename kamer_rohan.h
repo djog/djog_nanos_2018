@@ -19,6 +19,10 @@ public:
 
 private slots:
 
+    void on_commandLinkButton_clicked();
+
+    void on_buttonBox_accepted();
+
 private:
   Ui::kamer_rohan *ui;
 
