@@ -11,7 +11,7 @@ class hoofd_scherm;
 
 class kamer_jesper : public QWidget
 {
-  Q_OBJECT
+  Q_OBJECT //!OCLINT
 
 public:
   explicit kamer_jesper(hoofd_scherm * het_hoofd_scherm, QWidget *parent = 0);
@@ -19,10 +19,20 @@ public:
 
 private slots:
 
-    void on_horizontalSlider_actionTriggered(int action);
+    void on_pushButton_clicked();
+
+    void on_toolButton_pressed();
+
+    void on_toolButton_released();
+
+    void on_pushButton_2_clicked();
 
 private:
   Ui::kamer_jesper *ui;
+
+  int k_x = 30;
+  int k_y = 225;
+  int click = 0;
 
   hoofd_scherm * const m_hoofd_scherm;
 };

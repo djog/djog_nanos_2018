@@ -16,13 +16,15 @@ Hierdoor kun je altijd terug gaan naar eerdere versies.
 
 Hier een overzichtje:
 
- * `0.` instellen wie je bent (eenmalig)
+ * `0.` instellen wie je bent (een keer per computer)
  * `1.` `git clone`: klonen van de repo
  * `2.` `git add` en `git commit`: jouw veranderingen opslaan
  * `3.` `git push`: jouw code delen met de rest
  * `4.` `git pull`: jouw code updaten met het werk van de rest
- * (hoeft niet) 5. `git status`: uitvinden wat ik kan doen
- * (hoeft niet) 6. De Daan truuk
+ * `5.` De Daan truuk
+ * `6.` `git status`: kijken op welke branch je zit
+ * `7.` `git checkout richel`: ga naar jouw branch
+ * `8.` `git merge develop`: merge develop naar jouw branch
 
 Hieronder wordt het preciezer uitgelegd.
 
@@ -91,13 +93,7 @@ In de folder `djog_nanos_2018` doe je:
 git pull
 ```
 
-## 5. `git status`: uitvinden wat ik kan doen
-
-```
-git status
-```
-
-## 6. Daan truuk: jouw veranderingen opslaan.
+## 5. De Daan truuk: jouw veranderingen opslaan.
 
 In de folder `djog_nanos_2018` doe je:
 
@@ -112,3 +108,40 @@ rechtermuisknop,
 plakken,
 enter,
 Gepusht!
+
+## 6. `git status`: kijken op welke branch je zit
+
+```
+git status
+```
+
+## 7. `git checkout richel`: ga naar jouw branch
+
+In de folder `djog_nanos_2018` doe je:
+
+```
+git checkout richel
+```
+
+om naar de branch van Richel te gaan. Vul in plaats van `richel` jouw voornaam
+in (in enkel kleine letters).
+
+De belangrijkste andere branch:
+
+```
+git checkout develop
+```
+
+Op `develop` staat de nieuwste versie om onze code.
+
+:warning:: vergeet niet `git pull` te doen 
+
+## 8. `git merge develop`: merge develop naar jouw branch
+
+In de folder `djog_nanos_2018` doe je, als je op jouw branch zit:
+
+```
+git merge develop
+```
+
+:warning:: `develop` moet geupdate zijn
