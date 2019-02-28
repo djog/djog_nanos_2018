@@ -39,33 +39,33 @@
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>Richel</string>
    </property>
   </widget>
   <widget class="QPushButton" name="knop_n">
    <property name="geometry">
     <rect>
      <x>170</x>
-     <y>10</y>
-     <width>89</width>
-     <height>25</height>
+     <y>30</y>
+     <width>141</width>
+     <height>31</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>Oliver</string>
    </property>
   </widget>
   <widget class="QPushButton" name="knop_o">
    <property name="geometry">
     <rect>
-     <x>300</x>
+     <x>310</x>
      <y>130</y>
      <width>89</width>
      <height>25</height>
     </rect>
    </property>
    <property name="text">
-    <string/>
+    <string>Mees</string>
    </property>
   </widget>
  </widget>
