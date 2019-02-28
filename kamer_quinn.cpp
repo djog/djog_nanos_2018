@@ -16,3 +16,8 @@ kamer_quinn::~kamer_quinn()
 {
   delete ui;
 }
+
+void kamer_quinn::on_knop_nw_clicked()
+{
+  this->m_hoofd_scherm->ga_naar(kamer_soort::richel);
+}
