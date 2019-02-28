@@ -65,11 +65,7 @@
     </rect>
    </property>
    <property name="text">
-<<<<<<< HEAD
     <string>kist </string>
-=======
-    <string>hoi</string>
->>>>>>> 6c57dd6eeeafee2af77429947371eb0ffa844acb
    </property>
   </widget>
  </widget>
