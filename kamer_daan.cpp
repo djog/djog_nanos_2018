@@ -16,8 +16,3 @@ kamer_daan::~kamer_daan()
 {
   delete ui;
 }
-
-void kamer_daan::on_knop_o_clicked()
-{
-  this->ui->knop_o->setText("1 11 raampje of 111");
-}

@@ -17,7 +17,7 @@
 hoofd_scherm::hoofd_scherm(QWidget *parent) :
   QDialog(parent),
   ui(new Ui::hoofd_scherm),
-  m_kamer{kamer_soort::richel}
+  m_kamer{kamer_soort::daan}
 {
   ui->setupUi(this);
   ui->kamers->addWidget(new kamer_daan(this, this));
