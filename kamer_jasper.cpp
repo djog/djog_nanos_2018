@@ -16,3 +16,10 @@ kamer_jasper::~kamer_jasper()
 {
   delete ui;
 }
+
+void kamer_jasper::on_pushButton_2_clicked()
+{
+  ui->progressBar_2->setValue(
+    ui->progressBar_2->value() + 1
+  );
+}
