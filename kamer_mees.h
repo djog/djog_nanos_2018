@@ -11,13 +11,17 @@ class hoofd_scherm;
 
 class kamer_mees : public QWidget
 {
-  Q_OBJECT //!OCLINT
+  Q_OBJECT
 
 public:
   explicit kamer_mees(hoofd_scherm * het_hoofd_scherm, QWidget *parent = 0);
   ~kamer_mees();
 
 private slots:
+
+    void on_pushButton_2_pressed();
+
+    void on_pushButton_2_released();
 
 private:
   Ui::kamer_mees *ui;
