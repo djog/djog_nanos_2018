@@ -21,3 +21,46 @@ void kamer_richel::on_knop_zo_clicked()
 {
   m_hoofd_scherm->ga_naar(kamer_soort::quinn);
 }
+
+void kamer_richel::on_knop_n_clicked()
+{
+  m_hoofd_scherm->ga_naar(kamer_soort::jasper);
+}
+
+void kamer_richel::on_knop_w_clicked()
+{
+  m_hoofd_scherm->ga_naar(kamer_soort::rohan);
+}
+
+void kamer_richel::on_knop_links_onder_clicked()
+{
+  this->setStyleSheet(
+    "QDialog {\n"
+    "  background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0  #ffb, stop: 1 #fbb);\n"
+    "  border: 1px solid black\n"
+    "}\n"
+    "\n"
+    "QWidget {\n"
+    "  font: bold huge monospace;\n"
+    "  color: blak;\n"
+    "  background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0  #ffb, stop: 1 #fbb);\n"
+    "}\n"
+  );
+}
+
+void kamer_richel::on_knop_rechts_boven_clicked()
+{
+  this->setStyleSheet(
+    "QDialog {\n"
+    "  background-color: black;\n"
+    "  border: 1px solid red\n"
+    "}\n"
+    "\n"
+    "QWidget {\n"
+    "  font: bold huge monospace;\n"
+    "  color: white;\n"
+    "  background-color: black;\n"
+    "  border: 2px solid red\n"
+    "}\n"
+  );
+}
