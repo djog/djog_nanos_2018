@@ -18,9 +18,9 @@ public:
   ~kamer_quinn();
 
 private slots:
-    void on_knop_n_clicked();
 
-    void on_knop_nw_clicked();
+  void on_knop_n_clicked();
+  void on_knop_nw_clicked();
 
 private:
   Ui::kamer_quinn *ui;
