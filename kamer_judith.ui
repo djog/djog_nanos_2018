@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>449</width>
+    <height>356</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,8 +16,8 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>150</x>
-     <y>140</y>
+     <x>200</x>
+     <y>50</y>
      <width>98</width>
      <height>17</height>
     </rect>
@@ -33,7 +33,7 @@
    <property name="geometry">
     <rect>
      <x>10</x>
-     <y>130</y>
+     <y>70</y>
      <width>89</width>
      <height>25</height>
     </rect>
@@ -45,8 +45,8 @@
   <widget class="QPushButton" name="knop_z">
    <property name="geometry">
     <rect>
-     <x>210</x>
-     <y>200</y>
+     <x>320</x>
+     <y>280</y>
      <width>89</width>
      <height>25</height>
     </rect>
@@ -55,40 +55,17 @@
     <string/>
    </property>
   </widget>
-  <widget class="QRadioButton" name="radioButton">
+  <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>260</x>
-     <y>100</y>
-     <width>95</width>
-     <height>20</height>
+     <x>300</x>
+     <y>80</y>
+     <width>93</width>
+     <height>28</height>
     </rect>
    </property>
    <property name="text">
-    <string>RadioButton</string>
-   </property>
-  </widget>
-  <widget class="QDial" name="dial">
-   <property name="geometry">
-    <rect>
-     <x>120</x>
-     <y>10</y>
-     <width>50</width>
-     <height>64</height>
-    </rect>
-   </property>
-  </widget>
-  <widget class="QSlider" name="verticalSlider">
-   <property name="geometry">
-    <rect>
-     <x>330</x>
-     <y>170</y>
-     <width>22</width>
-     <height>101</height>
-    </rect>
-   </property>
-   <property name="orientation">
-    <enum>Qt::Vertical</enum>
+    <string>ik ben bowser</string>
    </property>
   </widget>
  </widget>
