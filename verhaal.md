@@ -1,6 +1,7 @@
 # Het verhaal
 
 ## Personages
+
 Hier de lijst van personages op alfabet:
 
  * Tom: kan de enige D.A.T zijn die je kunt verslaan.
@@ -13,8 +14,16 @@ Hier de lijst van personages op alfabet:
    en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Rohan)
  * Illusions: probeert je voor de gek te houden
  * Kulk: een klunsige struikrover
+ * Deminion: een de heerser van dimension oltran.
+ * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
+ * dilonu: iemand die je embar af probbert te pakken in de batle tower.
+ * Klunk: een smit in het dorp
  * Raz: geheimzinnig figuur
  * cayde: friend die altijd bij je blijft 
+
+## Voorwerpen
+
+Hier de lijst voorwerpen:
 
 * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
 * Elektrisch geweer (nodig voor D.A.T)
@@ -22,21 +31,27 @@ Hier de lijst van personages op alfabet:
 * Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
 * Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
 
-## Loop erdoorheen
+## Locaties
 
+Hier de lijst van locaties:
 
-In het begin ben je in een bos.
-Je vliegtuig stortte neer in de verte, je ziet een donker kasteel.
+ * mandalorian: het dorp waar de avontuuriers
 
+## Doorloop
 
-Het eerste dat je moet vinden, is de sleutel
+In het begin word je wakker in een vreemde plek (er wordt uitgelegt 
+hoe je moet lopen als je naar voren loopt kom je map1 tegen.
+In het beeld verschijnt een tekst die uitlegt hoe je op de map kan kijken.
+Als je verder loopt kom je zwaard1 tegen.
 
-De sleutel vind je in een struik
-Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
-
+Dan loop je verder en kom je cayde tegen. dan zegt hij: 
+'Ah, daar ben je, waar was je nou? Hoe dan ook, 
+help me even langs dit monster te komen!'.
+Dan (het beeld zoomt uit) zie je een monster 
+en achter hem zie je een embar.
+(Cayde legt uit hou de vecht controls werken)
 
 Je betreedt het kasteel met de sleutel.
-
 
 Wanneer je naar de kelder gaat, komt er kort daarna een mysterieus figuur (later blijkt het
 om deze Raz te zijn)
@@ -47,25 +62,31 @@ dit Raz te zijn)
 
 Met deze twee dingen kun je nu ...
 
-Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke wereld van(naam van de game)
-
+Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke 
+wereld van (naam van de game).
 
 Nu kom je bij een monster
 
-Je kunt al zien dat er achter het monster een kist(kist1) ligt, maar je kunt er nog niet bij
+Je kunt al zien dat er achter het monster een kist (kist1) ligt, 
+maar je kunt er nog niet bij
 
-(cayde legt controls uit voor vechten)en julie bevechten het monster
+(Cayde legt controls uit voor vechten)en julie bevechten het monster
 
-Dankzij het verslaan van het monster krijg je een sleutel(sleutel1) nu kun je daarmee de kist(kist1) openen
+Dankzij het verslaan van het monster krijg je een sleutel (sleutel1), 
+nu kun je daarmee de kist (kist1) openen
 
-Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. einde intro verhaal. 
+Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. 
+Einde intro verhaal. 
 
 Nu kun je komen bij ...
 
-Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
-dit Raz te zijn)
+dan valt het monster aan( zo wordt je gedwongen te vechten), 
+maar het monster is zwak en met drie klappen is hij neer.
 
-Het tweede wat je moet vinden is een kist met de toverkaart er in
+dan kun je de embar oppakken.
+
+Nu zegt cayde dat je hem moet volgen en julie lopen naar rechts 
+dan zie je een portaal en julie lopen er in.
 
 Nu kun je naar de kerkers komen
 
@@ -97,4 +118,5 @@ Een alarm gaat af: het kasteel zal binnen tien minuten ontploffen.
 Tijdens je ontsnapping ontmoet je Fake en Rick.
 
 Fake en Rick zijn gewond.
-Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, en ook ui zal hij een burger kusen aferwards 8(
+Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, 
+en ook ui zal hij een burger kusen aferwards 8(
