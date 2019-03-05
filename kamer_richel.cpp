@@ -36,14 +36,16 @@ void kamer_richel::on_knop_links_onder_clicked()
 {
   this->setStyleSheet(
     "QDialog {\n"
-    "  background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0  #ffb, stop: 1 #fbb);\n"
+    "  background-color: qlineargradient("
+      "x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #ffb, stop: 1 #fbb);\n"
     "  border: 1px solid black\n"
     "}\n"
     "\n"
     "QWidget {\n"
     "  font: bold huge monospace;\n"
     "  color: blak;\n"
-    "  background-color: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0  #ffb, stop: 1 #fbb);\n"
+    "  background-color: qlineargradient("
+      "x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #ffb, stop: 1 #fbb);\n"
     "}\n"
   );
 }
