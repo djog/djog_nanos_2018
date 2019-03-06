@@ -83,9 +83,6 @@
        <widget class="QWidget" name="widget_4" native="true">
         <layout class="QHBoxLayout" name="horizontalLayout_2">
          <item>
-          <widget class="QDial" name="dial"/>
-         </item>
-         <item>
           <widget class="QPushButton" name="knop_n">
            <property name="maximumSize">
             <size>
@@ -97,9 +94,6 @@
             <string>Jasper</string>
            </property>
           </widget>
-         </item>
-         <item>
-          <widget class="QDial" name="dial_2"/>
          </item>
         </layout>
        </widget>
@@ -166,9 +160,6 @@
              </widget>
             </item>
            </layout>
-           <zorder>pushButton</zorder>
-           <zorder>pushButton</zorder>
-           <zorder>pushButton_2</zorder>
           </widget>
          </item>
          <item>
