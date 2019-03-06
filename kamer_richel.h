@@ -28,6 +28,8 @@ private slots:
 
   void on_knop_rechts_boven_clicked();
 
+  void on_knop_hanne_clicked();
+
 private:
   Ui::kamer_richel *ui;
 

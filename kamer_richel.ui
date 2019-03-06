@@ -15,7 +15,7 @@
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout">
    <item>
-    <widget class="QWidget" name="widget" native="true">
+    <widget class="QWidget" name="widget_links" native="true">
      <layout class="QVBoxLayout" name="verticalLayout_4">
       <item>
        <widget class="QPushButton" name="knop_w">
@@ -38,20 +38,20 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLabel" name="label_4">
+       <widget class="QLabel" name="label_code">
         <property name="text">
          <string>Code</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QSpinBox" name="spinBox_3"/>
+       <widget class="QSpinBox" name="box_code_1"/>
       </item>
       <item>
-       <widget class="QSpinBox" name="spinBox_2"/>
+       <widget class="QSpinBox" name="box_code_2"/>
       </item>
       <item>
-       <widget class="QSpinBox" name="spinBox"/>
+       <widget class="QSpinBox" name="box_code_3"/>
       </item>
       <item>
        <spacer name="verticalSpacer_3">
@@ -77,7 +77,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QWidget" name="widget_3" native="true">
+    <widget class="QWidget" name="widget_midden" native="true">
      <layout class="QVBoxLayout" name="verticalLayout_2">
       <item>
        <widget class="QWidget" name="widget_4" native="true">
@@ -99,7 +99,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QFrame" name="frame">
+       <widget class="QFrame" name="frame_gevangenis">
         <property name="frameShape">
          <enum>QFrame::StyledPanel</enum>
         </property>
@@ -108,10 +108,10 @@
         </property>
         <layout class="QVBoxLayout" name="verticalLayout">
          <item>
-          <widget class="QWidget" name="widget_5" native="true">
+          <widget class="QWidget" name="widget_gevangenis_bovenkant" native="true">
            <layout class="QHBoxLayout" name="horizontalLayout_3">
             <item>
-             <widget class="QLabel" name="label_3">
+             <widget class="QLabel" name="label_samson_en_gert">
               <property name="text">
                <string/>
               </property>
@@ -121,7 +121,7 @@
              </widget>
             </item>
             <item>
-             <widget class="QLabel" name="label">
+             <widget class="QLabel" name="label_praat">
               <property name="font">
                <font>
                 <pointsize>20</pointsize>
@@ -143,17 +143,17 @@
           </widget>
          </item>
          <item>
-          <widget class="QWidget" name="widget_6" native="true">
+          <widget class="QWidget" name="widget_knoppen_samson_en_gert" native="true">
            <layout class="QHBoxLayout" name="horizontalLayout_4">
             <item>
-             <widget class="QPushButton" name="pushButton">
+             <widget class="QPushButton" name="knop_gert">
               <property name="text">
                <string>Praat met Gert</string>
               </property>
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="pushButton_2">
+             <widget class="QPushButton" name="knop_samson">
               <property name="text">
                <string>Praat met Samson</string>
               </property>
@@ -163,7 +163,7 @@
           </widget>
          </item>
          <item>
-          <widget class="QLabel" name="label_2">
+          <widget class="QLabel" name="label_k3">
            <property name="text">
             <string/>
            </property>
@@ -173,24 +173,24 @@
           </widget>
          </item>
          <item>
-          <widget class="QWidget" name="widget_7" native="true">
+          <widget class="QWidget" name="widget_knoppen_k3" native="true">
            <layout class="QHBoxLayout" name="horizontalLayout_5">
             <item>
-             <widget class="QPushButton" name="pushButton_4">
+             <widget class="QPushButton" name="knop_hanne">
               <property name="text">
                <string>Praat met Hanne</string>
               </property>
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="pushButton_5">
+             <widget class="QPushButton" name="knop_klaasje">
               <property name="text">
                <string>Praat met Klaasje</string>
               </property>
              </widget>
             </item>
             <item>
-             <widget class="QPushButton" name="pushButton_3">
+             <widget class="QPushButton" name="knop_marthe">
               <property name="text">
                <string>Praat met Marthe</string>
               </property>
@@ -206,7 +206,7 @@
     </widget>
    </item>
    <item>
-    <widget class="QWidget" name="widget_2" native="true">
+    <widget class="QWidget" name="widget_rechts" native="true">
      <layout class="QVBoxLayout" name="verticalLayout_3">
       <item>
        <widget class="QPushButton" name="knop_rechts_boven">
@@ -216,7 +216,7 @@
        </widget>
       </item>
       <item>
-       <spacer name="verticalSpacer">
+       <spacer name="spacer_rechts">
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>

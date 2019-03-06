@@ -56,3 +56,8 @@ void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
   m_kamer = static_cast<kamer_soort>(arg1);
   laat_kamer_zien();
 }
+
+void hoofd_scherm::voeg_voorwerp_toe(const voorwerp_soort voorwerp)
+{
+  ui->list_voorwerpen->addItem(QString::fromStdString(als_woord(voorwerp)));
+}

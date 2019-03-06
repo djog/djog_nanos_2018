@@ -1,6 +1,7 @@
 #include "kamer_richel.h"
 #include "ui_kamer_richel.h"
 #include "hoofd_scherm.h"
+#include "voorwerp_soort.h"
 
 kamer_richel::kamer_richel(
   hoofd_scherm * het_hoofd_scherm,
@@ -65,4 +66,10 @@ void kamer_richel::on_knop_rechts_boven_clicked()
     "  border: 2px solid red\n"
     "}\n"
   );
+}
+
+void kamer_richel::on_knop_hanne_clicked()
+{
+  ui->label_praat->setText("Gezellig!\nHier heb je\nmijn spiegel");
+  this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::spiegel);
 }

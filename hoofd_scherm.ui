@@ -54,7 +54,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QListView" name="list_voorwerpen"/>
+       <widget class="QListWidget" name="list_voorwerpen"/>
       </item>
       <item>
        <spacer name="spacer_midden">
