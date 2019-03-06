@@ -42,7 +42,7 @@ hoofd_scherm::~hoofd_scherm()
 void hoofd_scherm::ga_naar(const kamer_soort kamer)
 {
   m_kamer = kamer;
-  this->ui->spinBox->setValue(static_cast<int>(kamer));
+  this->ui->box_kamer->setValue(static_cast<int>(kamer));
   laat_kamer_zien();
 }
 
@@ -51,7 +51,7 @@ void hoofd_scherm::laat_kamer_zien()
   ui->kamers->setCurrentIndex(static_cast<int>(m_kamer));
 }
 
-void hoofd_scherm::on_spinBox_valueChanged(int arg1)
+void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
 {
   m_kamer = static_cast<kamer_soort>(arg1);
   laat_kamer_zien();
