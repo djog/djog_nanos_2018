@@ -4,6 +4,7 @@
 
 Hier de lijst van personages op alfabet:
 
+ * cayde: friend die altijd bij je blijft 
  * Tom: kan de enige D.A.T zijn die je kunt verslaan.
  * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
  * Jack: een norse, achterbakse bewaker
@@ -18,8 +19,7 @@ Hier de lijst van personages op alfabet:
  * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
  * dilonu: iemand die je embar af probbert te pakken in de batle tower.
  * Klunk: een smit in het dorp
- * Raz: geheimzinnig figuur
- * cayde: friend die altijd bij je blijft 
+ * Raz: geheimzinnig figuur 
 
 ## Voorwerpen
 
