@@ -30,7 +30,7 @@ void kamer_richel::on_knop_n_clicked()
 
 void kamer_richel::on_knop_w_clicked()
 {
-  m_hoofd_scherm->ga_naar(kamer_soort::rohan);
+  //m_hoofd_scherm->ga_naar(kamer_soort::rohan);
 }
 
 void kamer_richel::on_knop_links_onder_clicked()
