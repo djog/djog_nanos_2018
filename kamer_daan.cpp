@@ -16,3 +16,8 @@ kamer_daan::~kamer_daan()
 {
   delete ui;
 }
+
+void kamer_daan::on_pushButton_clicked()
+{
+    m_hoofd_scherm->ga_naar(kamer_soort::quinn);
+}
