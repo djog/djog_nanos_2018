@@ -47,9 +47,13 @@
     <rect>
      <x>170</x>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <y>40</y>
 =======
      <y>30</y>
+>>>>>>> develop
+=======
+     <y>40</y>
 >>>>>>> develop
      <width>141</width>
      <height>31</height>
@@ -71,6 +75,9 @@
    <property name="text">
     <string>Mees</string>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> develop
    </property>
   </widget>
   <widget class="QLabel" name="label_2">
@@ -84,6 +91,9 @@
    </property>
    <property name="text">
     <string/>
+<<<<<<< HEAD
+=======
+>>>>>>> develop
 =======
 >>>>>>> develop
    </property>

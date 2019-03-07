@@ -33,6 +33,8 @@ private:
   int k_x = 30;
   int k_y = 225;
   int click = 0;
+  int gd_x = 50;
+  int gd_y = 50;
 
   hoofd_scherm * const m_hoofd_scherm;
 };

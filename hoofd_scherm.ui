@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>752</width>
-    <height>437</height>
+    <height>529</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -34,7 +34,7 @@
        </widget>
       </item>
       <item>
-       <spacer name="verticalSpacer">
+       <spacer name="spacer_boven">
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>
@@ -47,14 +47,37 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLabel" name="label">
+       <widget class="QLabel" name="label_voorwerpen">
+        <property name="text">
+         <string>Voorwerpen:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QListWidget" name="list_voorwerpen"/>
+      </item>
+      <item>
+       <spacer name="spacer_midden">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_ga_naar_kamer">
         <property name="text">
          <string>Ga naar kamer</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QSpinBox" name="spinBox">
+       <widget class="QSpinBox" name="box_kamer">
         <property name="cursor">
          <cursorShape>OpenHandCursor</cursorShape>
         </property>
@@ -67,7 +90,7 @@
        </widget>
       </item>
       <item>
-       <spacer name="verticalSpacer_2">
+       <spacer name="spacer_beneden">
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>

@@ -1,9 +1,12 @@
-# Het Verhaal
+# Het verhaal
 
 ## Personages
 
 Hier de lijst van personages op alfabet:
- 
+
+ * Tom: kan de enige D.A.T zijn die je kunt verslaan.
+ * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
+ * Jack: een norse, achterbakse bewaker
  * D.A.T.: robot die jou wil vernietigen
  * Fake: een goede vriend die je later in het spel 
    ontmoet (hij is niet goed bij zijn hoofd, gek dus)
@@ -11,59 +14,112 @@ Hier de lijst van personages op alfabet:
    en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Rohan)
  * Illusions: probeert je voor de gek te houden
  * Kulk: een klunsige struikrover
- * Raztt: geheimzinnig figuur
+ * Deminion: een de heerser van dimension oltran.
+ * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
+ * dilonu: iemand die je embar af probbert te pakken in de batle tower.
+ * Klunk: een smit in het dorp
+ * Raz: geheimzinnig figuur
+ * cayde: friend die altijd bij je blijft 
 
 ## Voorwerpen
 
-Hier de lijst voorwerpen op alfabet:
+Hier de lijst voorwerpen:
 
- * Electriciteits geweer ( nodig voor D.A.T)
- * Sleutel
- * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
+* Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
+* Elektrisch geweer (nodig voor D.A.T)
+* Sleutel
+* Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
+* Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
+
+## Locaties
+
+Hier de lijst van locaties:
+
+ * mandalorian: het dorp waar de avontuuriers
 
 ## Doorloop
 
-In het begin sta je in een bos.
-Je vliegtuig is neergestort in de verte zie je een donker kasteel.
+In het begin word je wakker in een vreemde plek (er wordt uitgelegt 
+hoe je moet lopen als je naar voren loopt kom je map1 tegen.
+In het beeld verschijnt een tekst die uitlegt hoe je op de map kan kijken.
+Als je verder loopt kom je zwaard1 tegen.
 
-Het eerste wat je moet vinden is de sleutel
+Dan loop je verder en kom je cayde tegen. dan zegt hij: 
+'Ah, daar ben je, waar was je nou? Hoe dan ook, 
+help me even langs dit monster te komen!'.
+Dan (het beeld zoomt uit) zie je een monster 
+en achter hem zie je een embar.
+(Cayde legt uit hou de vecht controls werken)
 
-De sleutel vind je in een struik
-Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
+Je betreedt het kasteel met de sleutel.
 
-Met de sleutel kom je in het kasteel.
+Wanneer je naar de kelder gaat, komt er kort daarna een mysterieus figuur (later blijkt het
+om deze Raz te zijn)
+
+Als je langs de deur loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
+dit Raz te zijn)
+
+
+Met deze twee dingen kun je nu ...
+
+Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke 
+wereld van (naam van de game).
+
+Nu kom je bij een monster
+
+Je kunt al zien dat er achter het monster een kist (kist1) ligt, 
+maar je kunt er nog niet bij
+
+(Cayde legt controls uit voor vechten)en julie bevechten het monster
+
+Dankzij het verslaan van het monster krijg je een sleutel (sleutel1), 
+nu kun je daarmee de kist (kist1) openen
+
+Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. 
+Einde intro verhaal. 
+
+Nu kun je komen bij ...
 
 Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is een kist met de toverkaart er in
+dan valt het monster aan( zo wordt je gedwongen te vechten), 
+maar het monster is zwak en met drie klappen is hij neer.
 
-Nu kun je komen bij de kerkers
+dan kun je de embar oppakken.
 
-Je kunt al zien dat er een sleutel is, maar je kunt er nog niet bij.
+Nu zegt cayde dat je hem moet volgen en julie lopen naar rechts 
+dan zie je een portaal en julie lopen er in.
 
-Als je verder loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
+Nu kun je naar de kerkers komen
 
-Dankzij de sleutel kun je nu door de deur
+Je kunt al zien dat er een sleutel is, maar je hebt er nog geen toegang toe.
 
-Als je deze deur opent, dan zie je recht voor je een lift, 
-en rechts van je een deur.
+Als je verder loopt, zie je de mysterieuze figuur (later verschijnt het
+om Raz te zijn) ...
 
-Als je in de lift stapt kun je naar meerdere verdiepingen.
-Ga nog niet naar de hoogste verdieping!
-Ga inplaats daarvan naar de tweede verdieping.
+Dankzij de sleutel kun je nu door de deur gaan
 
-(Hier kom je Raz weer tegen)
+Als je deze deur opent, zie je een lift recht voor je,
+en aan de rechterkant van jou een deur.
 
-(hier krijg je het electriciteitsgeweer)
+Als je de lift instapt, kun je naar meerdere verdiepingen gaan.
+Ga nog niet naar de bovenste verdieping!
+Ga naar de tweede verdieping.
 
-Je gaat naar de hoogste verdieping. 
-De lift gaat open en D.A.T. staat tegenover je.
-D.A.T. wil je vernietigen.
-Vernietig D.A.T. met het electriciteits geweer.
+(Hier ontmoet je Raz opnieuw)
 
-Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
+(hier krijg je het power shotgun)
+
+Je gaat naar de bovenste verdieping.
+De lift gaat open en D.A.T. wordt geconfronteerd met jou.
+WELKE. je wilt vernietigen.
+Destroy D.A.T. met het elektriciteitspistool.
+
+Een alarm gaat af: het kasteel zal binnen tien minuten ontploffen.
 
 Tijdens je ontsnapping ontmoet je Fake en Rick.
-Fake en Rick zijn gewond. 
+
+Fake en Rick zijn gewond.
+Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, 
+en ook ui zal hij een burger kusen aferwards 8(
