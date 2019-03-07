@@ -4,42 +4,41 @@
 
 Hier de lijst van personages op alfabet:
 
+ * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
  * cayde: friend die altijd bij je blijft 
- * Tom: kan de enige D.A.T zijn die je kunt verslaan.
- * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
- * Jack: een norse, achterbakse bewaker
  * D.A.T.: robot die jou wil vernietigen
+ * Deminion: een de heerser van dimension oltran.
+ * dilonu: iemand die je embar af probeert te pakken in de dimension oltran.
  * Fake: een goede vriend die je later in het spel 
    ontmoet (hij is niet goed bij zijn hoofd, gek dus)
  * Hamburger: je ergste vijandigheid die googolplexplex hamburgers per miliseconde eet 
    en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Rohan)
  * Illusions: probeert je voor de gek te houden
- * Kulk: een klunsige struikrover
- * Deminion: een de heerser van dimension oltran.
- * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
- * dilonu: iemand die je embar af probeert te pakken in de dimension oltran.
+ * Jack: een norse, achterbakse bewaker
  * Klunk: een smit in het dorp
+ * Kulk: een klunsige struikrover
+ * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
  * Raz: spion van deminion
+ * Tom: kan de enige D.A.T zijn die je kunt verslaan.
 
 ## Voorwerpen
 
 Hier de lijst voorwerpen:
 
- * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
  * Elektrisch geweer (nodig voor D.A.T)
- * Sleutel
- * Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
- * Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
  * embar: betaalmidel in mandelorain
+ * Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
+ * Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
  * Sleutel
+ * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
  * zwaard1: houtenzwaard
 
 ## Locaties
 
 Hier de lijst van locaties:
 
-* mandelorian: het dorp waar de avontuuriers
-* dimension oltran: de dimensie waar de monsters vandaan komen
+ * Mandelorian: het dorp waar de avontuuriers
+ * Dimension Oltran: de dimensie waar de monsters vandaan komen
 
 ## Doorloop
 
