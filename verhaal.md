@@ -6,15 +6,15 @@ Hier de lijst van personages:
  
  * Deminion: een de heerser van dimension oltran.
  * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
- * dilonu: iemand die je embar af probbert te pakken in de batle tower.
+ * dilonu: iemand die je embar af probeert te pakken in de dimension oltran.
  * Klunk: een smit in het dorp
- * Raz: geheimzinnig figuur
+ * Raz: spion van deminion
 
 ## locaties
 hier de lijst van locaties:
 
-* mandalorian: het dorp waar de avontuuriers
-
+* mandelorian: het dorp waar de avontuuriers
+* dimension oltran: de dimensie waar de monsters vandaan komen
 
 
 
@@ -23,9 +23,10 @@ hier de lijst van locaties:
 
 Hier de lijst voorwerpen:
 
- * Electriciteits geweer ( nodig voor D.A.T)
+ * embar: betaalmidel in mandelorain
  * Sleutel
  * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
+ * zwaard1: houtenzwaard
 
 ## Doorloop
 
@@ -61,14 +62,3 @@ Ga inplaats daarvan naar de tweede verdieping.
 
 (Hier kom je Raz weer tegen)
 
-(hier krijg je het electriciteitsgeweer)
-
-Je gaat naar de hoogste verdieping. 
-De lift gaat open en D.A.T. staat tegenover je.
-D.A.T. wil je vernietigen.
-Vernietig D.A.T. met het electriciteits geweer.
-
-Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
-
-Tijdens je ontsnapping ontmoet je Fake en Rick.
-Fake en Rick zijn gewond. 
