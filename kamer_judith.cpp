@@ -16,3 +16,8 @@ kamer_judith::~kamer_judith()
 {
   delete ui;
 }
+
+void kamer_judith::on_pushButton_clicked()
+{
+   this->ui->pushButton->setText("haal me uit deze computer!");
+}
