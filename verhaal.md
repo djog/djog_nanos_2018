@@ -4,52 +4,50 @@
 
 Hier de lijst van personages op alfabet:
 
- * berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden.
- * cayde: friend die altijd bij je blijft 
- * D.A.T.: robot die jou wil vernietigen
- * Deminion: een de heerser van dimension oltran.
- * dilonu: iemand die je embar af probeert te pakken in de dimension oltran.
+ * Berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden (waarom?)
+ * Cayde: vriend (waarom is hij een vriend?) die altijd bij je blijft (waarom blijft hij bij je?) 
+ * D.A.T.: robot die jou wil vernietigen (waarom wij hij de speler vernietigen?)(wil hij enkel de speler vernietigen?)
+ * Deminion: een de heerser van Dimension Oltran (waarom wilde hij heerser worden?)
+ * Dilonu: iemand die je embar af probeert te pakken in de dimension oltran (waarom?)
  * Fake: een goede vriend die je later in het spel 
-   ontmoet (hij is niet goed bij zijn hoofd, gek dus)
- * Hamburger: je ergste vijandigheid die googolplexplex hamburgers per miliseconde eet 
-   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Rohan)
- * Illusions: probeert je voor de gek te houden
- * Jack: een norse, achterbakse bewaker
- * Klunk: een smit in het dorp
- * Kulk: een klunsige struikrover
- * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
- * Raz: spion van deminion
- * Tom: kan de enige D.A.T zijn die je kunt verslaan.
+   ontmoet (waarom sluit hij zich bij jou aan?)
+ * Illusions: probeert je voor de gek te houden (waarom?)
+ * Jack: een norse, achterbakse bewaker (waarom is hij zo?)(wat bewaakt hij?)
+ * Klunk: een smit in het dorp (wat maakt hij?)
+ * Kulk: een klunsige struikrover (waarom is hij klunzig?)(waarom is hij een struikrover?)
+ * Paul: de leider van de bewaking (hoe is hij leider geworden?), gevreesd om zijn wreedheid
+ * Raz: spion van Deminion (waarom is hij spion geworden?)
+ * Tom: kan als enige D.A.T verslaan (waarom?)(hoe?)
 
 ## Voorwerpen
 
-Hier de lijst voorwerpen:
+Hier de lijst voorwerpen, op alfabet:
 
  * Elektrisch geweer (nodig voor D.A.T)
- * embar: betaalmidel in mandelorain
- * Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
- * Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
- * Sleutel
- * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
- * zwaard1: houtenzwaard
+ * Embar: betaalmidel in Mandelorain
+ * Iphone Xs om Tom te vriend te houden (waarom dit voorwerp?)
+ * Kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
+ * Sleutel 
+ * Zwaard1: houtenzwaard
 
 ## Locaties
 
-Hier de lijst van locaties:
+Hier de lijst van locaties, op alfabet:
 
- * Mandelorian: het dorp waar de avontuuriers
- * Dimension Oltran: de dimensie waar de monsters vandaan komen
+ * Dimension Oltran: de dimensie waar de monsters vandaan komen (welke monsters?) (waarom komen ze naar onze dimensie?)
+ * Mandelorian: een dorp
 
 ## Doorloop
 
-In het begin word je wakker in een vreemde plek (er wordt uitgelegt 
-hoe je moet lopen als je naar voren loopt kom je map1 tegen.
+In het begin word je wakker in een vreemde plek (waarom sliep je?)
+(wat weet je nog hoe je op die plek kwam?). 
+Er wordt uitgelegt hoe je moet lopen als je naar voren loopt kom je map1 tegen.
 In het beeld verschijnt een tekst die uitlegt hoe je op de map kan kijken.
 Als je verder loopt kom je zwaard1 tegen.
 
-Dan loop je verder en kom je cayde tegen. dan zegt hij: 
-'Ah, daar ben je, waar was je nou? Hoe dan ook, 
-help me even langs dit monster te komen!'.
+Dan loop je verder en kom je Cayde tegen (waarom was je alleen?). 
+Dan zegt hij: 'Ah, daar ben je, waar was je nou? Hoe dan ook, 
+help me even langs dit monster te komen!'. (waar komt het monster vandaan?)
 Dan (het beeld zoomt uit) zie je een monster 
 en achter hem zie je een embar.
 (Cayde legt uit hou de vecht controls werken)
@@ -61,7 +59,6 @@ om deze Raz te zijn)
 
 Als je langs de deur loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
-
 
 Met deze twee dingen kun je nu ...
 
@@ -122,7 +119,4 @@ Destroy D.A.T. met het elektriciteitspistool.
 Een alarm gaat af: het kasteel zal binnen tien minuten ontploffen.
 
 Tijdens je ontsnapping ontmoet je Fake en Rick.
-
 Fake en Rick zijn gewond.
-Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, 
-en ook ui zal hij een burger kusen aferwards 8(
