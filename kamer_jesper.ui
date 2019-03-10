@@ -29,7 +29,10 @@
     <set>Qt::AlignCenter</set>
    </property>
   </widget>
-  <widget class="QPushButton" name="knop_deur">
+  <widget class="QPushButton" name="deur">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -42,7 +45,7 @@
     <string>de deur is open</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="kast">
    <property name="geometry">
     <rect>
      <x>160</x>
@@ -55,7 +58,7 @@
     <string>kast</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="geheime_deur">
    <property name="geometry">
     <rect>
      <x>160</x>
@@ -68,7 +71,7 @@
     <string>geheime deur</string>
    </property>
   </widget>
-  <widget class="QToolButton" name="toolButton">
+  <widget class="QToolButton" name="deur_knop">
    <property name="geometry">
     <rect>
      <x>220</x>
@@ -103,7 +106,10 @@
    </property>
    <layout class="QHBoxLayout" name="horizontalLayout_2"/>
   </widget>
-  <widget class="QPushButton" name="pushButton_3">
+  <widget class="QPushButton" name="muur_links_onder">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>120</x>
@@ -116,7 +122,10 @@
     <string>muur</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
+  <widget class="QPushButton" name="muur_links_boven">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>0</x>
@@ -129,7 +138,10 @@
     <string>muur</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_5">
+  <widget class="QPushButton" name="muur_rechts_boven">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>290</x>
@@ -142,7 +154,10 @@
     <string>muur</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_6">
+  <widget class="QPushButton" name="muur_rechts_onder">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>290</x>
@@ -155,7 +170,7 @@
     <string>muur</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_7">
+  <widget class="QPushButton" name="geheime_deur_2">
    <property name="geometry">
     <rect>
      <x>270</x>
@@ -168,7 +183,7 @@
     <string>PushButton</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_8">
+  <widget class="QPushButton" name="kist">
    <property name="geometry">
     <rect>
      <x>250</x>
@@ -192,6 +207,20 @@
    </property>
    <property name="orientation">
     <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QLabel" name="deur_knop_hint">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>30</y>
+     <width>221</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&quot;Hè, hij schiet meteen weer
+dicht. Had ik maar een tak ofzo.&quot;</string>
    </property>
   </widget>
  </widget>

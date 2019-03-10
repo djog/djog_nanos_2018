@@ -2,59 +2,83 @@
 #include "ui_kamer_jesper.h"
 #include "hoofd_scherm.h"
 
+#include <cassert>
+
 kamer_jesper::kamer_jesper(hoofd_scherm * het_hoofd_scherm, QWidget *parent) :
     QWidget(parent),
     ui(new Ui::kamer_jesper),
     m_hoofd_scherm(het_hoofd_scherm)
 {
     this->ui->setupUi(this);
-    this->ui->knop_deur->setText("deur is dicht");
-    this->ui->pushButton_2->setHidden(true);
-    this->ui->pushButton_3->setHidden(true);
-    this->ui->pushButton_6->setHidden(true);
-    this->ui->pushButton_7->setHidden(true);
-    this->ui->pushButton_7->setText("ge\nhe\nim\ne\nde\nur");
-    this->ui->pushButton_8->setHidden(true);
+
+    this->ui->deur->setText("deur is dicht");
+    this->ui->deur_knop_hint->setHidden(true);
+
+    this->ui->geheime_deur->setHidden(true);
+    this->ui->muur_links_onder->setHidden(true);
+    this->ui->muur_rechts_onder->setHidden(true);
+    this->ui->geheime_deur_2->setHidden(true);
+    this->ui->geheime_deur_2->setText("ge\nhe\nim\ne\nde\nur");
+    this->ui->kist->setHidden(true);
 }
 
 kamer_jesper::~kamer_jesper()
 {
-  delete this->ui;
+    delete this->ui;
 }
 
-void kamer_jesper::on_pushButton_clicked()
+void kamer_jesper::on_kast_clicked()
 {
-    this->ui->pushButton->move(this->k_x, this->k_y);
-    this->ui->pushButton_2->setVisible(true);
-    this->ui->pushButton_3->setVisible(true);
-    this->ui->pushButton_6->setVisible(true);
+    this->ui->kast->move(this->kast_open_x, this->kast_open_y);
+    this->ui->geheime_deur->setVisible(true);
+    this->ui->muur_links_onder->setVisible(true);
+    this->ui->muur_rechts_onder->setVisible(true);
 }
 
-void kamer_jesper::on_toolButton_pressed()
+void kamer_jesper::on_deur_knop_pressed()
 {
-    this->ui->knop_deur->setText("deur is open");
-    click = 1;
+    this->ui->deur->setText("deur is open");
+    this->ui->deur->setEnabled(true);
+    deur_open = true;
 }
 
-void kamer_jesper::on_toolButton_released()
+void kamer_jesper::on_deur_knop_released()
 {
-    this->ui->knop_deur->setText("deur is dicht");
-    click = 0;
+    this->ui->deur->setText("deur is dicht");
+    this->ui->deur->setDisabled(true);
+    deur_open = false;
+    this->ui->deur_knop_hint->setVisible(true);
 }
 
-void kamer_jesper::on_knop_deur_clicked()
+void kamer_jesper::on_deur_clicked()
 {
-    this->m_hoofd_scherm->ga_naar(kamer_soort::jasper);
+    if (deur_open) {
+        this->m_hoofd_scherm->ga_naar(kamer_soort::jasper);
+    }
 }
 
-
-void kamer_jesper::on_pushButton_2_clicked()
+void kamer_jesper::on_geheime_deur_clicked()
 {
-    this->ui->pushButton_7->setVisible(true);
-    this->ui->pushButton_2->setHidden(true);
+    this->ui->geheime_deur_2->setVisible(true);
+    this->ui->geheime_deur->setHidden(true);
+    this->ui->kist->setVisible(true);
 }
 
-void kamer_jesper::on_pushButton_8_clicked()
+void kamer_jesper::on_kist_clicked()
 {
-
+    switch (this->items_in_kist) {
+    case 2:
+        this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::pistool);
+        --this->items_in_kist;
+        break;
+    case 1:
+        this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::tak);
+        --this->items_in_kist;
+        this->ui->kist->setDisabled(true);
+        break;
+    case 0:
+        break;
+    default:
+        assert(!"Onjuist aantal items in kist"); //!OCLINT
+    }
 }

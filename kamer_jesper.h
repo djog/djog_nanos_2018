@@ -18,27 +18,20 @@ public:
   ~kamer_jesper();
 
 private slots:
-
-    void on_knop_deur_clicked();
-
-    void on_pushButton_clicked();
-
-    void on_toolButton_pressed();
-
-    void on_toolButton_released();
-
-    void on_pushButton_2_clicked();
-
-    void on_pushButton_8_clicked();
+  void on_kast_clicked();
+  void on_kist_clicked();
+  void on_deur_clicked();
+  void on_deur_knop_pressed();
+  void on_deur_knop_released();
+  void on_geheime_deur_clicked();
 
 private:
   Ui::kamer_jesper *ui;
 
-  int k_x = 30;
-  int k_y = 225;
-  int click = 0;
-  int gd_x = 50;
-  int gd_y = 50;
+  bool deur_open = false;
+  int items_in_kist = 2;
+  const int kast_open_x = 30;
+  const int kast_open_y = 225;
 
   hoofd_scherm * const m_hoofd_scherm;
 };
