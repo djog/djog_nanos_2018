@@ -5,7 +5,9 @@
 
 enum class voorwerp_soort
 {
-  spiegel
+    spiegel,
+    pistool,
+    tak
 };
 
 ///Maak een woord van een voorwerp,
