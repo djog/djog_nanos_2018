@@ -25,13 +25,18 @@ private slots:
   void on_deur_knop_released();
   void on_geheime_deur_clicked();
 
+  void on_geheime_deur_2_clicked();
+
 private:
   Ui::kamer_jesper *ui;
 
   bool deur_open = false;
   int items_in_kist = 2;
+  int kast_open = 2; // 1 = open 2 = dicht 3 = straks open 4 = straks dicht
   const int kast_open_x = 30;
   const int kast_open_y = 225;
+  const int kast_dicht_x = 160;
+  const int kast_dicht_y = 250;
 
   hoofd_scherm * const m_hoofd_scherm;
 };
