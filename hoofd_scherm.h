@@ -21,9 +21,11 @@ public:
   ///Ga naar een kamer
   void ga_naar(const kamer_soort kamer);
 
+  ///De speler heeft een voorwerp gepakt
   void voeg_voorwerp_toe(const voorwerp_soort voorwerp);
 
 private slots:
+  ///De speler speelt vals en teleporteert naar een kamer
   void on_box_kamer_valueChanged(int arg1);
 
 private:
