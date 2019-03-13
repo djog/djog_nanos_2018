@@ -27,12 +27,16 @@ private slots:
 
   void on_geheime_deur_2_clicked();
 
+  void on_antwoord_op_vraag_accepted();
+
 private:
   Ui::kamer_jesper *ui;
 
   bool deur_open = false;
+  bool je_mag_er_langs = false;
+  bool al_open = false;
   int items_in_kist = 2;
-  int kast_open = 2; // 1 = open 2 = dicht 3 = straks open 4 = straks dicht
+  int kast_open = 2; // 1 = open 2 = dicht 3 = straks dicht 4 = straks open
   const int kast_open_x = 30;
   const int kast_open_y = 225;
   const int kast_dicht_x = 160;
