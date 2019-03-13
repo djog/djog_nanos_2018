@@ -29,3 +29,5 @@ Engels|Helpt met het vertalen van moeilijk Engels naar Nederlands
 `git` 2|Helpt met `git` branches: het `status-checkout-merge` rondje
 Opstarten|Helpt een nieuw teamlid opstarten
 Project|Helpt met hoe de 'Project' pagina werkt
+UI|'User Interface': hoe het spel eruit ziet
+Verhaal|Bepaalt het verhaal
