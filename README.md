@@ -35,14 +35,17 @@ Samen een game maken.
   * [git](doc/git.md)
   * [planning](doc/planning.md)
   * [team](team/README.md)
+  * [video's](doc/videos.md)
 
 ![Kaart](doc/kaart.png)
 
 ## Voortgang
 
-![20190221](plaatjes/20190221.png)
+![](plaatjes/20190222.png)
 
-![20190212](plaatjes/20190212.png)
+![](plaatjes/20190221.png)
+
+![](plaatjes/20190212.png)
 
 ## Links
 

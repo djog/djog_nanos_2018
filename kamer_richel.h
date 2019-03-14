@@ -20,6 +20,16 @@ public:
 private slots:
   void on_knop_zo_clicked();
 
+  void on_knop_n_clicked();
+
+  void on_knop_w_clicked();
+
+  void on_knop_links_onder_clicked();
+
+  void on_knop_rechts_boven_clicked();
+
+  void on_knop_hanne_clicked();
+
 private:
   Ui::kamer_richel *ui;
 

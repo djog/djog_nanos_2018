@@ -111,11 +111,15 @@ Gepusht!
 
 ## 6. `git status`: kijken op welke branch je zit
 
+![](git_branches.png)
+
 ```
 git status
 ```
 
 ## 7. `git checkout richel`: ga naar jouw branch
+
+
 
 In de folder `djog_nanos_2018` doe je:
 

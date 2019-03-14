@@ -19,6 +19,10 @@ public:
 
 private slots:
 
+    void on_pushButton_2_pressed();
+
+    void on_pushButton_2_released();
+
 private:
   Ui::kamer_mees *ui;
 

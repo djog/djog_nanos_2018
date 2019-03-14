@@ -11,7 +11,8 @@ SOURCES += \
   kamer_rohan.cpp \
   kamer_quinn.cpp \
   kamer_seny.cpp \
-  kamer_soort.cpp
+  kamer_soort.cpp \
+    voorwerp_soort.cpp
 
 HEADERS += \
   hoofd_scherm.h \
@@ -26,7 +27,8 @@ HEADERS += \
   kamer_rohan.h \
   kamer_quinn.h \
   kamer_seny.h \
-  kamer_soort.h
+  kamer_soort.h \
+    voorwerp_soort.h
 
 FORMS += \
   hoofd_scherm.ui \
@@ -113,4 +115,7 @@ QMAKE_CXXFLAGS += -fext-numeric-literals
 # qrc_[*].cpp:400:44: error: 'qInitResources_[*]__init_variable__' defined but not used
 # [*]: the resource filename
 QMAKE_CXXFLAGS += -Wno-unused-variable
+
+DISTFILES += \
+    plaatjes/Bowser.png
 

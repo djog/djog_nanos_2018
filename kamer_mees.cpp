@@ -10,9 +10,23 @@ kamer_mees::kamer_mees(
     m_hoofd_scherm{het_hoofd_scherm}
 {
   ui->setupUi(this);
+  this->ui->label_2->setVisible(false);
+
 }
 
 kamer_mees::~kamer_mees()
 {
   delete ui;
+}
+
+
+
+void kamer_mees::on_pushButton_2_pressed()
+{
+  this->ui->label_2->setVisible(true);
+}
+
+void kamer_mees::on_pushButton_2_released()
+{
+   this->ui->label_2->setVisible(false);
 }

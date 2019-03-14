@@ -40,4 +40,5 @@ void kamer_jesper::on_toolButton_released()
 
 void kamer_jesper::on_pushButton_2_clicked()
 {
+    this->ui->pushButton_2->setSizeIncrement(gd_x, gd_y);
 }

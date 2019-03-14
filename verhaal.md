@@ -1,42 +1,58 @@
 # Het verhaal
 
 ## Personages
+
 Hier de lijst van personages op alfabet:
 
-* Tom: kan de enige D.A.T zijn die je kunt verslaan.
- * Paul: de leider van de bewaking, gevreesd om zijn wreedheid
- * Jack: een norse, achterbakse bewaker
- * D.A.T.: robot die jou wil vernietigen
+ * Berserker: een goede vriend die je later in het spel ontmoet die je hulp nodig heeft om zijn voorwerpen terug te vinden (waarom?)
+ * Cayde: vriend (waarom is hij een vriend?) die altijd bij je blijft (waarom blijft hij bij je?) 
+ * D.A.T.: robot die jou wil vernietigen (waarom wij hij de speler vernietigen?)(wil hij enkel de speler vernietigen?)
+ * Deminion: een de heerser van Dimension Oltran (waarom wilde hij heerser worden?)
+ * Dilonu: iemand die je embar af probeert te pakken in de dimension oltran (waarom?)
  * Fake: een goede vriend die je later in het spel 
-   ontmoet (hij is niet goed bij zijn hoofd, gek dus)
- * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
-   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
- * Illusions: probeert je voor de gek te houden
- * Kulk: een klunsige struikrover
- * Raz: geheimzinnig figuur
- * cayde: friend die altijd bij je blijft 
+   ontmoet (waarom sluit hij zich bij jou aan?)
+ * Illusions: probeert je voor de gek te houden (waarom?)
+ * Jack: een norse, achterbakse bewaker (waarom is hij zo?)(wat bewaakt hij?)
+ * Klunk: een smit in het dorp (wat maakt hij?)
+ * Kulk: een klunsige struikrover (waarom is hij klunzig?)(waarom is hij een struikrover?)
+ * Paul: de leider van de bewaking (hoe is hij leider geworden?), gevreesd om zijn wreedheid
+ * Raz: spion van Deminion (waarom is hij spion geworden?)
+ * Tom: kan als enige D.A.T verslaan (waarom?)(hoe?)
 
+## Voorwerpen
 
-* Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
-* Elektrisch geweer (nodig voor D.A.T)
-* Sleutel
-* Magische kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
-* Iphone Xs om tom-vriend te houden (omdat je daar anders heen gaat)
-## Loop erdoorheen
+Hier de lijst voorwerpen, op alfabet:
 
+ * Elektrisch geweer (nodig voor D.A.T)
+ * Embar: betaalmidel in Mandelorain
+ * Iphone Xs om Tom te vriend te houden (waarom dit voorwerp?)
+ * Kaart: past zich aan waar je bent geweest en laat soms zien waar je naartoe moet
+ * Sleutel 
+ * Zwaard1: houtenzwaard
 
-In het begin ben je in een bos.
-Je vliegtuig stortte neer in de verte, je ziet een donker kasteel.
+## Locaties
 
+Hier de lijst van locaties, op alfabet:
 
-Het eerste dat je moet vinden, is de sleutel
+ * Dimension Oltran: de dimensie waar de monsters vandaan komen (welke monsters?) (waarom komen ze naar onze dimensie?)
+ * Mandelorian: een dorp
 
-De sleutel vind je in een struik
-Daar wordt je aangevallen door Kulk, (die bezig is de struik aan het roven)
+## Doorloop
 
+In het begin word je wakker in een vreemde plek (waarom sliep je?)
+(wat weet je nog hoe je op die plek kwam?). 
+Er wordt uitgelegt hoe je moet lopen als je naar voren loopt kom je map1 tegen.
+In het beeld verschijnt een tekst die uitlegt hoe je op de map kan kijken.
+Als je verder loopt kom je zwaard1 tegen.
+
+Dan loop je verder en kom je Cayde tegen (waarom was je alleen?). 
+Dan zegt hij: 'Ah, daar ben je, waar was je nou? Hoe dan ook, 
+help me even langs dit monster te komen!'. (waar komt het monster vandaan?)
+Dan (het beeld zoomt uit) zie je een monster 
+en achter hem zie je een embar.
+(Cayde legt uit hou de vecht controls werken)
 
 Je betreedt het kasteel met de sleutel.
-
 
 Wanneer je naar de kelder gaat, komt er kort daarna een mysterieus figuur (later blijkt het
 om deze Raz te zijn)
@@ -44,29 +60,36 @@ om deze Raz te zijn)
 Als je langs de deur loopt, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-
 Met deze twee dingen kun je nu ...
 
-Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke wereld van(naam van de game)
-
+Als je door loopt, zie je cayde (die je helpt om te overleven in de gruwelijke 
+wereld van (naam van de game).
 
 Nu kom je bij een monster
 
-Je kunt al zien dat er achter het monster een kist(kist1) ligt, maar je kunt er nog niet bij
+Je kunt al zien dat er achter het monster een kist (kist1) ligt, 
+maar je kunt er nog niet bij
 
-(cayde legt controls uit voor vechten)en julie bevechten het monster
+(Cayde legt controls uit voor vechten)en julie bevechten het monster
 
-Dankzij het verslaan van het monster krijg je een sleutel(sleutel1) nu kun je daarmee de kist(kist1) openen
+Dankzij het verslaan van het monster krijg je een sleutel (sleutel1), 
+nu kun je daarmee de kist (kist1) openen
 
-Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. einde intro verhaal. 
+Als je doorloopt zie je een portaal als je erin gaat kom je in de open wereld. 
+Einde intro verhaal. 
 
 Nu kun je komen bij ...
 
-=======
 Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
 dit Raz te zijn)
 
-Het tweede wat je moet vinden is een kist met de toverkaart er in
+dan valt het monster aan( zo wordt je gedwongen te vechten), 
+maar het monster is zwak en met drie klappen is hij neer.
+
+dan kun je de embar oppakken.
+
+Nu zegt cayde dat je hem moet volgen en julie lopen naar rechts 
+dan zie je een portaal en julie lopen er in.
 
 Nu kun je naar de kerkers komen
 
@@ -96,6 +119,4 @@ Destroy D.A.T. met het elektriciteitspistool.
 Een alarm gaat af: het kasteel zal binnen tien minuten ontploffen.
 
 Tijdens je ontsnapping ontmoet je Fake en Rick.
-
 Fake en Rick zijn gewond.
-Hamburger heeft hun hamburgers gegeten en ruikt naar ketchup, en ook ui zal hij een burger kusen aferwards 8(

@@ -1,12 +1,16 @@
 <RCC>
     <qresource prefix="/">
-        <file>plaatjes/red_cobra.png</file>
         <file>plaatjes/boom</file>
         <file>plaatjes/Creature_Ghost_Dragon.gif</file>
         <file>plaatjes/Creature_Zealot.gif</file>
         <file>plaatjes/Daan.png</file>
+        <file>plaatjes/heel erg toppie.png</file>
         <file>plaatjes/k3.jpeg</file>
+        <file>plaatjes/moehaha.jpg</file>
+        <file>plaatjes/red_cobra.png</file>
+        <file>plaatjes/samson_en_gert.jpeg</file>
         <file>plaatjes/win10.jpeg</file>
+        <file>plaatjes/Bowser.png</file>
         <file>plaatjes/muur_1b.gif</file>
     </qresource>
 </RCC>
