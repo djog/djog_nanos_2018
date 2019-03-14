@@ -14,6 +14,7 @@ kamer_rohan::kamer_rohan(
   this->ui->knop_w->setHidden(true);
   this->ui->knop_o->setHidden(true);
 
+
 }
 
 kamer_rohan::~kamer_rohan()
@@ -35,6 +36,7 @@ void kamer_rohan::on_pushButton_6_clicked()
 void kamer_rohan::on_pushButton_7_clicked()
 {
   this->ui->knop1->setText("fout");
+    m_hoofd_scherm->ga_naar(kamer_soort::quinn);
 }
 
 
@@ -57,3 +59,5 @@ void kamer_rohan::on_knop_n_clicked()
 {
      m_hoofd_scherm->ga_naar(kamer_soort::seny);
 }
+
+

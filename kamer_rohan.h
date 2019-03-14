@@ -32,6 +32,8 @@ private slots:
 
     void on_knop_n_clicked();
 
+
+
 private:
   Ui::kamer_rohan *ui;
 
