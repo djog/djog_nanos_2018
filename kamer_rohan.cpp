@@ -24,7 +24,6 @@ kamer_rohan::~kamer_rohan()
 
 
 
-
 void kamer_rohan::on_pushButton_6_clicked()
 {
     this->ui->knop_n->setVisible(true);

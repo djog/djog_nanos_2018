@@ -26,7 +26,7 @@ private slots:
 
 private:
   Ui::kamer_quinn *ui;
-    bool heb_je_de_sleutel = false;
+
   hoofd_scherm * const m_hoofd_scherm;
 };
 

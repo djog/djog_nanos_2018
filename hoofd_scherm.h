@@ -18,6 +18,8 @@ public:
   explicit hoofd_scherm(QWidget *parent = 0);
   ~hoofd_scherm();
 
+    bool heeft_voorwerp(const voorwerp_soort /* soort */) const { return true; }
+
   ///Ga naar een kamer
   void ga_naar(const kamer_soort kamer);
 
