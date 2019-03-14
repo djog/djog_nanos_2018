@@ -31,6 +31,7 @@ void kamer_rohan::on_pushButton_6_clicked()
     this->ui->knop_w->setVisible(true);
     this->ui->knop_o->setVisible(true);
     this->ui->knop1->setText("goed");
+    this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::sleutel);
 }
 
 void kamer_rohan::on_pushButton_7_clicked()
