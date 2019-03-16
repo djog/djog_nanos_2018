@@ -6,34 +6,18 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>576</width>
+    <height>400</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label">
-   <property name="geometry">
-    <rect>
-     <x>150</x>
-     <y>140</y>
-     <width>98</width>
-     <height>17</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string>Rohan's kamer</string>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
-   </property>
-  </widget>
   <widget class="QPushButton" name="knop_o">
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>130</y>
+     <x>230</x>
+     <y>220</y>
      <width>41</width>
      <height>101</height>
     </rect>
@@ -46,7 +30,7 @@
    <property name="geometry">
     <rect>
      <x>40</x>
-     <y>130</y>
+     <y>220</y>
      <width>41</width>
      <height>101</height>
     </rect>
@@ -58,8 +42,8 @@
   <widget class="QPushButton" name="knop_n">
    <property name="geometry">
     <rect>
-     <x>150</x>
-     <y>110</y>
+     <x>130</x>
+     <y>220</y>
      <width>91</width>
      <height>21</height>
     </rect>
@@ -75,8 +59,8 @@
    <property name="geometry">
     <rect>
      <x>0</x>
-     <y>230</y>
-     <width>401</width>
+     <y>320</y>
+     <width>581</width>
      <height>23</height>
     </rect>
    </property>
@@ -91,7 +75,7 @@
    <property name="geometry">
     <rect>
      <x>0</x>
-     <y>110</y>
+     <y>200</y>
      <width>81</width>
      <height>23</height>
     </rect>
@@ -106,8 +90,8 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>110</y>
+     <x>230</x>
+     <y>200</y>
      <width>81</width>
      <height>23</height>
     </rect>
@@ -119,8 +103,8 @@
   <widget class="QPushButton" name="pushButton_6">
    <property name="geometry">
     <rect>
-     <x>124</x>
-     <y>260</y>
+     <x>210</x>
+     <y>360</y>
      <width>101</width>
      <height>23</height>
     </rect>
@@ -132,8 +116,8 @@
   <widget class="QPushButton" name="pushButton_7">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>260</y>
+     <x>490</x>
+     <y>360</y>
      <width>75</width>
      <height>23</height>
     </rect>
@@ -148,9 +132,9 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>140</x>
-     <y>210</y>
-     <width>101</width>
+     <x>310</x>
+     <y>200</y>
+     <width>271</width>
      <height>23</height>
     </rect>
    </property>
@@ -165,7 +149,7 @@
    <property name="geometry">
     <rect>
      <x>0</x>
-     <y>130</y>
+     <y>220</y>
      <width>41</width>
      <height>101</height>
     </rect>
@@ -178,13 +162,13 @@
    <property name="geometry">
     <rect>
      <x>20</x>
-     <y>260</y>
+     <y>360</y>
      <width>75</width>
      <height>23</height>
     </rect>
    </property>
    <property name="text">
-    <string>miljoen</string>
+    <string>biljart</string>
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_9">
@@ -193,8 +177,8 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>359</x>
-     <y>130</y>
+     <x>270</x>
+     <y>220</y>
      <width>41</width>
      <height>101</height>
     </rect>
@@ -210,7 +194,7 @@
    <property name="geometry">
     <rect>
      <x>80</x>
-     <y>110</y>
+     <y>200</y>
      <width>75</width>
      <height>23</height>
     </rect>
@@ -225,8 +209,8 @@
    </property>
    <property name="geometry">
     <rect>
-     <x>244</x>
-     <y>110</y>
+     <x>150</x>
+     <y>200</y>
      <width>81</width>
      <height>23</height>
     </rect>
@@ -238,20 +222,22 @@
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>0</y>
-     <width>401</width>
-     <height>111</height>
+     <x>30</x>
+     <y>10</y>
+     <width>371</width>
+     <height>91</height>
     </rect>
    </property>
    <property name="text">
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>plaatjes/muur_1b.gif</pixmap>
+    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/muur_1b.gif</pixmap>
    </property>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
  <connections/>
 </ui>

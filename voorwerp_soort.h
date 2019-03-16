@@ -7,7 +7,10 @@
 ///(ik schrijf expres niet 'de voorwerpen', want dat is iets anders)
 enum class voorwerp_soort
 {
-  spiegel
+  pistool,
+  sleutel,
+  spiegel,
+  tak
 };
 
 ///Maak een woord van een voorwerp,
