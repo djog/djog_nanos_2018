@@ -3,6 +3,7 @@
 #include "hoofd_scherm.h"
 
 #include <cassert>
+#include <QCursor>
 
 kamer_jesper::kamer_jesper(hoofd_scherm * het_hoofd_scherm, QWidget *parent) :
     QWidget(parent),
@@ -20,7 +21,6 @@ kamer_jesper::kamer_jesper(hoofd_scherm * het_hoofd_scherm, QWidget *parent) :
     this->ui->muur_links_onder->setHidden(true);
     this->ui->muur_rechts_onder->setHidden(true);
     this->ui->geheime_deur_2->setHidden(true);
-    this->ui->geheime_deur_2->setText("ge\nhe\nim\ne\nde\nur");
     this->ui->kist->setHidden(true);
 }
 
@@ -60,21 +60,21 @@ void kamer_jesper::on_deur_knop_pressed()
     this->ui->deur->setText("deur is open");
     this->ui->deur->setEnabled(true);
     if(items_in_kist == 0 && al_open == false){
-         this->ui->vraag->setVisible(true);
-         this->ui->antwoord_op_vraag->setVisible(true);
+        this->ui->vraag->setVisible(true);
+        this->ui->antwoord_op_vraag->setVisible(true);
     }
     deur_open = true;
 }
 
 void kamer_jesper::on_deur_knop_released()
 {
-    if(al_open == false){
-    this->ui->deur->setText("deur is dicht");
+    if (al_open == false) {
+        this->ui->deur->setText("deur is dicht");
         this->ui->deur_knop_hint->setVisible(true);
     }
-    if(je_mag_er_langs == false){
-    this->ui->deur->setDisabled(true);
-    deur_open = false;
+    if (je_mag_er_langs == false) {
+        this->ui->deur->setDisabled(true);
+        deur_open = false;
     }
 }
 
@@ -123,6 +123,7 @@ void kamer_jesper::on_antwoord_op_vraag_accepted()
     this->ui->antwoord_op_vraag->setHidden(true);
     this->ui->vraag->setHidden(true);
     this->ui->deur_knop_hint->setHidden(true);
+    this->ui->deur->setCursor(Qt::OpenHandCursor);
     al_open = true;
     je_mag_er_langs = true;
 }
