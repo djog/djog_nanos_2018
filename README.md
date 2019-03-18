@@ -40,6 +40,10 @@ een steampunk thema.
 
 ![Kaart](doc/kaart.png)
 
+## Plaatjes
+
+Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
+
 ## Voortgang
 
 ![](plaatjes/20190222.png)

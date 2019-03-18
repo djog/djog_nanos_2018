@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1024</width>
-    <height>618</height>
+    <width>1034</width>
+    <height>628</height>
    </rect>
   </property>
   <property name="cursor">
@@ -146,14 +146,14 @@
     <widget class="QStackedWidget" name="kamers">
      <property name="minimumSize">
       <size>
-       <width>800</width>
-       <height>600</height>
+       <width>810</width>
+       <height>610</height>
       </size>
      </property>
      <property name="maximumSize">
       <size>
-       <width>800</width>
-       <height>600</height>
+       <width>810</width>
+       <height>610</height>
       </size>
      </property>
     </widget>

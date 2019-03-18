@@ -22,6 +22,9 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
 {
   ui->setupUi(this);
 
+  ui->kamers->layout()->setMargin(0);
+  ui->kamers->setContentsMargins(0, 0, 0, 0);
+
   //Dit moet op alfabet
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
