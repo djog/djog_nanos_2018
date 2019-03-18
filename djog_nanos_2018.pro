@@ -11,8 +11,9 @@ SOURCES += \
   kamer_rohan.cpp \
   kamer_quinn.cpp \
   kamer_seny.cpp \
+  kamer_slaapkamer.cpp \
   kamer_soort.cpp \
-    voorwerp_soort.cpp
+  voorwerp_soort.cpp
 
 HEADERS += \
   hoofd_scherm.h \
@@ -27,8 +28,9 @@ HEADERS += \
   kamer_rohan.h \
   kamer_quinn.h \
   kamer_seny.h \
+  kamer_slaapkamer.h \
   kamer_soort.h \
-    voorwerp_soort.h
+  voorwerp_soort.h
 
 FORMS += \
   hoofd_scherm.ui \
@@ -42,7 +44,8 @@ FORMS += \
   kamer_quinn.ui \
   kamer_rohan.ui \
   kamer_richel.ui \
-  kamer_seny.ui
+  kamer_seny.ui \
+  kamer_slaapkamer.ui
 
 RESOURCES += \
     djog_nanos_2018.qrc

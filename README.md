@@ -29,7 +29,8 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 
 ## Doel
 
-Samen een game maken.
+Samen een adventure game maken, die zich afspeelt in de toekomst, met
+een steampunk thema.
 
   * [gedrag](doc/gedrag.md)
   * [git](doc/git.md)

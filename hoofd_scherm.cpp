@@ -10,6 +10,7 @@
 #include "kamer_richel.h"
 #include "kamer_rohan.h"
 #include "kamer_seny.h"
+#include "kamer_slaapkamer.h"
 #include "ui_hoofd_scherm.h"
 
 #include <cassert>
@@ -20,6 +21,8 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   m_kamer{kamer_soort::daan}
 {
   ui->setupUi(this);
+
+  //Dit moet op alfabet
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
@@ -31,6 +34,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_richel(this, this));
   ui->kamers->addWidget(new kamer_rohan(this, this));
   ui->kamers->addWidget(new kamer_seny(this, this));
+  ui->kamers->addWidget(new kamer_slaapkamer(this, this));
   laat_kamer_zien();
 }
 
