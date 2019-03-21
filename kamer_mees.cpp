@@ -30,3 +30,9 @@ void kamer_mees::on_pushButton_2_released()
 {
    this->ui->label_2->setVisible(false);
 }
+
+void kamer_mees::on_pushButton_clicked()
+{
+    this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::steeksleutel);
+    this->ui->pushButton->setDisabled(true);
+}

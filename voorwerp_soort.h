@@ -10,7 +10,8 @@ enum class voorwerp_soort
   pistool,
   sleutel,
   spiegel,
-  tak
+  tak,
+  steeksleutel
 };
 
 ///Maak een woord van een voorwerp,
