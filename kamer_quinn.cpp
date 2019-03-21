@@ -22,6 +22,10 @@ kamer_quinn::~kamer_quinn()
 
 void kamer_quinn::on_knop_nw_clicked()
 {
+  if (m_hoofd_scherm->heeft_voorwerp(voorwerp_soort::spiegel))
+  {
+      //Doe dan iets
+  }
   this->ui->knop_nw->setText("Deur ging open");
   this->m_hoofd_scherm->ga_naar(kamer_soort::richel);
 
