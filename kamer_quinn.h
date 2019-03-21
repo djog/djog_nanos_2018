@@ -24,7 +24,7 @@ private slots:
 
   void on_knop_o_clicked();
 
-  void on_Bureau_clicked();
+
 
   void on_pushButton_clicked();
 

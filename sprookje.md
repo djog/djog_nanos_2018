@@ -7,7 +7,7 @@ hallo eindey was het leuk pauze
 
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
 lalalalalalallalalala
-mooi sprookjes
+mooi sprookj
 Er was eens
 een groot mannetje, hij werd de reuzendwerg genoemd haha
 een groot KIPPETJE, en een tovenaar en een thanos

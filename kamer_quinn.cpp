@@ -44,8 +44,3 @@ void kamer_quinn::on_pushButton_clicked()
    this->ui->pushButton->setText("Deur ging al open");
    this->m_hoofd_scherm->ga_naar(kamer_soort::rohan);
 }
-
-void kamer_quinn::on_Bureau_clicked()
-{
-   this->ui->on_bureau_clicked->setHidden(true);
-}
