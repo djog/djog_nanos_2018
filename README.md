@@ -29,7 +29,11 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 
 ## Doel
 
-Samen een game maken.
+Samen een adventure game maken, die zich afspeelt in de toekomst, met
+een steampunk thema.
+
+ * Tijdperk: toekomst
+ * Thema: mengsel van oude en nieuwe technologie, steampunk
 
   * [gedrag](doc/gedrag.md)
   * [git](doc/git.md)
@@ -38,6 +42,10 @@ Samen een game maken.
   * [video's](doc/videos.md)
 
 ![Kaart](doc/kaart.png)
+
+## Plaatjes
+
+Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 
 ## Voortgang
 

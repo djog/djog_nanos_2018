@@ -19,7 +19,20 @@ public:
 
 private slots:
 
-    void on_commandLinkButton_clicked();
+    void on_pushButton_6_clicked();
+
+    void on_pushButton_7_clicked();
+
+
+    void on_pushButton_8_clicked();
+
+    void on_knop_o_clicked();
+
+    void on_knop_w_clicked();
+
+    void on_knop_n_clicked();
+
+
 
 private:
   Ui::kamer_rohan *ui;

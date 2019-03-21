@@ -22,6 +22,12 @@ private slots:
   void on_knop_n_clicked();
   void on_knop_nw_clicked();
 
+  void on_knop_o_clicked();
+
+
+
+  void on_pushButton_clicked();
+
 private:
   Ui::kamer_quinn *ui;
 
