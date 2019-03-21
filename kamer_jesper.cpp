@@ -62,6 +62,7 @@ void kamer_jesper::on_deur_knop_pressed()
     if(items_in_kist == 0 && al_open == false){
         this->ui->vraag->setVisible(true);
         this->ui->antwoord_op_vraag->setVisible(true);
+            this->ui->deur_knop_hint->setHidden(true);
     }
     deur_open = true;
 }
@@ -75,6 +76,9 @@ void kamer_jesper::on_deur_knop_released()
     if (je_mag_er_langs == false) {
         this->ui->deur->setDisabled(true);
         deur_open = false;
+    }
+    if(items_in_kist == 0 && al_open == false){
+        this->ui->deur_knop_hint->setHidden(true);
     }
 }
 
@@ -123,10 +127,9 @@ void kamer_jesper::on_antwoord_op_vraag_accepted()
 {
     this->ui->antwoord_op_vraag->setHidden(true);
     this->ui->vraag->setHidden(true);
-    this->ui->deur_knop_hint->setHidden(true);
     this->ui->deur->setCursor(Qt::OpenHandCursor);
+    this->ui->deur->setText("deur is open");
+    this->ui->deur->setEnabled(true);
     al_open = true;
     je_mag_er_langs = true;
 }
-
-
