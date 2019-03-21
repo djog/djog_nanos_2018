@@ -84,11 +84,39 @@
     <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/heel erg toppie.png</pixmap>
    </property>
   </widget>
+  <widget class="QPushButton" name="Bureau">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>200</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Bureau</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>101</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Teleporter Rohan</string>
+   </property>
+  </widget>
   <zorder>label</zorder>
   <zorder>label_2</zorder>
   <zorder>knop_n</zorder>
   <zorder>knop_nw</zorder>
   <zorder>knop_o</zorder>
+  <zorder>Bureau</zorder>
+  <zorder>pushButton</zorder>
  </widget>
  <resources>
   <include location="djog_nanos_2018.qrc"/>
