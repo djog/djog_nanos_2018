@@ -32,7 +32,7 @@
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/slaapkamer.png</pixmap>
+      <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/slaapkamer_tekening.jpg</pixmap>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>

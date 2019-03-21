@@ -13,5 +13,6 @@
         <file>plaatjes/Bowser.png</file>
         <file>plaatjes/muur_1b.gif</file>
         <file>plaatjes/slaapkamer.png</file>
+        <file>plaatjes/slaapkamer_tekening.jpg</file>
     </qresource>
 </RCC>
