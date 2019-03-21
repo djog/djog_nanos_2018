@@ -13,44 +13,6 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label">
-   <property name="geometry">
-    <rect>
-     <x>150</x>
-     <y>140</y>
-     <width>261</width>
-     <height>471</height>
-    </rect>
-   </property>
-   <property name="cursor">
-    <cursorShape>UpArrowCursor</cursorShape>
-   </property>
-   <property name="text">
-    <string>Daan's kamer</string>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
-   </property>
-  </widget>
-  <widget class="QLabel" name="label_2">
-   <property name="geometry">
-    <rect>
-     <x>410</x>
-     <y>60</y>
-     <width>521</width>
-     <height>521</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/win10.jpeg</pixmap>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
-   </property>
-  </widget>
   <widget class="QLabel" name="label_4">
    <property name="geometry">
     <rect>
@@ -70,19 +32,36 @@
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>270</x>
-     <y>0</y>
+     <x>260</x>
+     <y>20</y>
      <width>16</width>
      <height>16</height>
     </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>BlankCursor</cursorShape>
    </property>
    <property name="text">
     <string/>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>220</x>
+     <y>590</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>UpArrowCursor</cursorShape>
+   </property>
+   <property name="text">
+    <string>Daans Kamer</string>
+   </property>
+  </widget>
  </widget>
- <resources>
-  <include location="djog_nanos_2018.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
