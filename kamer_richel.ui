@@ -99,11 +99,39 @@
     <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/laboratorium.jpg</pixmap>
    </property>
   </widget>
+  <widget class="QPushButton" name="knop_links_onder">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>60</y>
+     <width>21</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="knop_rechts_boven">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>230</y>
+     <width>16</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
   <zorder>label</zorder>
   <zorder>knop_hanne</zorder>
   <zorder>knop_zo</zorder>
   <zorder>knop_n</zorder>
   <zorder>knop_w</zorder>
+  <zorder>knop_links_onder</zorder>
+  <zorder>knop_rechts_boven</zorder>
  </widget>
  <resources>
   <include location="djog_nanos_2018.qrc"/>
