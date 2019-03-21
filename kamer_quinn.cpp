@@ -47,5 +47,5 @@ void kamer_quinn::on_pushButton_clicked()
 
 void kamer_quinn::on_Bureau_clicked()
 {
-   this->ui->on_bureau_clicked->setHidden(true);
+   this->ui->Bureau->setHidden(true);
 }
