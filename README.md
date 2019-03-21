@@ -6,7 +6,7 @@
 
 [![IRC Network](https://img.shields.io/badge/irc-%23djog_nanos_2018-blue.svg "IRC Freenode")](https://webchat.freenode.net/?channels=djog_nanos_2018)
 
-Gezamelijk project van de jongere/bijna-tieners 
+Gezamelijk project van de jongere/tieners 
 op de donderdagavond van de [Dojo](https://github.com/richelbilderbeek/Dojo) in schooljaar 2018-2019.
 
 `git` branches:
