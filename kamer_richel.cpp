@@ -70,6 +70,6 @@ void kamer_richel::on_knop_rechts_boven_clicked()
 
 void kamer_richel::on_knop_hanne_clicked()
 {
-  ui->label_praat->setText("Gezellig!\nHier heb je\nmijn spiegel");
   this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::spiegel);
+  ui->knop_hanne->hide();
 }
