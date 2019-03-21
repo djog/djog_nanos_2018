@@ -116,3 +116,6 @@ QMAKE_CXXFLAGS += -fext-numeric-literals
 # [*]: the resource filename
 QMAKE_CXXFLAGS += -Wno-unused-variable
 
+DISTFILES += \
+    plaatjes/Bowser.png
+
