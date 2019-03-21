@@ -7,12 +7,12 @@ hallo eindey was het leuk pauze
 
 er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
 lalalalalalallalalala
-mooi sprookjes
+mooi sprookj
 Er was eens
 een groot mannetje, hij werd de reuzendwerg genoemd haha
 een groot KIPPETJE, en een tovenaar en een thanos
 Er was eens een KIP, die graag KIPPEN spuwde.
-Er was eens een KIP, die graag KIPPEN toverde.
+Er was eens een KIP, die graag KIPPEN tovede.
 Er was eens een jongen genaamd mees hij was cool nog cooler dan seb  en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 Er was eens een jongen genaamd Jesper hjalmar doekes hij was cool nog cooler dan jesper en jasper vooral ...... <-VOOR_DE_VOLGENDE)
 Er was eens een draak, die niet graag vuur spuwde.
@@ -24,7 +24,7 @@ Er was eens een dwerg die veel groter was
 dan de andere dwergen.
 Hij had een kip die ook bang was voor hem,
 ook al voerde hij de kip elke dag trouw.
-zijn vrienden heten Jesper, Mees, Quinn, Rohan, Oliver(die jongens waren veel cooler dan dan de kip) 
+zijn vrienden heten Jesper, Mees, Quinn, Rohannes van der graven, Oliver(die jongens waren veel cooler dan dan de kip) 
 Mees was eens een aap, die niet graag vuur spuwde.
 In plaats daarvan gooide hij water in zijn keel, en gorgelde tot het hele land stond te beven
 Jesper was een tovenaar, die graag vuur toverde.
