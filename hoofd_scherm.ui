@@ -16,9 +16,6 @@
   <property name="windowTitle">
    <string>djog_nanos_2018</string>
   </property>
-  <property name="toolTipDuration">
-   <number>-2</number>
-  </property>
   <layout class="QHBoxLayout" name="horizontalLayout">
    <property name="sizeConstraint">
     <enum>QLayout::SetNoConstraint</enum>
