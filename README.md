@@ -49,6 +49,8 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 
 ## Voortgang
 
+![](plaatjes/20190322.png)
+
 ![](plaatjes/20190222.png)
 
 ![](plaatjes/20190221.png)
