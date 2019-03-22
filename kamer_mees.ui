@@ -56,6 +56,9 @@
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -71,8 +74,8 @@
   <widget class="QPushButton" name="pushButton_2">
    <property name="geometry">
     <rect>
-     <x>319</x>
-     <y>30</y>
+     <x>320</x>
+     <y>10</y>
      <width>71</width>
      <height>91</height>
     </rect>
@@ -84,7 +87,7 @@
   <widget class="QDial" name="burostoel">
    <property name="geometry">
     <rect>
-     <x>270</x>
+     <x>250</x>
      <y>40</y>
      <width>41</width>
      <height>64</height>
@@ -95,13 +98,13 @@
    <property name="geometry">
     <rect>
      <x>290</x>
-     <y>130</y>
-     <width>101</width>
-     <height>20</height>
+     <y>110</y>
+     <width>181</width>
+     <height>31</height>
     </rect>
    </property>
    <property name="text">
-    <string>er ligt niks op het bureau</string>
+    <string>er ligt niks</string>
    </property>
   </widget>
  </widget>
