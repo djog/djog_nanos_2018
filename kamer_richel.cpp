@@ -33,43 +33,8 @@ void kamer_richel::on_knop_w_clicked()
   m_hoofd_scherm->ga_naar(kamer_soort::rohan);
 }
 
-void kamer_richel::on_knop_links_onder_clicked()
+void kamer_richel::on_knop_spiegel_clicked()
 {
-  this->setStyleSheet(
-    "QDialog {\n"
-    "  background-color: qlineargradient("
-      "x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #ffb, stop: 1 #fbb);\n"
-    "  border: 1px solid black\n"
-    "}\n"
-    "\n"
-    "QWidget {\n"
-    "  font: bold huge monospace;\n"
-    "  color: blak;\n"
-    "  background-color: qlineargradient("
-      "x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #ffb, stop: 1 #fbb);\n"
-    "}\n"
-  );
-}
-
-void kamer_richel::on_knop_rechts_boven_clicked()
-{
-  this->setStyleSheet(
-    "QDialog {\n"
-    "  background-color: black;\n"
-    "  border: 1px solid red\n"
-    "}\n"
-    "\n"
-    "QWidget {\n"
-    "  font: bold huge monospace;\n"
-    "  color: white;\n"
-    "  background-color: black;\n"
-    "  border: 2px solid red\n"
-    "}\n"
-  );
-}
-
-void kamer_richel::on_knop_hanne_clicked()
-{
-  ui->label_praat->setText("Gezellig!\nHier heb je\nmijn spiegel");
   this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::spiegel);
+  ui->knop_spiegel->hide();
 }

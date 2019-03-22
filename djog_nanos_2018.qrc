@@ -12,5 +12,12 @@
         <file>plaatjes/win10.jpeg</file>
         <file>plaatjes/Bowser.png</file>
         <file>plaatjes/muur_1b.gif</file>
+        <file>plaatjes/slaapkamer.png</file>
+        <file>plaatjes/slaapkamer_tekening.jpg</file>
+        <file>plaatjes/slaapkamer_x.jpg</file>
+        <file>plaatjes/slaapkamer_y.jpg</file>
+        <file>plaatjes/slaapkamer_z.jpg</file>
+        <file>plaatjes/laboratorium.jpg</file>
+        <file>plaatjes/kleuken.jpg</file>
     </qresource>
 </RCC>
