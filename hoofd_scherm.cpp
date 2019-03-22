@@ -38,7 +38,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_rohan(this, this));
   ui->kamers->addWidget(new kamer_seny(this, this));
   ui->kamers->addWidget(new kamer_slaapkamer(this, this));
-  laat_kamer_zien();
+  ga_naar(kamer_soort::slaapkamer);
 }
 
 hoofd_scherm::~hoofd_scherm()
