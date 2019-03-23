@@ -60,6 +60,9 @@
        </widget>
       </item>
       <item>
+       <widget class="QTextEdit" name="textEdit"/>
+      </item>
+      <item>
        <widget class="QListWidget" name="list_voorwerpen"/>
       </item>
       <item>
