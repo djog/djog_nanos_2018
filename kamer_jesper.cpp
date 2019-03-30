@@ -130,6 +130,13 @@ void kamer_jesper::on_antwoord_op_vraag_accepted()
     this->ui->deur->setCursor(Qt::OpenHandCursor);
     this->ui->deur->setText("deur is open");
     this->ui->deur->setEnabled(true);
+    deur_open = true;
     al_open = true;
     je_mag_er_langs = true;
+}
+
+void kamer_jesper::on_antwoord_op_vraag_rejected()
+{
+    this->ui->antwoord_op_vraag->setHidden(true);
+    this->ui->vraag->setHidden(true);
 }

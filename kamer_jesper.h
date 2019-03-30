@@ -29,6 +29,8 @@ private slots:
 
   void on_antwoord_op_vraag_accepted();
 
+  void on_antwoord_op_vraag_rejected();
+
 private:
   Ui::kamer_jesper *ui;
 
