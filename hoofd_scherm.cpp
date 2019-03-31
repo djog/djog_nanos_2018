@@ -68,3 +68,14 @@ void hoofd_scherm::voeg_voorwerp_toe(const voorwerp_soort voorwerp)
 {
   ui->list_voorwerpen->addItem(QString::fromStdString(als_woord(voorwerp)));
 }
+
+void hoofd_scherm::haal_voorwerp_weg(const voorwerp_soort voorwerp)
+{
+    QList<QListWidgetItem*> items = ui->list_voorwerpen->findItems(QString::fromStdString(als_woord(voorwerp)), Qt::MatchExactly);
+
+    foreach(QListWidgetItem * item, items)
+    {
+        ui->list_voorwerpen->removeItemWidget(item);
+        delete item;
+    }
+}
