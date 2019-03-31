@@ -59,25 +59,22 @@ void kamer_jesper::on_deur_knop_pressed()
 {
     this->ui->deur->setText("deur is open");
     this->ui->deur->setEnabled(true);
-    if(items_in_kist == 0 && al_open == false){
+    if(items_in_kist == 0 && deur_open == false){
         this->ui->vraag->setVisible(true);
         this->ui->antwoord_op_vraag->setVisible(true);
             this->ui->deur_knop_hint->setHidden(true);
     }
-    deur_open = true;
 }
 
 void kamer_jesper::on_deur_knop_released()
 {
-    if (al_open == false) {
+    if (deur_open == false) {
         this->ui->deur->setText("deur is dicht");
         this->ui->deur_knop_hint->setVisible(true);
-    }
-    if (je_mag_er_langs == false) {
         this->ui->deur->setDisabled(true);
         deur_open = false;
     }
-    if(items_in_kist == 0 && al_open == false){
+    if(items_in_kist == 0 && deur_open == false){
         this->ui->deur_knop_hint->setHidden(true);
     }
 }
@@ -86,6 +83,7 @@ void kamer_jesper::on_deur_clicked()
 {
     if (deur_open) {
         this->m_hoofd_scherm->ga_naar(kamer_soort::jasper);
+        this->ui->deur_knop_hint->setHidden(true);
     }
 }
 
@@ -131,8 +129,6 @@ void kamer_jesper::on_antwoord_op_vraag_accepted()
     this->ui->deur->setText("deur is open");
     this->ui->deur->setEnabled(true);
     deur_open = true;
-    al_open = true;
-    je_mag_er_langs = true;
 }
 
 void kamer_jesper::on_antwoord_op_vraag_rejected()
