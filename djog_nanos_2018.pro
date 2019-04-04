@@ -13,6 +13,7 @@ SOURCES += \
   kamer_seny.cpp \
   kamer_slaapkamer.cpp \
   kamer_soort.cpp \
+  kamer_portals.cpp \
   voorwerp_soort.cpp
 
 HEADERS += \
@@ -29,6 +30,7 @@ HEADERS += \
   kamer_quinn.h \
   kamer_seny.h \
   kamer_slaapkamer.h \
+  kamer_portals.h \
   kamer_soort.h \
   voorwerp_soort.h
 
@@ -45,6 +47,7 @@ FORMS += \
   kamer_rohan.ui \
   kamer_richel.ui \
   kamer_seny.ui \
+  kamer_portals.ui \
   kamer_slaapkamer.ui
 
 RESOURCES += \

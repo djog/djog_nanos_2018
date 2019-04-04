@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1034</width>
-    <height>628</height>
+    <width>1052</width>
+    <height>823</height>
    </rect>
   </property>
   <property name="cursor">
@@ -16,10 +16,7 @@
   <property name="windowTitle">
    <string>djog_nanos_2018</string>
   </property>
-  <layout class="QHBoxLayout" name="horizontalLayout">
-   <property name="sizeConstraint">
-    <enum>QLayout::SetNoConstraint</enum>
-   </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
     <widget class="QWidget" name="links" native="true">
      <property name="maximumSize">
@@ -53,14 +50,37 @@
        </spacer>
       </item>
       <item>
+       <widget class="QGroupBox" name="box_doe">
+        <property name="title">
+         <string/>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QRadioButton" name="radio_bekijk">
+           <property name="text">
+            <string>Be&amp;kijk</string>
+           </property>
+           <property name="checked">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radio_pak">
+           <property name="text">
+            <string>Pak</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
        <widget class="QLabel" name="label_voorwerpen">
         <property name="text">
          <string>Voorwerpen:</string>
         </property>
        </widget>
-      </item>
-      <item>
-       <widget class="QTextEdit" name="textEdit"/>
       </item>
       <item>
        <widget class="QListWidget" name="list_voorwerpen"/>
@@ -143,22 +163,34 @@
     </widget>
    </item>
    <item>
-    <widget class="QStackedWidget" name="kamers">
-     <property name="minimumSize">
-      <size>
-       <width>810</width>
-       <height>610</height>
-      </size>
-     </property>
-     <property name="maximumSize">
-      <size>
-       <width>810</width>
-       <height>610</height>
-      </size>
-     </property>
+    <widget class="QWidget" name="rechts" native="true">
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QStackedWidget" name="kamers">
+        <property name="minimumSize">
+         <size>
+          <width>810</width>
+          <height>610</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>810</width>
+          <height>610</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPlainTextEdit" name="plainTextEdit"/>
+      </item>
+     </layout>
     </widget>
    </item>
   </layout>
+  <zorder>links</zorder>
+  <zorder>label_team_red_cobra</zorder>
+  <zorder>rechts</zorder>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
