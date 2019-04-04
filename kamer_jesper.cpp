@@ -84,6 +84,7 @@ void kamer_jesper::on_deur_clicked()
     if (deur_open) {
         this->m_hoofd_scherm->ga_naar(kamer_soort::jasper);
         this->ui->deur_knop_hint->setHidden(true);
+        this->m_hoofd_scherm->haal_voorwerp_weg(voorwerp_soort::tak);
     }
 }
 
