@@ -278,6 +278,19 @@ dicht. Had ik maar een tak ofzo.&quot;</string>
  deurknop aan drukken</string>
    </property>
   </widget>
+  <widget class="QDialogButtonBox" name="vraag_of_tak_terug">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>70</y>
+     <width>166</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="standardButtons">
+    <set>QDialogButtonBox::No|QDialogButtonBox::Yes</set>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>

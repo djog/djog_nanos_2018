@@ -31,6 +31,8 @@ private slots:
 
   void on_antwoord_op_vraag_rejected();
 
+  void on_vraag_of_tak_terug_accepted();
+
 private:
   Ui::kamer_jesper *ui;
 
@@ -41,6 +43,7 @@ private:
   const int kast_open_y = 225;
   const int kast_dicht_x = 160;
   const int kast_dicht_y = 250;
+  bool je_tak_ligt_er_nog = false;
 
   hoofd_scherm * const m_hoofd_scherm;
 };
