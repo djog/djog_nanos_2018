@@ -16,6 +16,7 @@ kamer_jesper::kamer_jesper(hoofd_scherm * het_hoofd_scherm, QWidget *parent) :
     this->ui->deur_knop_hint->setHidden(true);
     this->ui->vraag->setHidden(true);
     this->ui->antwoord_op_vraag->setHidden(true);
+    this->ui->vraag_of_tak_terug->setHidden(true);
 
     this->ui->geheime_deur->setHidden(true);
     this->ui->muur_links_onder->setHidden(true);
@@ -63,6 +64,12 @@ void kamer_jesper::on_deur_knop_pressed()
         this->ui->vraag->setVisible(true);
         this->ui->antwoord_op_vraag->setVisible(true);
             this->ui->deur_knop_hint->setHidden(true);
+    }
+    if(je_tak_ligt_er_nog){
+        this->ui->deur_knop_hint->setVisible(true);
+        this->ui->deur_knop_hint->setText("wil je je tak"
+                                          "terug");
+        this->ui->vraag_of_tak_terug->setVisible(true);
     }
 }
 
@@ -128,6 +135,8 @@ void kamer_jesper::on_antwoord_op_vraag_accepted()
     this->ui->deur->setCursor(Qt::OpenHandCursor);
     this->ui->deur->setText("deur is open");
     this->ui->deur->setEnabled(true);
+    this->m_hoofd_scherm->haal_voorwerp_weg(voorwerp_soort::tak);
+    je_tak_ligt_er_nog = true;
     deur_open = true;
 }
 
@@ -135,4 +144,16 @@ void kamer_jesper::on_antwoord_op_vraag_rejected()
 {
     this->ui->antwoord_op_vraag->setHidden(true);
     this->ui->vraag->setHidden(true);
+}
+
+void kamer_jesper::on_vraag_of_tak_terug_accepted()
+{
+    deur_open = false;
+    je_tak_ligt_er_nog = false;
+    this->ui->deur->setText("deur is dicht");
+    this->ui->deur->setDisabled(true);
+    this->m_hoofd_scherm->voeg_voorwerp_toe(voorwerp_soort::tak);
+    this->ui->deur_knop_hint->setText("Hè, hij schiet meteen weer\ndicht. Had ik maar een tak ofzo.");
+    this->ui->deur_knop_hint->setHidden(true);
+    this->ui->vraag_of_tak_terug->setHidden(true);
 }

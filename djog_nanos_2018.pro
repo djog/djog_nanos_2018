@@ -1,6 +1,7 @@
 SOURCES += \
   hoofd_scherm.cpp \
   kamer_daan.cpp \
+  kamer_garage.cpp \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
@@ -20,6 +21,7 @@ SOURCES += \
 HEADERS += \
   hoofd_scherm.h \
   kamer_daan.h \
+  kamer_garage.h \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
@@ -39,6 +41,7 @@ HEADERS += \
 FORMS += \
   hoofd_scherm.ui \
   kamer_daan.ui \
+  kamer_garage.ui \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
