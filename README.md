@@ -32,16 +32,26 @@ Branch|[![Travis CI logo](plaatjes/travis.png)](https://travis-ci.org)|[![Codeco
 Samen een adventure game maken, die zich afspeelt in de toekomst, met
 een steampunk thema.
 
- * Tijdperk: toekomst
- * Thema: mengsel van oude en nieuwe technologie, steampunk
-
   * [gedrag](doc/gedrag.md)
   * [git](doc/git.md)
   * [planning](doc/planning.md)
   * [team](team/README.md)
   * [video's](doc/videos.md)
 
-![Kaart](doc/kaart.png)
+## Kamers
+
+ * :warning: Kamernamen staan op alfabet
+
+Kamernaam |Programmeur|Graphics|Verhaal
+----------|-----------|--------|-------
+Badkamer  |           |        |
+Garage    |           |        |
+Slaapkamer|           |        |
+?         |           |        |
+
+ * Programmeur: programmeert de kamer
+ * Graphics: teken het achtergrondplaatje en voorwerpen
+ * Verhaal: bepaal het verhaal in de kamer
 
 ## Plaatjes
 
