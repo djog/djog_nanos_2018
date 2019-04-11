@@ -12,6 +12,7 @@ enum class kamer_soort
   jasper,
   jesper,
   judith,
+  kelder,
   kyrill,
   mees,
   oliver,

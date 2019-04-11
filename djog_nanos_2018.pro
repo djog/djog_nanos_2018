@@ -6,7 +6,9 @@ SOURCES += \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
+  kamer_kelder.cpp \
   kamer_kyrill.cpp \
+  kamer_lab.cpp \
   kamer_mees.cpp \
   kamer_oliver.cpp \
   kamer_richel.cpp \
@@ -26,7 +28,9 @@ HEADERS += \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
+  kamer_kelder.h \
   kamer_kyrill.h\
+  kamer_lab.h \
   kamer_mees.h \
   kamer_oliver.h \
   kamer_richel.h \
@@ -46,7 +50,9 @@ FORMS += \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
+  kamer_kelder.ui \
   kamer_kyrill.ui \
+  kamer_lab.ui \
   kamer_mees.ui \
   kamer_oliver.ui \
   kamer_quinn.ui \
