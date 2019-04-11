@@ -10,20 +10,9 @@ kamer_garage::kamer_garage(
     m_hoofd_scherm{het_hoofd_scherm}
 {
   ui->setupUi(this);
-  this->ui->pushButton->setHidden(true);
 }
 
 kamer_garage::~kamer_garage()
 {
   delete ui;
-}
-
-void kamer_garage::on_pushButton_clicked()
-{
-    m_hoofd_scherm->ga_naar(kamer_soort::quinn);
-}
-
-void kamer_garage::on_pushButton_2_clicked()
-{
-    this->ui->pushButton->setHidden(false);
 }

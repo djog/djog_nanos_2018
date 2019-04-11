@@ -1,5 +1,6 @@
 #include "hoofd_scherm.h"
 #include "kamer_daan.h"
+#include "kamer_garage.h"
 #include "kamer_jasper.h"
 #include "kamer_jesper.h"
 #include "kamer_judith.h"
@@ -27,6 +28,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
 
   //Dit moet op alfabet
   ui->kamers->addWidget(new kamer_daan(this, this));
+  ui->kamers->addWidget(new kamer_garage(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
   ui->kamers->addWidget(new kamer_judith(this, this));

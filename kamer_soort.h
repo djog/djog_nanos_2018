@@ -8,6 +8,7 @@
 enum class kamer_soort
 {
   daan,
+  garage,
   jasper,
   jesper,
   judith,

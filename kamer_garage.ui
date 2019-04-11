@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>de garage</string>
+    <string>garage</string>
    </property>
    <property name="pixmap">
     <pixmap>:/plaatjes/win10.png</pixmap>
