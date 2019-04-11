@@ -2,6 +2,8 @@
 #define HOOFD_SCHERM_H
 
 #include "kamer_soort.h"
+#include "voorwerp_soort.h"
+#include <vector>
 #include <QDialog>
 
 namespace Ui {
@@ -16,11 +18,18 @@ public:
   explicit hoofd_scherm(QWidget *parent = 0);
   ~hoofd_scherm();
 
+    bool heeft_voorwerp(const voorwerp_soort /* soort */) const { return true; }
+
   ///Ga naar een kamer
   void ga_naar(const kamer_soort kamer);
 
+  ///De speler heeft een voorwerp gepakt
+  void voeg_voorwerp_toe(const voorwerp_soort voorwerp);
+  void haal_voorwerp_weg(const voorwerp_soort voorwerp);
+
 private slots:
-  void on_spinBox_valueChanged(int arg1);
+  ///De speler speelt vals en teleporteert naar een kamer
+  void on_box_kamer_valueChanged(int arg1);
 
 private:
   Ui::hoofd_scherm *ui;

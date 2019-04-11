@@ -11,10 +11,14 @@ h_files=`ls *.h | egrep -v "^ui_.*\.h$"`
   -c -std=c++14 -fPIE \
   -I/usr/include/c++/6 \
   -I/usr/include/x86_64-linux-gnu/c++/6 \
+  -I/usr/include/qt4 \
+  -I/usr/include/qt4/QtCore \
   -I/usr/include/qt5 \
   -I/usr/include/qt5/QtCore \
   -I/usr/include/qt5/QtGui \
-  -I/usr/include/qt5/QtWidgets 
+  -I/usr/include/qt5/QtWidgets \
+  -I/usr/include/x86_64-linux-gnu/qt5 \
+  -I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
 
 cat oclint.log
 

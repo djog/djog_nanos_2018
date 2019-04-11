@@ -17,6 +17,17 @@ public:
   explicit kamer_quinn(hoofd_scherm * het_hoofd_scherm, QWidget *parent = 0);
   ~kamer_quinn();
 
+private slots:
+
+  void on_knop_n_clicked();
+  void on_knop_nw_clicked();
+
+  void on_knop_o_clicked();
+
+
+
+  void on_pushButton_clicked();
+
 private:
   Ui::kamer_quinn *ui;
 

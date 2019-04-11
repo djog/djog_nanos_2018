@@ -6,56 +6,59 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>620</width>
-    <height>454</height>
+    <width>1291</width>
+    <height>732</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label">
+  <widget class="QLabel" name="label_4">
    <property name="geometry">
     <rect>
-     <x>150</x>
-     <y>140</y>
-     <width>98</width>
-     <height>17</height>
+     <x>860</x>
+     <y>330</y>
+     <width>191</width>
+     <height>131</height>
     </rect>
    </property>
    <property name="text">
-    <string>Daan's kamer</string>
+    <string/>
    </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
+   <property name="pixmap">
+    <pixmap>:/plaatjes/win10.png</pixmap>
    </property>
   </widget>
-  <widget class="QPushButton" name="knop_o">
+  <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>50</y>
-     <width>621</width>
-     <height>61</height>
+     <x>260</x>
+     <y>20</y>
+     <width>16</width>
+     <height>16</height>
     </rect>
    </property>
+   <property name="cursor">
+    <cursorShape>BlankCursor</cursorShape>
+   </property>
    <property name="text">
-    <string>Wat is 1+1?</string>
+    <string/>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
+  <widget class="QPushButton" name="pushButton_2">
    <property name="geometry">
     <rect>
-     <x>27</x>
-     <y>206</y>
-     <width>581</width>
-     <height>201</height>
+     <x>220</x>
+     <y>590</y>
+     <width>93</width>
+     <height>28</height>
     </rect>
    </property>
-   <property name="text">
-    <string>Welkom Bij het spel van djog nanos 2018! kies een kamer!</string>
+   <property name="cursor">
+    <cursorShape>UpArrowCursor</cursorShape>
    </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
+   <property name="text">
+    <string>Daans Kamer</string>
    </property>
   </widget>
  </widget>

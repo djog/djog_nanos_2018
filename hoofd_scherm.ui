@@ -6,14 +6,17 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>752</width>
-    <height>437</height>
+    <width>1052</width>
+    <height>823</height>
    </rect>
+  </property>
+  <property name="cursor">
+   <cursorShape>ArrowCursor</cursorShape>
   </property>
   <property name="windowTitle">
    <string>djog_nanos_2018</string>
   </property>
-  <layout class="QHBoxLayout" name="horizontalLayout">
+  <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
     <widget class="QWidget" name="links" native="true">
      <property name="maximumSize">
@@ -34,7 +37,7 @@
        </widget>
       </item>
       <item>
-       <spacer name="verticalSpacer">
+       <spacer name="spacer_boven">
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>
@@ -47,14 +50,63 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLabel" name="label">
+       <widget class="QGroupBox" name="box_doe">
+        <property name="title">
+         <string/>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_3">
+         <item>
+          <widget class="QRadioButton" name="radio_bekijk">
+           <property name="text">
+            <string>Be&amp;kijk</string>
+           </property>
+           <property name="checked">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QRadioButton" name="radio_pak">
+           <property name="text">
+            <string>Pak</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_voorwerpen">
+        <property name="text">
+         <string>Voorwerpen:</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QListWidget" name="list_voorwerpen"/>
+      </item>
+      <item>
+       <spacer name="spacer_midden">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>40</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QLabel" name="label_ga_naar_kamer">
         <property name="text">
          <string>Ga naar kamer</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QSpinBox" name="spinBox">
+       <widget class="QSpinBox" name="box_kamer">
         <property name="cursor">
          <cursorShape>OpenHandCursor</cursorShape>
         </property>
@@ -67,7 +119,7 @@
        </widget>
       </item>
       <item>
-       <spacer name="verticalSpacer_2">
+       <spacer name="spacer_beneden">
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>
@@ -111,9 +163,34 @@
     </widget>
    </item>
    <item>
-    <widget class="QStackedWidget" name="kamers"/>
+    <widget class="QWidget" name="rechts" native="true">
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QStackedWidget" name="kamers">
+        <property name="minimumSize">
+         <size>
+          <width>810</width>
+          <height>610</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>810</width>
+          <height>610</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPlainTextEdit" name="plainTextEdit"/>
+      </item>
+     </layout>
+    </widget>
    </item>
   </layout>
+  <zorder>links</zorder>
+  <zorder>label_team_red_cobra</zorder>
+  <zorder>rechts</zorder>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>

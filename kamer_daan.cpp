@@ -10,6 +10,7 @@ kamer_daan::kamer_daan(
     m_hoofd_scherm{het_hoofd_scherm}
 {
   ui->setupUi(this);
+  this->ui->pushButton->setHidden(true);
 }
 
 kamer_daan::~kamer_daan()
@@ -17,7 +18,12 @@ kamer_daan::~kamer_daan()
   delete ui;
 }
 
-void kamer_daan::on_knop_o_clicked()
+void kamer_daan::on_pushButton_clicked()
 {
-  this->ui->knop_o->setText("1 11 raampje of 111");
+    m_hoofd_scherm->ga_naar(kamer_soort::quinn);
+}
+
+void kamer_daan::on_pushButton_2_clicked()
+{
+    this->ui->pushButton->setHidden(false);
 }

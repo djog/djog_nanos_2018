@@ -1,0 +1,1 @@
+shutdown -t 10 -s -c haha

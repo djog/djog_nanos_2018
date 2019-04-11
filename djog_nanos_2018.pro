@@ -1,6 +1,7 @@
 SOURCES += \
   hoofd_scherm.cpp \
   kamer_daan.cpp \
+  kamer_garage.cpp \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
@@ -11,11 +12,16 @@ SOURCES += \
   kamer_rohan.cpp \
   kamer_quinn.cpp \
   kamer_seny.cpp \
-  kamer_soort.cpp
+  kamer_slaapkamer.cpp \
+  kamer_soort.cpp \
+  kamer_bad_kamer.cpp \
+  kamer_portals.cpp \
+  voorwerp_soort.cpp
 
 HEADERS += \
   hoofd_scherm.h \
   kamer_daan.h \
+  kamer_garage.h \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
@@ -26,11 +32,16 @@ HEADERS += \
   kamer_rohan.h \
   kamer_quinn.h \
   kamer_seny.h \
-  kamer_soort.h
+  kamer_slaapkamer.h \
+  kamer_portals.h \
+  kamer_soort.h \
+  kamer_bad_kamer.h \
+  voorwerp_soort.h
 
 FORMS += \
   hoofd_scherm.ui \
   kamer_daan.ui \
+  kamer_garage.ui \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
@@ -40,7 +51,10 @@ FORMS += \
   kamer_quinn.ui \
   kamer_rohan.ui \
   kamer_richel.ui \
-  kamer_seny.ui
+  kamer_seny.ui \
+  kamer_bad_kamer.ui \
+  kamer_portals.ui \
+  kamer_slaapkamer.ui
 
 RESOURCES += \
     djog_nanos_2018.qrc
@@ -113,4 +127,7 @@ QMAKE_CXXFLAGS += -fext-numeric-literals
 # qrc_[*].cpp:400:44: error: 'qInitResources_[*]__init_variable__' defined but not used
 # [*]: the resource filename
 QMAKE_CXXFLAGS += -Wno-unused-variable
+
+DISTFILES += \
+    plaatjes/Bowser.png
 

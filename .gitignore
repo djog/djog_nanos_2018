@@ -34,3 +34,8 @@ build-*
 *.pro.user
 *.pro.user.*
 djog_nanos_2018/
+*.orig
+*.autosave
+*.autosave
+oclint-0.10.3/
+oclint-0.10.3-x86_64-linux-3.13.0-74-generic.tar.gz

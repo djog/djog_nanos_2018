@@ -1,69 +1,63 @@
-# Het Verhaal
+# Verhaal
 
-## Personages
+## Intro
 
-Hier de lijst van personages op alfabet:
- 
- * D.A.T.: robot die jou wil vernietigen
- * Fake: een goede vriend die je later in het spel 
-   ontmoet (hij is niet goed bij zijn hoofd, gek dus)
- * Hamburger: je ergste vijandigheid die 86784987 hamburgers per seconde eet 
-   en heel dik is !!! (hij ruikt naar ui, je ontmoet hem in de kamer van Oliver)
- * Illusions: probeert je voor de gek te houden
- * Kulk: een klunsige struikrover
- * Raz: geheimzinnig figuur
+[Introverhaal (dat wat gebeurt voor het spel begint) hier]
 
-## Voorwerpen
+## Begin
 
-Hier de lijst voorwerpen op alfabet:
+Je begint in de slaapkamer van je huis.
 
- * Electriciteits geweer ( nodig voor D.A.T)
- * Sleutel
- * Toverkaart: past zich aan aan waar je geweest bent en laat soms zien waar je naar toe moet
+Je ouders zijn weg.
+Jij moet huiswerk maken, maar wil dit natuurlijk niet.
+Op de deur naar buiten zit een slot.
 
-## Doorloop
+In het huis zijn de volgende kamers:
 
-In het begin sta je in een bos.
-Je vliegtuig is neergestort in de verte zie je een donker kasteel.
+### 1. Je slaapkamer
 
-Het eerste wat je moet vinden is de sleutel
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
 
-De sleutel vind je in ... .
-Daar wordt je aangevallen door Kulk.
+[beschrijf hier wat er gebeurt in deze kamer]
 
-Met de sleutel kom je in het kasteel.
+### 2. [andere kamer]
 
-Als je naar de kelder gaat, komt kort een geheimzinnig figuur langslopen (later blijkt
-dit Raz te zijn)
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
 
-Het tweede wat je moet vinden is een kist met de toverkaart er in
+[beschrijf hier wat er gebeurt in deze kamer]
 
-Nu kun je komen bij de kerkers
+### 3. [andere kamer]
 
-Je kunt al zien dat er ..., maar je kunt er nog niet bij.
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
 
-Als je ... loopt, zie je de geheimzinnige figuur (later blijkt
-dit Raz te zijn) ...
+[beschrijf hier wat er gebeurt in deze kamer]
 
-Dankzij ... kun je nu ...
+### 4. [andere kamer]
 
-Als je deze deur opent, dan zie je recht voor je een lift, 
-en rechts van je een deur.
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
 
-Als je in de lift stapt kun je naar meerdere verdiepingen.
-Ga nog niet naar de hoogste verdieping!
-Ga inplaats daarvan naar de tweede verdieping.
+[beschrijf hier wat er gebeurt in deze kamer]
 
-(Hier kom je Raz weer tegen)
+### 5. [andere kamer]
 
-(hier krijg je het electriciteitsgeweer)
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
 
-Je gaat naar de hoogste verdieping. 
-De lift gaat open en D.A.T. staat tegenover je.
-D.A.T. wil je vernietigen.
-Vernietig D.A.T. met het electriciteits geweer.
+[beschrijf hier wat er gebeurt in deze kamer]
 
-Er gaat een alarm af: het kasteel gaat ontploffen binnen tien minuten.
 
-Tijdens je ontsnapping ontmoet je ....
-... is gewond. 
+
+
+
+## Eindverhaal
+
+[Eindverhaal (dat wat gebeurt als je het spel uitgespeeld hebt) hier]

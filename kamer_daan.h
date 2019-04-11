@@ -19,7 +19,9 @@ public:
 
 private slots:
 
-  void on_knop_o_clicked();
+    void on_pushButton_clicked();
+
+    void on_pushButton_2_clicked();
 
 private:
   Ui::kamer_daan *ui;

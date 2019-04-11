@@ -29,3 +29,21 @@ Engels|Helpt met het vertalen van moeilijk Engels naar Nederlands
 `git` 2|Helpt met `git` branches: het `status-checkout-merge` rondje
 Opstarten|Helpt een nieuw teamlid opstarten
 Project|Helpt met hoe de 'Project' pagina werkt
+UI|'User Interface': hoe het spel eruit ziet
+Verhaal|Bepaalt het verhaal
+
+## Specifieke dingen
+
+Naam|Kan een kamer verbinden?
+---|---
+[Daan](daan/README.md)|Ja
+[Jasper](jasper/README.md)|?
+[Jesper](jesper/README.md)|Ja
+[Judith](judith/README.md)|?
+[Kyrill](kyrill/README.md)|?
+[Mees](mees/README.md)|?
+[Oliver Turner](oliver/README.md)|?
+[Quinn](quinn/README.md)|Ja
+[Richel](richel/README.md)|Ja
+[Rohan](rohan/README.md)|Ja
+[Seny](seny/README.md)|?
