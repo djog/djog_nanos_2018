@@ -1,8 +1,11 @@
 #include "hoofd_scherm.h"
+#include "kamer_bad_kamer.h"
 #include "kamer_daan.h"
+#include "kamer_garage.h"
 #include "kamer_jasper.h"
 #include "kamer_jesper.h"
 #include "kamer_judith.h"
+#include "kamer_kelder.h"
 #include "kamer_kyrill.h"
 #include "kamer_lab.h"
 #include "kamer_mees.h"
@@ -27,10 +30,13 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->setContentsMargins(0, 0, 0, 0);
 
   //Dit moet op alfabet
+  ui->kamers->addWidget(new kamer_bad_kamer(this, this));
   ui->kamers->addWidget(new kamer_daan(this, this));
+  ui->kamers->addWidget(new kamer_garage(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
   ui->kamers->addWidget(new kamer_judith(this, this));
+  ui->kamers->addWidget(new kamer_kelder(this, this));
   ui->kamers->addWidget(new kamer_kyrill(this, this));
   ui->kamers->addWidget(new kamer_lab(this, this));
   ui->kamers->addWidget(new kamer_mees(this, this));
