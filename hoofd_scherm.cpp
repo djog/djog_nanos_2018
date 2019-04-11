@@ -1,4 +1,5 @@
 #include "hoofd_scherm.h"
+#include "kamer_bad_kamer.h"
 #include "kamer_daan.h"
 #include "kamer_garage.h"
 #include "kamer_jasper.h"
@@ -28,6 +29,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->setContentsMargins(0, 0, 0, 0);
 
   //Dit moet op alfabet
+  ui->kamers->addWidget(new kamer_bad_kamer(this, this));
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_garage(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
