@@ -68,22 +68,6 @@
     <string>Mees</string>
    </property>
   </widget>
-  <widget class="QLabel" name="label_2">
-   <property name="geometry">
-    <rect>
-     <x>-10</x>
-     <y>10</y>
-     <width>331</width>
-     <height>721</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/heel erg toppie.png</pixmap>
-   </property>
-  </widget>
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
@@ -98,14 +82,11 @@
    </property>
   </widget>
   <zorder>label</zorder>
-  <zorder>label_2</zorder>
   <zorder>knop_n</zorder>
   <zorder>knop_nw</zorder>
   <zorder>knop_o</zorder>
   <zorder>pushButton</zorder>
  </widget>
- <resources>
-  <include location="djog_nanos_2018.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
