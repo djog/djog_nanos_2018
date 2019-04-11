@@ -1,5 +1,6 @@
 SOURCES += \
   hoofd_scherm.cpp \
+  kamer_bad_kamer.cpp \
   kamer_daan.cpp \
   kamer_garage.cpp \
   kamer_jasper.cpp \
@@ -14,12 +15,12 @@ SOURCES += \
   kamer_seny.cpp \
   kamer_slaapkamer.cpp \
   kamer_soort.cpp \
-  kamer_bad_kamer.cpp \
   kamer_portals.cpp \
   voorwerp_soort.cpp
 
 HEADERS += \
   hoofd_scherm.h \
+  kamer_bad_kamer.h \
   kamer_daan.h \
   kamer_garage.h \
   kamer_jasper.h \
@@ -35,11 +36,11 @@ HEADERS += \
   kamer_slaapkamer.h \
   kamer_portals.h \
   kamer_soort.h \
-  kamer_bad_kamer.h \
   voorwerp_soort.h
 
 FORMS += \
   hoofd_scherm.ui \
+  kamer_bad_kamer.ui \
   kamer_daan.ui \
   kamer_garage.ui \
   kamer_jasper.ui \
@@ -52,7 +53,6 @@ FORMS += \
   kamer_rohan.ui \
   kamer_richel.ui \
   kamer_seny.ui \
-  kamer_bad_kamer.ui \
   kamer_portals.ui \
   kamer_slaapkamer.ui
 

@@ -1,4 +1,5 @@
 #include "hoofd_scherm.h"
+#include "kamer_bad_kamer.h"
 #include "kamer_daan.h"
 #include "kamer_garage.h"
 #include "kamer_jasper.h"
@@ -12,7 +13,6 @@
 #include "kamer_rohan.h"
 #include "kamer_seny.h"
 #include "kamer_slaapkamer.h"
-#include "kamer_bad_kamer.h"
 #include "ui_hoofd_scherm.h"
 
 #include <cassert>
