@@ -87,8 +87,8 @@
   <widget class="QDial" name="burostoel">
    <property name="geometry">
     <rect>
-     <x>280</x>
-     <y>30</y>
+     <x>260</x>
+     <y>20</y>
      <width>41</width>
      <height>64</height>
     </rect>
