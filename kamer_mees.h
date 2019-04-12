@@ -25,8 +25,6 @@ private slots:
 
     void on_pushButton_clicked();
 
-    void on_horizontalSlider_rangeChanged(int min, int max);
-
 private:
   Ui::kamer_mees *ui;
 
