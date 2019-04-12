@@ -1,18 +1,18 @@
-#include "kamer_garage.h"
-#include "ui_kamer_garage.h"
+#include "kamer_kelder.h"
+#include "ui_kamer_kelder.h"
 #include "hoofd_scherm.h"
 
-kamer_garage::kamer_garage(
+kamer_kelder::kamer_kelder(
   hoofd_scherm * het_hoofd_scherm,
   QWidget *parent
 ) : QWidget(parent),
-    ui(new Ui::kamer_garage),
+    ui(new Ui::kamer_kelder),
     m_hoofd_scherm{het_hoofd_scherm}
 {
   ui->setupUi(this);
 }
 
-kamer_garage::~kamer_garage()
+kamer_kelder::~kamer_kelder()
 {
   delete ui;
 }

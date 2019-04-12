@@ -1,11 +1,14 @@
 SOURCES += \
   hoofd_scherm.cpp \
+  kamer_bad_kamer.cpp \
   kamer_daan.cpp \
   kamer_garage.cpp \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
+  kamer_kelder.cpp \
   kamer_kyrill.cpp \
+  kamer_lab.cpp \
   kamer_mees.cpp \
   kamer_oliver.cpp \
   kamer_richel.cpp \
@@ -14,18 +17,20 @@ SOURCES += \
   kamer_seny.cpp \
   kamer_slaapkamer.cpp \
   kamer_soort.cpp \
-  kamer_bad_kamer.cpp \
   kamer_portals.cpp \
   voorwerp_soort.cpp
 
 HEADERS += \
   hoofd_scherm.h \
+  kamer_bad_kamer.h \
   kamer_daan.h \
   kamer_garage.h \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
+  kamer_kelder.h \
   kamer_kyrill.h\
+  kamer_lab.h \
   kamer_mees.h \
   kamer_oliver.h \
   kamer_richel.h \
@@ -35,24 +40,25 @@ HEADERS += \
   kamer_slaapkamer.h \
   kamer_portals.h \
   kamer_soort.h \
-  kamer_bad_kamer.h \
   voorwerp_soort.h
 
 FORMS += \
   hoofd_scherm.ui \
+  kamer_bad_kamer.ui \
   kamer_daan.ui \
   kamer_garage.ui \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
+  kamer_kelder.ui \
   kamer_kyrill.ui \
+  kamer_lab.ui \
   kamer_mees.ui \
   kamer_oliver.ui \
   kamer_quinn.ui \
   kamer_rohan.ui \
   kamer_richel.ui \
   kamer_seny.ui \
-  kamer_bad_kamer.ui \
   kamer_portals.ui \
   kamer_slaapkamer.ui
 
@@ -68,7 +74,9 @@ QMAKE_CXXFLAGS += -std=c++14
 
 # High warning levels
 # SFML goes bad with -Weffc++
-QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -Werror
+QMAKE_CXXFLAGS += -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic
+
+# -Werror
 
 unix:!macx {
   # Fix error: unrecognized option '--push-state--no-as-needed'
