@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>kamer_kyrill</class>
- <widget class="QWidget" name="kamer_kyrill">
+ <class>kamer_kelder</class>
+ <widget class="QWidget" name="kamer_kelder">
   <property name="geometry">
    <rect>
     <x>0</x>
