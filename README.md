@@ -42,12 +42,15 @@ een steampunk thema.
 
  * :warning: Kamernamen staan op alfabet
 
-Kamernaam |Programmeur|Graphics|Verhaal
-----------|-----------|--------|-------
-Badkamer  |           |        |
-Garage    |           |        |
-Slaapkamer|           |        |
-?         |           |        |
+Kamernaam               |Programmeur|Verhaal||Graphics
+------------------------|-----------|--------|-------
+Badkamer                | :boom:    | -      | -
+Garage                  | :boom:    | -      | -
+Hal                     | ?         | ?      | ?
+Kelder                  | :boom:    | -      | -
+Laboratorium (in kelder)| ?         | ?      | ?
+Slaapkamer (van jezelf) | ?         | ?      | ?
+Slaapkamer (van ouders) | ?         | ?      | ?
 
  * Programmeur: programmeert de kamer
  * Graphics: teken het achtergrondplaatje en voorwerpen
