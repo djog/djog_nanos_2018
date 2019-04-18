@@ -14,49 +14,73 @@ Op de deur naar buiten zit een slot.
 
 In het huis zijn de volgende kamers:
 
-### 1. Je slaapkamer
+Hal                     | ?         | ?      | ?
+Laboratorium (in kelder)| ?         | ?      | ?
+Slaapkamer (van jezelf) | ?         | ?      | ?
+Slaapkamer (van ouders) | ?         | ?      | ?
+
+
+### 1. De hal
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
  * Graphics door: [naam]
 
-[beschrijf hier wat er gebeurt in deze kamer]
+Vanuit de hal kun je gaan naar:
 
-### 2. [andere kamer]
+ * buiten, via de deur
+ * jouw slaapkamer, via een trap naar boven
+ * de slaapkamer van je ouders, via een trap naar boven
+ * het laboratorium in de kelder, via een trap naar onder
 
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+In de hal zijn een robot en een deur naar buiten.
+Om de deur te openen, heb je een code nodig.
+De robot kun je uitschakelen met foto (?hoe?) of hamer.
+In de robot zit een batterij en een code (?van de deur?).
 
-[beschrijf hier wat er gebeurt in deze kamer]
-
-### 3. [andere kamer]
-
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
-
-[beschrijf hier wat er gebeurt in deze kamer]
-
-### 4. [andere kamer]
+### 2. Laboratorium (in kelder)
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
  * Graphics door: [naam]
 
-[beschrijf hier wat er gebeurt in deze kamer]
+Vanuit het laboratorium kun je gaan naar:
 
-### 5. [andere kamer]
+ * de hal, via een trap naar boven
+
+In het laboratorium (in de kelder) ligt een boormachine.
+Pak de boormachine.
+De boormachine is leeg: er zitten geen batterijen in  
+
+### 3. Slaapkamer van jezelf
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
  * Graphics door: [naam]
 
-[beschrijf hier wat er gebeurt in deze kamer]
+Vanuit je slaapkamer kun je gaan naar:
 
+ * de hal, via een trap naar onder
 
+In je slaapkamer staat een bureau.
+Het bureau heeft een la, die open kan.
+In de la van het bureau ligt een pot lijm.
+Pak de lijm.
 
+### 4. Slaapkamer van je ouders
 
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
+
+Vanuit de slaapkamer van je ouders kun je gaan naar:
+
+ * de hal, via een trap naar onder
+
+In de slaapkamer van je ouder zit een verborgen ... .
+Klik op ... om de verborgen ... te openen.
+In de verborgen ... zit een foto. 
+Pak de foto.
 
 ## Eindverhaal
 
