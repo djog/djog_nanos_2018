@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Kyrill's kamer</string>
+    <string>kelder</string>
    </property>
    <property name="alignment">
     <set>Qt::AlignCenter</set>
@@ -53,22 +53,6 @@
    </property>
    <property name="text">
     <string/>
-   </property>
-  </widget>
-  <widget class="QLabel" name="label_2">
-   <property name="geometry">
-    <rect>
-     <x>220</x>
-     <y>30</y>
-     <width>721</width>
-     <height>681</height>
-    </rect>
-   </property>
-   <property name="text">
-    <string/>
-   </property>
-   <property name="pixmap">
-    <pixmap>plaatjes/it is wednesday my dudes.jpg</pixmap>
    </property>
   </widget>
  </widget>
