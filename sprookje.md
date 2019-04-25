@@ -1,12 +1,10 @@
 <<<<<<< HEAD
-hallo eindey was het leukeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee pauze
-=======
+hallo eindey was het leuke pauze
 
-hallo eindey was het leukeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee pauze
+hallo eindey was het leuke pauze
  Sprookje
 
-er was een een rode laars de rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjesde rode laarsjes
-lalalalalalallalalala
+er was een een rode laarsjes
 mooi sprookj
 Er was eens
 een groot mannetje, hij werd de reuzendwerg genoemd haha
@@ -81,8 +79,8 @@ boeman: moehaha
 # Het Einde
 er wass ens un drak die hel liev wass
  ur wass ok 1 krokodill die ok heeel lief wass
-enn ur wass ok 1 krokodill die ok heeel lief wasssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-wand ur wass oook 1 slangngngn ssssssssssssssssssssssssssssissssssssssssssssssisisisisisisisisisisisiissss
+enn ur wass ok 1 krokodill die ok heeel lief wassssssssssssssssssssssssssssss
+wand ur wass oook 1 slangngngn sssssssssis
 Still wand iek will slaapun
 eieieieieindu
 

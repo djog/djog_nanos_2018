@@ -79,8 +79,8 @@ Vanuit de slaapkamer van je ouders kun je gaan naar:
 
 In de slaapkamer van je ouder zit een verborgen ... .
 Klik op ... om de verborgen ... te openen.
-In de verborgen ... zit een foto. 
-Pak de foto.
+In de verborgen ... zit een tekenning. 
+Pak de tekenning.
 
 ## Eindverhaal
 
