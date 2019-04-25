@@ -22,9 +22,9 @@ Slaapkamer (van ouders) | ?         | ?      | ?
 
 ### 1. De hal
 
- * Verhaal door: [judith]
+ * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
- * Graphics door: [judith]
+ * Graphics door: [naam]
 
 Vanuit de hal kun je gaan naar:
 
@@ -69,9 +69,9 @@ Pak de lijm.
 
 ### 4. Slaapkamer van je ouders
 
- * Verhaal door: [naam]
+ * Verhaal door: [judith]
  * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+ * Graphics door: [judith]
 
 Vanuit de slaapkamer van je ouders kun je gaan naar:
 
