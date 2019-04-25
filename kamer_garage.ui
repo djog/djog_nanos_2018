@@ -13,23 +13,42 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QLabel" name="label_4">
+  <widget class="QLabel" name="garage">
    <property name="geometry">
     <rect>
-     <x>440</x>
-     <y>320</y>
-     <width>71</width>
-     <height>21</height>
+     <x>-390</x>
+     <y>-200</y>
+     <width>1461</width>
+     <height>1101</height>
     </rect>
    </property>
    <property name="text">
-    <string>garage</string>
+    <string/>
+   </property>
+   <property name="textFormat">
+    <enum>Qt::AutoText</enum>
    </property>
    <property name="pixmap">
-    <pixmap>:/plaatjes/win10.png</pixmap>
+    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/garage.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="geheime_deur_2">
+   <property name="geometry">
+    <rect>
+     <x>1150</x>
+     <y>160</y>
+     <width>89</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>geheime 
+deur</string>
    </property>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
  <connections/>
 </ui>

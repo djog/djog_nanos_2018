@@ -20,5 +20,7 @@
         <file>plaatjes/slaapkamer_x.jpg</file>
         <file>plaatjes/slaapkamer_y.jpg</file>
         <file>plaatjes/slaapkamer_z.jpg</file>
+        <file>plaatjes/garage.png</file>
+        <file>plaatjes/garage_2.png</file>
     </qresource>
 </RCC>
