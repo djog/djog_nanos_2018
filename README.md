@@ -42,7 +42,7 @@ een steampunk thema.
 
  * :warning: Kamernamen staan op alfabet
 
-Kamernaam               |Programmeur|Verhaal||Graphics
+Kamernaam               |Programmeur|Verhaal |Graphics
 ------------------------|-----------|--------|-------
 Badkamer                | :boom:    | -      | -
 Garage                  | :boom:    | -      | -
