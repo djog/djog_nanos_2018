@@ -22,9 +22,9 @@ Slaapkamer (van ouders) | ?         | ?      | ?
 
 ### 1. De hal
 
- * Verhaal door: [naam]
+ * Verhaal door: [judith]
  * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+ * Graphics door: [judith]
 
 Vanuit de hal kun je gaan naar:
 
