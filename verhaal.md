@@ -14,13 +14,27 @@ Op de deur naar buiten zit een slot.
 
 In het huis zijn de volgende kamers:
 
-Hal                     | ?         | ?      | ?
-Laboratorium (in kelder)| ?         | ?      | ?
-Slaapkamer (van jezelf) | ?         | ?      | ?
-Slaapkamer (van ouders) | ?         | ?      | ?
+Kamer                   |Verhaal    | Programmeur | Graphics
+------------------------|-----------|-------------|---------
+Garage                  | ?         | ?           | ?
+Hal                     | ?         | ?           | ?
+Laboratorium (in kelder)| ?         | ?           | ?
+Slaapkamer (van jezelf) | ?         | ?           | ?
+Slaapkamer (van ouders) | ?         | ?           | ?
 
+### 1. De garage
 
-### 1. De hal
+ * Verhaal door: [naam]
+ * Geprogrammeerd door: [naam]
+ * Graphics door: [naam]
+
+Vanuit de garage kun je gaan naar:
+
+ * ?
+
+In de garage zijn ?
+
+### 2. De hal
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
@@ -38,7 +52,7 @@ Om de deur te openen, heb je een code nodig.
 De robot kun je uitschakelen met foto (?hoe?) of hamer.
 In de robot zit een batterij en een code (?van de deur?).
 
-### 2. Laboratorium (in kelder)
+### 3. Laboratorium (in kelder)
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
@@ -52,7 +66,7 @@ In het laboratorium (in de kelder) ligt een boormachine.
 Pak de boormachine.
 De boormachine is leeg: er zitten geen batterijen in  
 
-### 3. Slaapkamer van jezelf
+### 4. Slaapkamer van jezelf
 
  * Verhaal door: [naam]
  * Geprogrammeerd door: [naam]
@@ -67,11 +81,11 @@ Het bureau heeft een la, die open kan.
 In de la van het bureau ligt een pot lijm.
 Pak de lijm.
 
-### 4. Slaapkamer van je ouders
+### 5. Slaapkamer van je ouders
 
- * Verhaal door: [judith]
+ * Verhaal door: @judithbonga
  * Geprogrammeerd door: [naam]
- * Graphics door: [judith]
+ * Graphics door: @judithbonga
 
 Vanuit de slaapkamer van je ouders kun je gaan naar:
 
