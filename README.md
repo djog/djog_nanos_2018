@@ -38,6 +38,10 @@ een steampunk thema.
   * [team](team/README.md)
   * [video's](doc/videos.md)
 
+## Kamers
+
+Staan in [verhaal.md](verhaal.md).
+
 ## Plaatjes
 
 Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
