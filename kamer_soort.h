@@ -23,4 +23,6 @@ enum class kamer_soort
   slaapkamer
 };
 
+void test_kamer_soort();
+
 #endif // KAMER_SOORT_H
