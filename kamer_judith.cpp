@@ -10,6 +10,7 @@ kamer_judith::kamer_judith(
     m_hoofd_scherm{het_hoofd_scherm}
 {
   ui->setupUi(this);
+  this ->ui ->pushButton->setHidden(false);
 }
 
 kamer_judith::~kamer_judith()
@@ -20,4 +21,9 @@ kamer_judith::~kamer_judith()
 void kamer_judith::on_pushButton_clicked()
 {
    this->ui->pushButton->setText("haal me uit deze computer!");
+}
+
+void kamer_judith::on_pushButton_2_clicked()
+{
+    this ->ui ->pushButton->setHidden(false);
 }

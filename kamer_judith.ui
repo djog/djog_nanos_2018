@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1023</width>
-    <height>443</height>
+    <width>1314</width>
+    <height>660</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,8 +16,8 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>160</x>
-     <y>30</y>
+     <x>180</x>
+     <y>0</y>
      <width>98</width>
      <height>17</height>
     </rect>
@@ -32,8 +32,8 @@
   <widget class="QPushButton" name="knop_w">
    <property name="geometry">
     <rect>
-     <x>10</x>
-     <y>70</y>
+     <x>30</x>
+     <y>40</y>
      <width>89</width>
      <height>25</height>
     </rect>
@@ -45,8 +45,8 @@
   <widget class="QPushButton" name="knop_z">
    <property name="geometry">
     <rect>
-     <x>320</x>
-     <y>280</y>
+     <x>340</x>
+     <y>250</y>
      <width>89</width>
      <height>25</height>
     </rect>
@@ -58,8 +58,8 @@
   <widget class="QPushButton" name="pushButton">
    <property name="geometry">
     <rect>
-     <x>300</x>
-     <y>80</y>
+     <x>320</x>
+     <y>50</y>
      <width>211</width>
      <height>28</height>
     </rect>
@@ -71,8 +71,8 @@
   <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>110</y>
+     <x>20</x>
+     <y>80</y>
      <width>341</width>
      <height>231</height>
     </rect>
@@ -82,6 +82,32 @@
    </property>
    <property name="pixmap">
     <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/Bowser.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>170</y>
+     <width>91</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>buraeu</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>450</y>
+     <width>41</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>PushButton</string>
    </property>
   </widget>
  </widget>
