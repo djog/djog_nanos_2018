@@ -38,24 +38,6 @@ een steampunk thema.
   * [team](team/README.md)
   * [video's](doc/videos.md)
 
-## Kamers
-
- * :warning: Kamernamen staan op alfabet
-
-Kamernaam               |Programmeur|Verhaal |Graphics
-------------------------|-----------|--------|-------
-Badkamer                | :boom:    | -      | -
-Garage                  | :boom:    | -      | -
-Hal                     | ?         | ?      | ?
-Kelder                  | :boom:    | -      | -
-Laboratorium (in kelder)| ?         | ?      | ?
-Slaapkamer (van jezelf) | ?         | ?      | ?
-Slaapkamer (van ouders) | ?         | ?      | ?
-
- * Programmeur: programmeert de kamer
- * Graphics: teken het achtergrondplaatje en voorwerpen
- * Verhaal: bepaal het verhaal in de kamer
-
 ## Plaatjes
 
 Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.

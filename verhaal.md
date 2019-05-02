@@ -12,15 +12,25 @@ Je ouders zijn weg.
 Jij moet huiswerk maken, maar wil dit natuurlijk niet.
 Op de deur naar buiten zit een slot.
 
+## Kamers
+
 In het huis zijn de volgende kamers:
 
-Kamer                   |Verhaal    | Programmeur | Graphics
-------------------------|-----------|-------------|---------
-Garage                  | ?         | ?           | ?
-Hal                     | ?         | ?           | ?
-Laboratorium (in kelder)| ?         | ?           | ?
-Slaapkamer (van jezelf) | ?         | ?           | ?
-Slaapkamer (van ouders) | ?         | ?           | ?
+ * :warning: Kamernamen staan op alfabet
+
+Kamernaam               |Programmeur|   Verhaal  |Graphics
+------------------------|-----------|------------|-------------
+Badkamer                | :boom:    | -          | -
+Garage                  | ?         | -          | -
+Hal                     | ?         | ?          | ?
+Kelder                  | :boom:    | -          | -
+Laboratorium (in kelder)| ?         | ?          | ?
+Slaapkamer (van jezelf) | ?         | ?          | ?
+Slaapkamer (van ouders) | ?         |@judithbonga|@judithbonga
+
+ * Programmeur: programmeert de kamer
+ * Graphics: teken het achtergrondplaatje en voorwerpen
+ * Verhaal: bepaal het verhaal in de kamer
 
 ### 1. De garage
 
