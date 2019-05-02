@@ -1,7 +1,531 @@
-oke
+                                         
 
 
 
+
+
+                                       
+                                                 ( O                         O )
+
+                                                (               I              )
+                                                                _
+
+
+                                                               {  }
+                                                                00
+                                                                 I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ik b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
+ik ben mees
 
 
 
