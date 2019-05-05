@@ -20,7 +20,8 @@ enum class kamer_soort
   richel,
   rohan,
   seny,
-  slaapkamer
+  slaapkamer,
+  slaapkamer_ouders
 };
 
 void test_kamer_soort();

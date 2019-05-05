@@ -2,6 +2,7 @@
 #include "kamer_bad_kamer.h"
 #include "kamer_daan.h"
 #include "kamer_garage.h"
+#include "kamer_hal.h"
 #include "kamer_jasper.h"
 #include "kamer_jesper.h"
 #include "kamer_judith.h"
@@ -15,6 +16,7 @@
 #include "kamer_rohan.h"
 #include "kamer_seny.h"
 #include "kamer_slaapkamer.h"
+#include "kamer_slaapkamer_ouders.h"
 #include "ui_hoofd_scherm.h"
 
 #include <cassert>
@@ -33,6 +35,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_bad_kamer(this, this));
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_garage(this, this));
+  ui->kamers->addWidget(new kamer_hal(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
   ui->kamers->addWidget(new kamer_judith(this, this));
@@ -46,6 +49,7 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->addWidget(new kamer_rohan(this, this));
   ui->kamers->addWidget(new kamer_seny(this, this));
   ui->kamers->addWidget(new kamer_slaapkamer(this, this));
+  ui->kamers->addWidget(new kamer_slaapkamer_ouders(this, this));
   ga_naar(kamer_soort::slaapkamer);
 }
 
