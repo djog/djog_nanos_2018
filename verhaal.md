@@ -18,15 +18,15 @@ In het huis zijn de volgende kamers:
 
  * :warning: Kamernamen staan op alfabet
 
-Kamernaam               |Programmeur|   Verhaal  |Graphics
-------------------------|-----------|------------|-------------
-Badkamer                | :boom:    | -          | -
-Garage                  | ?         | -          | -
-Hal                     | ?         | ?          | ?
-Kelder                  | :boom:    | -          | -
-Laboratorium (in kelder)| ?         | ?          | ?
-Slaapkamer (van jezelf) | ?         | ?          | ?
-Slaapkamer (van ouders) | ?         |@judithbonga|@judithbonga
+Kamernaam               |Programmeur       |   Verhaal  |Graphics
+------------------------|------------------|------------|-------------
+Badkamer                | :boom:           | -          | -
+Garage                  | ?@jesperdoekes   | -          | ?@jesperdoekes
+Hal                     | ?                | ?          | ?
+Kelder                  | :boom:           | -          | -
+Laboratorium (in kelder)| ?                | ?          | ?
+Slaapkamer (van jezelf) | ?                | ?          | ?
+Slaapkamer (van ouders) | ?                |@judithbonga|@judithbonga
 
  * Programmeur: programmeert de kamer
  * Graphics: teken het achtergrondplaatje en voorwerpen
