@@ -66,6 +66,18 @@ void hoofd_scherm::laat_kamer_zien()
   ui->kamers->setCurrentIndex(static_cast<int>(m_kamer));
 }
 
+void hoofd_scherm::laat_tekst_zien(const QString& tekst)
+{
+  ui->tekst->setPlainText(tekst);
+}
+
+actie_soort hoofd_scherm::lees_actie_soort() const
+{
+  if (ui->radio_bekijk->isChecked()) return actie_soort::bekijk;
+  if (ui->radio_pak->isChecked()) return actie_soort::pak;
+  assert(!"Hee, er is een nieuwe QRadioButton! Voeg deze hier toe");
+}
+
 void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
 {
   m_kamer = static_cast<kamer_soort>(arg1);
@@ -79,11 +91,14 @@ void hoofd_scherm::voeg_voorwerp_toe(const voorwerp_soort voorwerp)
 
 void hoofd_scherm::haal_voorwerp_weg(const voorwerp_soort voorwerp)
 {
-    QList<QListWidgetItem*> items = ui->list_voorwerpen->findItems(QString::fromStdString(als_woord(voorwerp)), Qt::MatchExactly);
+  QList<QListWidgetItem*> items = ui->list_voorwerpen->findItems(
+    QString::fromStdString(als_woord(voorwerp)),
+    Qt::MatchExactly
+  );
 
-    foreach(QListWidgetItem * item, items)
-    {
-        ui->list_voorwerpen->removeItemWidget(item);
-        delete item;
-    }
+  foreach(QListWidgetItem * item, items)
+  {
+    ui->list_voorwerpen->removeItemWidget(item);
+    delete item;
+  }
 }

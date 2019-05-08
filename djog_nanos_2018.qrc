@@ -22,5 +22,6 @@
         <file>plaatjes/slaapkamer_z.jpg</file>
         <file>plaatjes/garage.png</file>
         <file>plaatjes/garage_2.png</file>
+        <file>plaatjes/spiegel.jpg</file>
     </qresource>
 </RCC>

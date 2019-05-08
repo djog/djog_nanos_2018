@@ -50,9 +50,9 @@
        </spacer>
       </item>
       <item>
-       <widget class="QGroupBox" name="box_doe">
+       <widget class="QGroupBox" name="box_actie_soort">
         <property name="title">
-         <string/>
+         <string>Actie</string>
         </property>
         <layout class="QVBoxLayout" name="verticalLayout_3">
          <item>
@@ -83,7 +83,16 @@
        </widget>
       </item>
       <item>
-       <widget class="QListWidget" name="list_voorwerpen"/>
+       <widget class="QListWidget" name="list_voorwerpen">
+        <property name="font">
+         <font>
+          <family>Courier</family>
+          <pointsize>20</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+       </widget>
       </item>
       <item>
        <spacer name="spacer_midden">
@@ -182,15 +191,21 @@
        </widget>
       </item>
       <item>
-       <widget class="QPlainTextEdit" name="plainTextEdit"/>
+       <widget class="QPlainTextEdit" name="tekst">
+        <property name="font">
+         <font>
+          <family>Courier</family>
+          <pointsize>20</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+       </widget>
       </item>
      </layout>
     </widget>
    </item>
   </layout>
-  <zorder>links</zorder>
-  <zorder>label_team_red_cobra</zorder>
-  <zorder>rechts</zorder>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
