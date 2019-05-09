@@ -59,3 +59,4 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 ## Links
 
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
+
