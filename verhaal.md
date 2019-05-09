@@ -18,15 +18,15 @@ In het huis zijn de volgende kamers:
 
  * :warning: Kamernamen staan op alfabet
 
-Kamernaam               |Programmeur|   Verhaal  |Graphics
-------------------------|-----------|------------|-------------
-Badkamer                | :boom:    | -          | -
-Garage                  | ?         | -          | -
-Hal                     | ?         | ?          | ?
-Kelder                  | :boom:    | -          | -
-Laboratorium (in kelder)| ?         | ?          | ?
-Slaapkamer (van jezelf) | ?         | ?          | ?
-Slaapkamer (van ouders) | ?         |@judithbonga|@judithbonga
+Kamernaam               |Programmeur       |   Verhaal  |Graphics
+------------------------|------------------|------------|-------------
+Badkamer                | :boom:           | -          | -
+Garage                  | ?@jesperdoekes   | -          | ?@jesperdoekes
+Hal                     | ?                | ?          | ?
+Kelder                  | :boom:           | -          | -
+Laboratorium (in kelder)| ?                | ?          | ?
+Slaapkamer (van jezelf) | ?                | ?          | ?
+Slaapkamer (van ouders) | ?                |@judithbonga|@judithbonga
 
  * Programmeur: programmeert de kamer
  * Graphics: teken het achtergrondplaatje en voorwerpen
@@ -102,7 +102,8 @@ Vanuit de slaapkamer van je ouders kun je gaan naar:
  * de hal, via een trap naar onder
 
 In de slaapkamer van je ouder zit een verborgen ...en pacman stoelen.
-Klik op ... om de verborgen ... te openen.klik op één van de stoelen om een vraag te beantwoorden.
+Klik op ... om de verborgen ... te openen. Klik op een van de 
+stoelen om een vraag te beantwoorden.
 In de verborgen ... zit een tekenning. heb je de vraag beantwoord krijg je een .... . 
 Pak de tekenning. 
 

@@ -18,13 +18,9 @@ public:
   ~kamer_richel();
 
 private slots:
-  void on_knop_zo_clicked();
 
-  void on_knop_n_clicked();
-
-  void on_knop_w_clicked();
-
-  void on_knop_spiegel_clicked();
+  ///Dit gebeurt er als de muis wordt ingedrukt
+  void mousePressEvent(QMouseEvent *event);
 
 private:
   Ui::kamer_richel *ui;
