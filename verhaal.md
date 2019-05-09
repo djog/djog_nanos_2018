@@ -102,7 +102,8 @@ Vanuit de slaapkamer van je ouders kun je gaan naar:
  * de hal, via een trap naar onder
 
 In de slaapkamer van je ouder zit een verborgen ...en pacman stoelen.
-Klik op ... om de verborgen ... te openen.klik op één van de stoelen om een vraag te beantwoorden.
+Klik op ... om de verborgen ... te openen. Klik op een van de 
+stoelen om een vraag te beantwoorden.
 In de verborgen ... zit een tekenning. heb je de vraag beantwoord krijg je een .... . 
 Pak de tekenning. 
 
