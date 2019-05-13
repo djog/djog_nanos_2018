@@ -6,6 +6,7 @@
 ::fBE1pAF6MU+EWHreyHcjLQlHcCOHPnmvD74Z+tTf6vmMtkINaMU2bIfO2KeyJOoc7XrqdJgixUUIyJpUMA9dfx+Xag41p1Jlv3DFH8KQowrzdlic6kd+CG0U
 ::fBE1pAF6MU+EWHreyHcjLQlHcCOHPnmvD74Z+tTf6vmMtkINaMU2bIfO2KeyJOoc7XrqdJgixUUIyJpUMA9dfx+Xag41p1Jlv3DFH8KQowrzdlic9UN+CG0U
 ::fBE1pAF6MU+EWHreyHcjLQlHcCOHPnmvD74Z+tTf6vmMtkINaMU2bIfO2KeyJOoc7XrqdJgixUUIyJpUMA9dfx+Xag41p1Jlv3DFH8KQowrzdluA4UU5FStnjwM=
+::fBE1pAF6MU+EWHreyHcjLQlHcCOHPnmvD74Z+tTf6vmMtkINaMU2bIfO2KeyJOoc7XrqdJgixUUIyJpUMBhUexOlaQYgoWtOpmGXecWdp28=
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=
 ::YAwzuBVtJxjWCl3EqQJgSA==
@@ -32,7 +33,7 @@
 ::ZQ0/vhVqMQ3MEVWAtB9wSA==
 ::Zg8zqx1/OA3MEVWAtB9wSA==
 ::dhA7pRFwIByZRRnk
-::Zh4grVQjdCyDJGyX8VAjFDxRThaXNWC/FIk47fvw++WXnmoUQOoqepzn3r6BJ98d60vrZql/hisCpOwFGFtwex67ax10+jxgv3DLMt+Z0w==
+::Zh4grVQjdCyDJGyX8VAjFDxRThaXNWC/FIk47fvw++WXnmoUQOoqepzn3r6BJ98d60vrZql/hisCpOwFGFtwex67ax16rHZH1g==
 ::YB416Ek+ZG8=
 ::
 ::
@@ -67,15 +68,18 @@ echo 2. Update/Pull
 echo 3. Upload/Push
 echo 4. Open Git Bash (BETA)
 echo 5. DANGER ZONE
-echo 6. EXIT
+echo 6. EXIT&Clean
 set /p option=Option: 
 if %option% == 1 goto signin
 if %option% == 2 goto pull
 if %option% == 3 goto push
 if %option% == 4 goto openbash
 if %option% == 5 goto warningdangerzone
-if %option% == 6 exit
+if %option% == 6 goto clean
 goto english
+:clean
+start cleangithelper.bat
+exit
 :signin
 start signin.sh
 if %lang% == 1 goto dutch
