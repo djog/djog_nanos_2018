@@ -14,8 +14,11 @@ if %option% == 2 goto pull
 if %option% == 3 goto push
 if %option% == 4 goto openbash
 if %option% == 5 goto warningdangerzone
-if %option% == 6 exit
+if %option% == 6 goto stop
 goto english
+:stop
+start cleangithelper.bat
+exit
 :signin
 start signin.sh
 goto home
