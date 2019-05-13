@@ -1,4 +1,5 @@
 SOURCES += \
+  actie_soort.cpp \
   hoofd_scherm.cpp \
   kamer_bad_kamer.cpp \
   kamer_daan.cpp \
@@ -20,6 +21,7 @@ SOURCES += \
   voorwerp_soort.cpp
 
 HEADERS += \
+  actie_soort.h \
   hoofd_scherm.h \
   kamer_bad_kamer.h \
   kamer_daan.h \
@@ -38,7 +40,7 @@ HEADERS += \
   kamer_slaapkamer.h \
   kamer_portals.h \
   kamer_soort.h \
-  voorwerp_soort.h
+  voorwerp_soort.h \
 
 FORMS += \
   hoofd_scherm.ui \
@@ -126,13 +128,11 @@ QMAKE_CXXFLAGS += -Wno-unused-variable
 #/usr/include/boost/math/constants/constants.hpp:277: error: unable to find numeric literal operator 'operator""Q'
 #   BOOST_DEFINE_MATH_CONSTANT(half, 5.000000000000000000000000000000000000e-01, "5.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000e-01")
 #   ^
-QMAKE_CXXFLAGS += -fext-numeric-literals
+g++{
+  QMAKE_CXXFLAGS += -fext-numeric-literals
+}
 
 # Prevent Qt for failing with this error:
 # qrc_[*].cpp:400:44: error: 'qInitResources_[*]__init_variable__' defined but not used
 # [*]: the resource filename
 QMAKE_CXXFLAGS += -Wno-unused-variable
-
-DISTFILES += \
-    plaatjes/Bowser.png
-

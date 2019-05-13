@@ -2,7 +2,9 @@
 #define HOOFD_SCHERM_H
 
 #include "kamer_soort.h"
+#include "actie_soort.h"
 #include "voorwerp_soort.h"
+
 #include <vector>
 #include <QDialog>
 
@@ -18,13 +20,25 @@ public:
   explicit hoofd_scherm(QWidget *parent = 0);
   ~hoofd_scherm();
 
-    bool heeft_voorwerp(const voorwerp_soort /* soort */) const { return true; }
+  ///Heeft de speler een bepaald voorwerp in zijn/haar bezit?
+  bool heeft_voorwerp(const voorwerp_soort /* soort */) const { return true; }
+
+  ///Laat een tekst zien. Bijvoorbeeld, als een speler een deur wil pakken,
+  ///laat dat in tekst zien dat dat niet kan
+  void laat_tekst_zien(const QString & tekst);
+
+  ///Lees de actie die de speler wil doen
+  actie_soort lees_actie_soort() const;
 
   ///Ga naar een kamer
   void ga_naar(const kamer_soort kamer);
 
   ///De speler heeft een voorwerp gepakt
+  ///en heeft nu dat voorwerp in bezit
   void voeg_voorwerp_toe(const voorwerp_soort voorwerp);
+
+  ///De speler heeft een voorwerp verbruikt, weggegooid, etc.
+  ///en dus niet meer in bezit
   void haal_voorwerp_weg(const voorwerp_soort voorwerp);
 
 private slots:
