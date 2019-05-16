@@ -44,6 +44,7 @@ title Git Helper - Loading
 echo Loading...
 running = 1
 ping localhost nul
+timeout /t 02
 cls
 title Git Helper
 :langchoose
@@ -68,7 +69,7 @@ echo 2. Update/Pull
 echo 3. Upload/Push
 echo 4. Open Git Bash (BETA)
 echo 5. DANGER ZONE
-echo 6. EXIT&Clean
+echo 6. EXIT Clean
 set /p option=Option: 
 if %option% == 1 goto signin
 if %option% == 2 goto pull
