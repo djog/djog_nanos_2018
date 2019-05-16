@@ -127,3 +127,4 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 ## Links
 
  * [Dojo](https://github.com/richelbilderbeek/Dojo)
+ * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
