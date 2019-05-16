@@ -76,6 +76,7 @@ actie_soort hoofd_scherm::lees_actie_soort() const
   if (ui->radio_bekijk->isChecked()) return actie_soort::bekijk;
   if (ui->radio_pak->isChecked()) return actie_soort::pak;
   assert(!"Hee, er is een nieuwe QRadioButton! Voeg deze hier toe");
+  return actie_soort::pak;
 }
 
 void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
