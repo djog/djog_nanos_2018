@@ -4,7 +4,7 @@
 
 Meest recente bovenaan
 
-Datum     |YouTube|MP4
+Datum     |YouTube|Download
 ----------|---|---
 2019-05-31|[hier](https://youtu.be/lPoANBtn4Tc)|[here](http://richelbilderbeek.nl/djog_nanos_2018_hoe_werkt_de_code.ogv)
 
@@ -12,7 +12,7 @@ Datum     |YouTube|MP4
 
 Meest recente bovenaan
 
-Datum     |YouTube|MP4
+Datum     |YouTube|Download
 ----------|---|---
 2019-03-23|[hier](https://youtu.be/iQFhbYMsdIQ)|[here](http://richelbilderbeek.nl/djog_nanos_20190323.ogv)
 2019-02-23|[hier](https://youtu.be/Jqp0DI38j7o)|[here](http://richelbilderbeek.nl/djog_nanos_20190223.ogv)
