@@ -1,5 +1,13 @@
 # Video's
 
+## Lesmateriaal
+
+Meest recente bovenaan
+
+Date|YouTube|MP4
+---|---|---
+2019-05-31|[hier](https://youtu.be/lPoANBtn4Tc)|[here](http://richelbilderbeek.nl/djog_nanos_2018_hoe_werkt_de_code.ogv)
+
 ## Voortgang aan de game
 
 Meest recente bovenaan
