@@ -1,6 +1,8 @@
 #ifndef KAMER_SOORT_H
 #define KAMER_SOORT_H
 
+#include <string>
+
 /// De soorten kamers.
 /// Kamers met de naam van een programmeur zijn oefenkamers
 ///
@@ -24,6 +26,9 @@ enum class kamer_soort
   slaapkamer,
   slaapkamer_ouders
 };
+
+///Vertaal de kamer_soort naar een woord
+std::string als_woord(const kamer_soort k);
 
 void test_kamer_soort();
 

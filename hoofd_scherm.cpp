@@ -82,6 +82,7 @@ actie_soort hoofd_scherm::lees_actie_soort() const
 void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
 {
   m_kamer = static_cast<kamer_soort>(arg1);
+  ui->label_kamer->setText(QString::fromStdString(als_woord(m_kamer)));
   laat_kamer_zien();
 }
 
