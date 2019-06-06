@@ -7,12 +7,12 @@ Op voornaam, op alfabet:
 
 Naam|GitHub naam|Taken
 ---|---|---
-[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Junior dev
+[Daan](daan/README.md)|[@daantje1](https://github.com/daantje1)|Senior dev
 [Jasper](jasper/README.md)|[@Brainlab009](https://github.com/Brainlab009)|Junior dev
-[Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Junior dev
+[Jesper](jesper/README.md)|[@jesperdoekes](https://github.com/jesperdoekes)|Medior dev
 [Judith](judith/README.md)|[@judithbonga](https://github.com/judithbonga)|Junior dev
 [Kyrill](kyrill/README.md)|[@RedKnife47](https://github.com/RedKnife47)|Junior dev
-[Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Juniors dev, opstarten
+[Mees](mees/README.md)|[@mixmastermees](https://github.com/mixmastermees)|Medior dev, opstarten
 [Oliver Turner](oliver/README.md)|[@ollyturner](https://github.com/ollyturner)|Junior dev, Engels
 [Quinn](quinn/README.md)|[@QuintinoM2](https://github.com/QuintinoM2)|Junior dev, git 1
 [Richel](richel/README.md)|[@richelbilderbeek](https://github.com/richelbilderbeek)|Senior dev
