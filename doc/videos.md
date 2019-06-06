@@ -6,7 +6,7 @@ Meest recente bovenaan
 
 Datum     |YouTube|Download
 ----------|---|---
-2019-05-31|[hier](https://youtu.be/lPoANBtn4Tc)|[hier](http://richelbilderbeek.nl/djog_nanos_2018_hoe_werkt_de_code.ogv)
+Hoe werkt de code?|[hier](https://youtu.be/lPoANBtn4Tc)|[hier](http://richelbilderbeek.nl/djog_nanos_2018_hoe_werkt_de_code.ogv)
 
 ## Voortgang aan de game
 
