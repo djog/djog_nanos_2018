@@ -1,19 +1,19 @@
-                                         
+DIT = EEN LUL                                         
 
 
 
 
 
                                        
-                                                 ( O                         O )
+                                                         ( OOOOOOOOOOO )
 
-                                                (               I              )
+                                                            (OOOOOOO)
                                                                 _
-
-
+                                                               IIII
+                                                                II
                                                                {  }
                                                                 00
-                                                                 I 
+                                                               	I 
 
 
 
