@@ -66,7 +66,7 @@ Bruno  |Junior dev, graphics
 Daan   |Medior dev
 Jasper |Junior dev
 Jesper |Medior dev
-Jonas  |Medior dev, graphics
+Jonas  |Junior dev, graphics
 Judith |Junior dev
 Kyrill |Junior dev
 Mees   |Medior dev, opstarten
