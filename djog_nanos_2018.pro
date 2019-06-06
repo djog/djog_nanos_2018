@@ -4,6 +4,7 @@ SOURCES += \
   kamer_bad_kamer.cpp \
   kamer_daan.cpp \
   kamer_garage.cpp \
+  kamer_hal.cpp \
   kamer_jasper.cpp \
   kamer_jesper.cpp \
   kamer_judith.cpp \
@@ -16,6 +17,7 @@ SOURCES += \
   kamer_quinn.cpp \
   kamer_seny.cpp \
   kamer_slaapkamer.cpp \
+  kamer_slaapkamer_ouders.cpp \
   kamer_soort.cpp \
   kamer_portals.cpp \
   voorwerp_soort.cpp
@@ -26,6 +28,7 @@ HEADERS += \
   kamer_bad_kamer.h \
   kamer_daan.h \
   kamer_garage.h \
+  kamer_hal.h \
   kamer_jasper.h \
   kamer_jesper.h \
   kamer_judith.h \
@@ -38,6 +41,7 @@ HEADERS += \
   kamer_quinn.h \
   kamer_seny.h \
   kamer_slaapkamer.h \
+  kamer_slaapkamer_ouders.h \
   kamer_portals.h \
   kamer_soort.h \
   voorwerp_soort.h \
@@ -47,6 +51,7 @@ FORMS += \
   kamer_bad_kamer.ui \
   kamer_daan.ui \
   kamer_garage.ui \
+  kamer_hal.ui \
   kamer_jasper.ui \
   kamer_jesper.ui \
   kamer_judith.ui \
@@ -59,7 +64,8 @@ FORMS += \
   kamer_richel.ui \
   kamer_seny.ui \
   kamer_portals.ui \
-  kamer_slaapkamer.ui
+  kamer_slaapkamer.ui \
+  kamer_slaapkamer_ouders.ui
 
 RESOURCES += \
     djog_nanos_2018.qrc
