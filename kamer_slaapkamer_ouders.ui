@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>kamer_slaapkamer</class>
- <widget class="QWidget" name="kamer_slaapkamer">
+ <class>kamer_slaapkamer_ouders</class>
+ <widget class="QWidget" name="kamer_slaapkamer_ouders">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -29,8 +29,6 @@
    </item>
   </layout>
  </widget>
- <resources>
-  <include location="djog_nanos_2018.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
