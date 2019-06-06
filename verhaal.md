@@ -1,96 +1,78 @@
 # Verhaal
 
+#Verhaal
+
 ## Intro
 
-[Introverhaal (dat wat gebeurt voor het spel begint) hier]
+[Intro-verhaal (wat gebeurt er voordat de game begint) hier]
 
 ## Begin
 
 Je begint in de slaapkamer van je huis.
 
-Je ouders zijn weg.
-Jij moet huiswerk maken, maar wil dit natuurlijk niet.
-Op de deur naar buiten zit een slot.
+Je ouders zijn wetenschappers en ze zijn op werk.
+Je wilt ontdekken wat ze doen.
+Er is een slot op de deur naar buiten.
+er is een zipline in de buurt van je raam, maar je hebt iets nodig om je aan vast te houden.
+en in de kelder is er een boor waarmee je de muur in de kelder kunt boren en naar buiten kunt gaan, maar de boor heeft baterijen nodig.
 
-## Kamers
-
-:warning: zie [team/README.md](team/README.md) wie over wat de baas is :warning:
+## Rooms
 
 ### 1. De garage
 
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+Vanuit de garage kun je naar:
+woonkamer (hal) via een trap naar boven
+In de garage zijn?
+hamer om de robot uit te zetten.
+### 2. De hal / woonkamer
+* Verhaal door: [naam]
+* Geprogrammeerd door: [naam]
+* Afbeeldingen door: [naam]
 
-Vanuit de garage kun je gaan naar:
+Vanuit de hal kun je naar:
 
- * ?
+* buiten, door de deur
+* uw slaapkamer, via een trap naar de top
+* de slaapkamer van je ouders, via een trap
+* het laboratorium in de kelder, via een trap naar beneden
+* De garage via trappen naar beneden
 
-In de garage zijn ?
-
-### 2. De hal
-
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
-
-Vanuit de hal kun je gaan naar:
-
- * buiten, via de deur
- * jouw slaapkamer, via een trap naar boven
- * de slaapkamer van je ouders, via een trap naar boven
- * het laboratorium in de kelder, via een trap naar onder
-
-In de hal zijn een robot en een deur naar buiten.
+In de hal is er een robot en een deur naar buiten.
 Om de deur te openen, heb je een code nodig.
-De robot kun je uitschakelen met foto (?hoe?) of hamer.
-In de robot zit een batterij en een code (?van de deur?).
+De robot kan worden uitgeschakeld met een foto van je moeder (waarmee je gezichtsherkenning kunt gebruiken om toegang te krijgen tot de robot) of met een hamer.
+De robot heeft een batterij en een code (de code die je kunt uitwerken en gebruiken in de deur en de batterij kan de boor inschakelen en dan kun je door de kelder naar buiten gaan).
 
-### 3. Laboratorium (in kelder)
+### 3. Laboratorium (in de kelder)
 
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+Vanuit het laboratorium kun je naar:
 
-Vanuit het laboratorium kun je gaan naar:
+* de hal, via een trap
 
- * de hal, via een trap naar boven
+Er is een boormachine in het laboratorium (in de kelder).
+Doe de oefening.
+De boor is leeg: er zitten geen batterijen in
 
-In het laboratorium (in de kelder) ligt een boormachine.
-Pak de boormachine.
-De boormachine is leeg: er zitten geen batterijen in  
+### 4. Je eigen slaapkamer
 
-### 4. Slaapkamer van jezelf
+Vanuit je slaapkamer kun je naar:
 
- * Verhaal door: [naam]
- * Geprogrammeerd door: [naam]
- * Graphics door: [naam]
+* de hal, via een trap naar beneden
 
-Vanuit je slaapkamer kun je gaan naar:
+Er is een bureau in uw slaapkamer.
+Het bureau heeft een lade die kan worden geopend.
+Er zit een pot lijm in de bureaulade.
+Verkrijg de lijm.
 
- * de hal, via een trap naar onder
+### 5. De slaapkamer van je ouders
 
-In je slaapkamer staat een bureau.
-Het bureau heeft een la, die open kan.
-In de la van het bureau ligt een pot lijm.
-Pak de lijm.
+Vanuit de slaapkamer van je ouders kun je naar:
 
-### 5. Slaapkamer van je ouders
+* de hal, via een trap naar beneden
 
- * Verhaal door: @judithbonga
- * Geprogrammeerd door: [naam]
- * Graphics door: @judithbonga
+Er is een verborgen ... en pacman-stoel in de slaapkamer van je ouders.
+Klik op ... om de verborgen ... Klik op een van de
+stoelen om een ??vraag te beantwoorden.
+Een tekening is verborgen ... je hebt de vraag beantwoord die je krijgt ...
+Neem de tekening.
 
-Vanuit de slaapkamer van je ouders kun je gaan naar:
-
- * de hal, via een trap naar onder
-
-In de slaapkamer van je ouder zit een verborgen ...en pacman stoelen.
-Klik op ... om de verborgen ... te openen. Klik op een van de 
-stoelen om een vraag te beantwoorden.
-In de verborgen ... zit een tekenning. heb je de vraag beantwoord krijg je een .... . 
-Pak de tekenning. 
-
-## Eindverhaal
-
-[Eindverhaal (dat wat gebeurt als je het spel uitgespeeld hebt) hier]
+## Laatste verhaal
