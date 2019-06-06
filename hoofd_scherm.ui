@@ -16,6 +16,12 @@
   <property name="windowTitle">
    <string>djog_nanos_2018</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+  background-image: url(:/plaatjes/achtergrond.jpg);
+  background-repeat: repeat-xy;
+}</string>
+  </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
     <widget class="QWidget" name="links" native="true">
@@ -29,7 +35,7 @@
       <item>
        <widget class="QLabel" name="label_djog_nanos_2018">
         <property name="text">
-         <string>djog_nanos_2018</string>
+         <string>Team Red Cobra</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignCenter</set>

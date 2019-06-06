@@ -20,5 +20,6 @@
         <file>plaatjes/garage.png</file>
         <file>plaatjes/garage_2.png</file>
         <file>plaatjes/spiegel.jpg</file>
+        <file>plaatjes/achtergrond.jpg</file>
     </qresource>
 </RCC>

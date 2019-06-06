@@ -116,6 +116,8 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 
 ## Voortgang
 
+![](plaatjes/20190606.png)
+
 ![](plaatjes/20190322.png)
 
 ![](plaatjes/20190222.png)
@@ -126,9 +128,6 @@ Plaatjes moeten precies 800 pixels breed en 600 pixels hoog zijn.
 
 ## Links
 
- * [Dojo](https://github.com/richelbilderbeek/Dojo)
-<<<<<<< HEAD
-
-=======
  * [C++ voor jonge tieners](https://github.com/richelbilderbeek/cpp_voor_jonge_tieners)
->>>>>>> develop
+ * [Dojo](https://github.com/richelbilderbeek/Dojo)
+ * [git voor jonge tieners](https://github.com/richelbilderbeek/git_voor_jonge_tieners)
