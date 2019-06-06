@@ -1,7 +1,6 @@
 SOURCES += \
   actie_soort.cpp \
   hoofd_scherm.cpp \
-  kamer_bad_kamer.cpp \
   kamer_daan.cpp \
   kamer_garage.cpp \
   kamer_hal.cpp \
@@ -25,7 +24,6 @@ SOURCES += \
 HEADERS += \
   actie_soort.h \
   hoofd_scherm.h \
-  kamer_bad_kamer.h \
   kamer_daan.h \
   kamer_garage.h \
   kamer_hal.h \
@@ -48,7 +46,6 @@ HEADERS += \
 
 FORMS += \
   hoofd_scherm.ui \
-  kamer_bad_kamer.ui \
   kamer_daan.ui \
   kamer_garage.ui \
   kamer_hal.ui \

@@ -9,10 +9,12 @@ enum class kamer_soort
 {
   daan,
   garage,
+  hal,
   jasper,
   jesper,
   judith,
   kyrill,
+  lab,
   mees,
   oliver,
   quinn,
