@@ -1,5 +1,4 @@
 #include "hoofd_scherm.h"
-#include "kamer_bad_kamer.h"
 #include "kamer_daan.h"
 #include "kamer_garage.h"
 #include "kamer_hal.h"
@@ -31,15 +30,12 @@ hoofd_scherm::hoofd_scherm(QWidget *parent) :
   ui->kamers->setContentsMargins(0, 0, 0, 0);
 
   //Dit moet op alfabet
-  ui->kamers->addWidget(new kamer_bad_kamer(this, this));
   ui->kamers->addWidget(new kamer_daan(this, this));
   ui->kamers->addWidget(new kamer_garage(this, this));
   ui->kamers->addWidget(new kamer_hal(this, this));
   ui->kamers->addWidget(new kamer_jasper(this, this));
   ui->kamers->addWidget(new kamer_jesper(this, this));
   ui->kamers->addWidget(new kamer_judith(this, this));
-
-
   ui->kamers->addWidget(new kamer_kyrill(this, this));
   ui->kamers->addWidget(new kamer_lab(this, this));
   ui->kamers->addWidget(new kamer_mees(this, this));
@@ -80,11 +76,13 @@ actie_soort hoofd_scherm::lees_actie_soort() const
   if (ui->radio_bekijk->isChecked()) return actie_soort::bekijk;
   if (ui->radio_pak->isChecked()) return actie_soort::pak;
   assert(!"Hee, er is een nieuwe QRadioButton! Voeg deze hier toe");
+  return actie_soort::pak;
 }
 
 void hoofd_scherm::on_box_kamer_valueChanged(int arg1)
 {
   m_kamer = static_cast<kamer_soort>(arg1);
+  ui->label_kamer->setText(QString::fromStdString(als_woord(m_kamer)));
   laat_kamer_zien();
 }
 

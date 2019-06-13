@@ -14,23 +14,7 @@ Op de deur naar buiten zit een slot.
 
 ## Kamers
 
-In het huis zijn de volgende kamers:
-
- * :warning: Kamernamen staan op alfabet
-
-Kamernaam               |Programmeur       |   Verhaal  |Graphics
-------------------------|------------------|------------|-------------
-Badkamer                | :boom:           | -          | -
-Garage                  | ?@jesperdoekes   | -          | ?@jesperdoekes
-Hal                     | ?                | ?          | ?
-Kelder                  | :boom:           | -          | -
-Laboratorium (in kelder)| ?                | ?          | ?
-Slaapkamer (van jezelf) | ?                | ?          | ?
-Slaapkamer (van ouders) | ?                |@judithbonga|@judithbonga
-
- * Programmeur: programmeert de kamer
- * Graphics: teken het achtergrondplaatje en voorwerpen
- * Verhaal: bepaal het verhaal in de kamer
+:warning: zie [team/README.md](team/README.md) wie over wat de baas is :warning:
 
 ### 1. De garage
 
@@ -97,7 +81,7 @@ Pak de lijm.
  * Geprogrammeerd door: [naam]
  * Graphics door: @judithbonga
 
-Vanuit de slaapkamer van je ouders kun je gaan naar:
+Vanuit de slaapkamer van jouw ouders kun je gaan naar:
 
  * de hal, via een trap naar onder
 
