@@ -81,7 +81,7 @@ Pak de lijm.
  * Geprogrammeerd door: [naam]
  * Graphics door: @judithbonga
 
-Vanuit de slaapkamer van je ouders kun je gaan naar:
+Vanuit de slaapkamer van jouw ouders kun je gaan naar:
 
  * de hal, via een trap naar onder
 
