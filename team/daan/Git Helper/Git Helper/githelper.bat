@@ -37,18 +37,15 @@ echo 2. Update/Pull
 echo 3. Upload/Push
 echo 4. Open Git Bash (BETA)
 echo 5. DANGER ZONE
-echo 6. EXIT Clean
+echo 6. EXIT
 set /p option=Option: 
 if %option% == 1 goto signin
 if %option% == 2 goto pull
 if %option% == 3 goto push
 if %option% == 4 goto openbash
 if %option% == 5 goto warningdangerzone
-if %option% == 6 goto clean
+if %option% == 6 exit
 goto english
-:clean
-start cleangithelper.bat
-exit
 :signin
 start signin.sh
 if %lang% == 1 goto dutch
