@@ -89,7 +89,7 @@ void kamer_jesper::on_deur_knop_released()
 void kamer_jesper::on_deur_clicked()
 {
     if (deur_open) {
-        this->m_hoofd_scherm->ga_naar(kamer_soort::jesper);
+        this->m_hoofd_scherm->ga_naar(kamer_soort::jasper);
         this->ui->deur_knop_hint->setHidden(true);
     }
 }
