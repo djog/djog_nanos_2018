@@ -2,7 +2,7 @@
 
 #include <cassert>
 
-std::string als_woord(const kamer_soort k)
+std::string als_woord(const kamer_soort k) //!OCLINT dit is inderdaad een ingewikkelde functie
 {
   switch (k)
   {
