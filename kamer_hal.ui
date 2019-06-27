@@ -26,7 +26,37 @@
     <string>hal</string>
    </property>
   </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>-280</x>
+     <y>30</y>
+     <width>1941</width>
+     <height>1101</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>1941</width>
+     <height>1101</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>1941</width>
+     <height>1101</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="djog_nanos_2018.qrc">:/plaatjes/CIMG0637.JPG</pixmap>
+   </property>
+  </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="djog_nanos_2018.qrc"/>
+ </resources>
  <connections/>
 </ui>
