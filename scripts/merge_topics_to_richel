@@ -2,7 +2,9 @@
 git checkout richel
 git pull
 
-for branch in bruno daan jasper jesper jonas judith kyrill mees oliver quinn richel rohan seny 
+
+
+for branch in $(git branch --list --all | egrep remotes  | egrep -v HEAD | cut -d "/" -f 3)
 do
   git checkout $branch
   git pull
