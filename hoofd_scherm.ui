@@ -16,6 +16,12 @@
   <property name="windowTitle">
    <string>djog_nanos_2018</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+  background-image: url(:/plaatjes/achtergrond.jpg);
+  background-repeat: repeat-xy;
+}</string>
+  </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <item>
     <widget class="QWidget" name="links" native="true">
@@ -29,7 +35,7 @@
       <item>
        <widget class="QLabel" name="label_djog_nanos_2018">
         <property name="text">
-         <string>djog_nanos_2018</string>
+         <string>Team Red Cobra</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignCenter</set>
@@ -108,23 +114,42 @@
        </spacer>
       </item>
       <item>
-       <widget class="QLabel" name="label_ga_naar_kamer">
-        <property name="text">
-         <string>Ga naar kamer</string>
+       <widget class="QGroupBox" name="box_cheat_mode">
+        <property name="title">
+         <string>Cheat mode</string>
         </property>
-       </widget>
-      </item>
-      <item>
-       <widget class="QSpinBox" name="box_kamer">
-        <property name="cursor">
-         <cursorShape>OpenHandCursor</cursorShape>
-        </property>
-        <property name="buttonSymbols">
-         <enum>QAbstractSpinBox::PlusMinus</enum>
-        </property>
-        <property name="correctionMode">
-         <enum>QAbstractSpinBox::CorrectToNearestValue</enum>
-        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_4">
+         <item>
+          <widget class="QLabel" name="label_ga_naar_kamer">
+           <property name="text">
+            <string>Ga naar kamer</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QSpinBox" name="box_kamer">
+           <property name="cursor">
+            <cursorShape>OpenHandCursor</cursorShape>
+           </property>
+           <property name="buttonSymbols">
+            <enum>QAbstractSpinBox::PlusMinus</enum>
+           </property>
+           <property name="correctionMode">
+            <enum>QAbstractSpinBox::CorrectToNearestValue</enum>
+           </property>
+           <property name="maximum">
+            <number>15</number>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_kamer">
+           <property name="text">
+            <string>[naam van kamer]</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
        </widget>
       </item>
       <item>

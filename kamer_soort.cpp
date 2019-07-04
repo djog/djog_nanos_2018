@@ -1,25 +1,42 @@
 #include "kamer_soort.h"
 
+#include <cassert>
+
+std::string als_woord(const kamer_soort k)
+{
+  switch (k)
+  {
+    case kamer_soort::daan: return "daan";
+    case kamer_soort::garage: return "garage";
+    case kamer_soort::hal:  return "hal";
+    case kamer_soort::jasper: return "jasper";
+    case kamer_soort::jesper: return "jesper";
+    case kamer_soort::judith: return "judith";
+    case kamer_soort::kyrill: return "kyrill";
+    case kamer_soort::lab: return "lab";
+    case kamer_soort::mees: return "mees";
+    case kamer_soort::oliver: return "oliver";
+    case kamer_soort::quinn: return "quinn";
+    case kamer_soort::richel: return "richel";
+    case kamer_soort::rohan: return "rohan";
+    case kamer_soort::seny: return "seny";
+    case kamer_soort::slaapkamer: return "slaapkamer";
+    default:
+      //Als je deze foutmelding krijgt, dan staat jouw nieuwe kamer
+      //niet in het rijtje hierboven
+      assert(k == kamer_soort::slaapkamer_ouders);
+      return "slaapkamer_ouders";
+  }
+}
+
 void test_kamer_soort()
 {
   //Alle kamers van het huis bestaan
   {
     static_assert(kamer_soort::garage, "");
-    //#define MAAK_ISSUE_82
-    #ifdef MAAK_ISSUE_82
     static_assert(kamer_soort::hal, "");
-    #endif // MAAK_ISSUE_82
-
-    //#define MAAK_ISSUE_83
-    #ifdef MAAK_ISSUE_83
     static_assert(kamer_soort::lab, "");
-    #endif // MAAK_ISSUE_83
-
     static_assert(kamer_soort::slaapkamer, "");
-
-    //#define MAAK_ISSUE_84
-    #ifdef MAAK_ISSUE_84
     static_assert(kamer_soort::slaapkamer_ouders, "");
-    #endif // MAAK_ISSUE_84
   }
 }
