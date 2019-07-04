@@ -3,6 +3,7 @@
 Alle teamleden hebben een eigen folder 
 voor hun eigen code en aantekeningen.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 Op voornaam, op alfabet:
@@ -50,3 +51,5 @@ Naam|Kan een kamer verbinden?
 [Rohan](rohan/README.md)|Ja
 [Seny](seny/README.md)|?
 >>>>>>> daan
+=======
+>>>>>>> 8a6fdd8ecaf08e2bcf040e115cdd153dcc5f8e8a

@@ -109,11 +109,6 @@ CONFIG(debug, debug|release) {
 
     # helgrind, for helgrind and memcheck
     QMAKE_LFLAGS += -pthread -Wl,--no-as-needed
-
-    # UBSAN
-    QMAKE_CXXFLAGS += -fsanitize=undefined
-    QMAKE_LFLAGS += -fsanitize=undefined
-    LIBS += -lubsan
   }
 }
 

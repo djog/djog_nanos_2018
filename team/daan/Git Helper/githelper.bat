@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ::[Bat To Exe Converter]
 ::
 ::fBE1pAF6MU+EWHreyHcjLQlHcCOHPnmvD74Z+tTf6vmMtkINaMU2bIfO2KeyJOoc7XrqdJgixUUIyJpUMA9dfx+Xag41p1Jlv3DFH8KQowrzdkqI9UN+CG0U
@@ -41,16 +42,21 @@
 ::978f952a14a936cc963da21a135fa983
 =======
 >>>>>>> daan
+=======
+>>>>>>> 8a6fdd8ecaf08e2bcf040e115cdd153dcc5f8e8a
 --- loading
 echo on
 title Git Helper - Loading
 echo Loading...
+<<<<<<< HEAD
 <<<<<<< HEAD
 running = 1
 ping localhost nul
 timeout /t 02
 =======
 >>>>>>> daan
+=======
+>>>>>>> 8a6fdd8ecaf08e2bcf040e115cdd153dcc5f8e8a
 cls
 @echo off
 title Git Helper

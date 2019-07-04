@@ -2,7 +2,7 @@
 
 #include <cassert>
 
-std::string als_woord(const kamer_soort k)
+std::string als_woord(const kamer_soort k) //!OCLINT dit is inderdaad een ingewikkelde functie
 {
   switch (k)
   {
@@ -33,10 +33,10 @@ void test_kamer_soort()
 {
   //Alle kamers van het huis bestaan
   {
-    static_assert(kamer_soort::garage, "");
-    static_assert(kamer_soort::hal, "");
-    static_assert(kamer_soort::lab, "");
-    static_assert(kamer_soort::slaapkamer, "");
-    static_assert(kamer_soort::slaapkamer_ouders, "");
+    static_assert(static_cast<bool>(kamer_soort::garage), "");
+    static_assert(static_cast<bool>(kamer_soort::hal), "");
+    static_assert(static_cast<bool>(kamer_soort::lab), "");
+    static_assert(static_cast<bool>(kamer_soort::slaapkamer), "");
+    static_assert(static_cast<bool>(kamer_soort::slaapkamer_ouders), "");
   }
 }
