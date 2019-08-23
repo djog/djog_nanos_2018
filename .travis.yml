@@ -1,12 +1,11 @@
 language: cpp
-dist: xenial
+dist: bionic
 compiler: gcc
 
-addons: 
-  apt: 
-    packages: libboost-all-dev
-
 install: 
+  - sudo apt update -qq
+  # Boost
+  - sudo apt install -qq libboost-all-dev
   # Qt5
   - sudo apt-get install -qq qt5-qmake qt5-default
   # cppcheck
@@ -28,8 +27,8 @@ script:
   # cppcheck
   - cppcheck --error-exitcode=1 . 
   # Get code coverage
-  - ./get_code_cov
-  - codecov
+  - ./get_code_cov >/dev/null
+  - codecov >/dev/null
   # Call OCLint
   - ./do_oclint
 
